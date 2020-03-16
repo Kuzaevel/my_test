@@ -1,0 +1,44 @@
+
+
+Яндекс токен
+
+
+
+
+Yandex_Cloud begin:
+https://cloud.yandex.ru/docs/cli/quickstart#install
+
+
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://storage.yandexcloud.net/yandexcloud-yc/install.ps1'))" && SET "PATH=%PATH%;%USERPROFILE%\yandex-cloud\bin"
+
+
+$path = 'myfolder/myimage.png';
+$type = pathinfo($path, PATHINFO_EXTENSION);
+$data = file_get_contents($path);
+$base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
+echo $base64;
+
+
+penguins_sample.jpg
+
+
+php echo base64_encode(file_get_contents('penguins_sample.jpg')) > output1.txt
+
+
+Важнейшее:
+
+https://github.com/yandex-cloud/docs/blob/master/ru/vision/operations/ocr/text-detection.md
+
+
+
+
+Тарифы:
+https://cloud.yandex.ru/docs/vision/pricing
+
+
+
+https://cloud.yandex.ru/prices
+
+
+
+https://rabota-vo.ru/rabota-s-tekstami/onlayn-servisi-dlya-besplatnogo-raspoznavaniya-teksta.html

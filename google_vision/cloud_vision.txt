@@ -1,0 +1,78 @@
+1. создание сервисного аккаунта:
+	a) через веб-сервис
+		https://console.cloud.google.com/apis/credentials/serviceaccountkey?hl=ru&project=bamboo-research-252706&folder&organizationId
+		
+		set GOOGLE_APPLICATION_CREDENTIALS="C:\Users\kuziaev.er\Desktop\google_cloud\My First Project-2b13fb083481.json"
+		set GOOGLE_APPLICATION_CREDENTIALS="C:\Users\kuziaev.er\Desktop\google_cloud\My First Project-39de67f3f6d7.json"
+	
+	b) локально, если стоит sdk
+	gcloud iam service-accounts create vision-quickstart --project bamboo-research-252706
+	gcloud iam service-accounts keys create key.json --iam-account vision-quickstart@bamboo-research-252706.iam.gserviceaccount.com
+	export GOOGLE_APPLICATION_CREDENTIALS=key.json
+
+
+Before trying this sample, follow the PHP setup instructions in the Vision Quickstart Using Client Libraries. (https://cloud.google.com/vision/docs/quickstart-client-libraries?hl=ru)
+For more information, see the Vision PHP API reference documentation. (https://googleapis.github.io/google-cloud-php/#/docs/latest/vision/visionclient)
+
+	
+Документация: 
+https://cloud.google.com/vision/docs/ocr?hl=ru
+https://googleapis.github.io/google-cloud-php/#/docs/google-cloud/v0.126.0/vision/visionclient
+
+
+Пример:
+https://cloud.google.com/vision/docs/ocr?apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcloud-samples-data%2Fvision%2Focr%2Fsign.jpg%22%7D%7D%7D%5D%7D%7D#vision_text_detection-python
+
+
+PHP документация:
+https://cloud.google.com/vision/docs/quickstart-client-libraries?hl=ru
+
+
+Api ресурсы :
+https://console.cloud.google.com/apis/credentials?project=bamboo-research-252706&hl=ru
+
+	
+Интро туториал:	
+https://habr.com/ru/post/425075/
+
+
+PowerShell:
+https://console.cloud.google.com/getting-started?walkthrough_tutorial_id=python_vision_quickstart&cloudshell=true	
+	
+	
+Last:
+https://cloud.google.com/docs/authentication/production	
+https://cloud.google.com/storage/docs/reference/libraries
+
+https://googleapis.github.io/google-cloud-php/#/docs/google-cloud/v0.126.0/vision/readme
+
+
+
+	
+	
+Vision docs:
+https://cloud.google.com/vision/docs/quickstart-client-libraries?hl=ru
+
+https://console.cloud.google.com/apis/api/vision.googleapis.com/quotas?project=bamboo-research-252706&duration=PT1H
+
+
+Samplas:
+https://github.com/GoogleCloudPlatform/
+
+
+https://cloud.google.com/vision/docs/reference/rest?hl=ru
+
+https://github.com/Kuzaevel/test_detect_goovision.git
+
+
+
+https://googleapis.github.io/google-cloud-php/#/
+
+https://googleapis.github.io/google-cloud-php/#/docs/google-cloud/v0.101.1/vision/image
+
+
+
+
+
+
+https://cloud.google.com/vision/docs/ocr?apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcloud-samples-data%2Fvision%2Focr%2Fsign.jpg%22%7D%7D%7D%5D%7D%7D#vision_text_detection-python

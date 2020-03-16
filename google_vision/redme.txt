@@ -1,0 +1,6 @@
+composer require google/cloud-vision
+
+https://cloud.google.com/vision/docs/quickstart?hl=ru
+
+https://googleapis.github.io/google-cloud-php/#/docs/google-cloud/v0.126.0/vision/
+
