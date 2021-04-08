@@ -1,0 +1,2119 @@
+button;;buton
+Оригинал;Перевод;
+Change;Изменить;
+Send;Отправить;
+company;;
+Оригинал;Перевод;
+Account&nbsp;Счет&nbsp;
+Accounts;Счета;
+Back to homepage;Вернуться на главную;
+Choose the account from which you wish to participate in the promotion;Выберите счет, с которого желаете участвовать в акции.;
+Start date;Дата начала;
+End date;Дата окончания;
+Department;Отдел компании;
+Complaints department;Отдел рассмотрения жалоб;
+Client Relations Department;Отдел по работе с клиентами;
+Description;Краткое описание;
+Financial service;Финансовая служба;
+I do not know where to send a message;Я не знаю, куда следует направить сообщение;
+Image;Изображение;Resim
+Link to a document;Ссылка на документ;Bir belgeye ba?lant?
+Message;Сообщение;Mesaj  
+Message has been sent;Сообщение было отправлено;mesaj g?nderildi
+Name;Название;?sim 
+PDF format;PDF формат;PDF bi?imi
+Page not found;Страница не найдена;sayfa bulunamad?
+Participation in the promotion from the account;Участие в акции со счета;Promosyona hesaptan kat?l?m
+Participate;Участвовать;Kat?l
+Promotion;Акция;Promosyon
+Registration;Регистрация;Kay?t
+Send;Отправить;G?nder
+Sent from;Отправлено от;Den g?nderildi
+Technical service;Техническая служба;Teknik servis
+Text;Текст;Metin
+Title;Заголовок;Ba?l?k
+View;Просмотр;G?r?n?m
+You are already participated in the promotion;Вы уже участвуете в акции;Zaten promosyona kat?ld?n?z
+crm;;crm
+Оригинал;Перевод;
+All;Все;Her?ey
+No target;Без цели;Hedef yok
+Action;Действие;Aksiyon
+Today;Сегодня;Bug?n
+Action date;Дата действия;Eylem tarihi
+Are you sure you want to delete the selected clients?;Вы действительно хотите удалить выбранных клиентов?;Se?ili istemcileri silmek istedi?inizden emin misiniz?
+Action text;Текст действия;Eylem metni
+Add client;Добавить клиента;M??teri ekle
+Actions;Действия;Hareketler
+Add;Добавить;Ekle
+Customer statuses;Статусы клиента;M??teri durumlar?
+Create a customer status;Создать статус клиента;M??teri durumu olu?turun
+You can not remove the basic status;Вы не можете удалить базовый статус;Temel durumu kald?ramazs?n?z
+Target;Цель;Hedef
+Add action;Добавить действие;Eylem ekleyin
+Attached files;Прикрепленные файлы;Ekli dosyalar
+My results;Мои результаты;Sonu?lar?m
+Save and add;Сохранить и создать;Kaydet ve ekle
+"It is necessary to fill in the ""{field}"" section";"Необходимо заполнить поле ""{field}""";{Field} b?l?m?n? doldurmak gerekiyor
+CRM activation;CRM включить;CRM aktivasyonu
+Check to send the request to the archive.;Отметьте для отправки задачи в архив.;?ste?i ar?ive g?ndermek i?in i?aretleyin.
+City;Город;?ehir
+Customer;Клиент;M??teri
+Client convertion date;;M??teri d?n??t?rme tarihi
+Customer creation date;Дата создания клиента;M??teri olu?turma tarihi
+Customer type;Тип клиента;M??teri tipi
+Close task;Закрыть задачу;G?revi kapat
+Cold;Холодный;So?uk
+Edit action type;Редактировать тип действия;Eylem t?r?n? d?zenleyin
+Expired;Просроченные;S?resi doldu
+Future;Будущие;Gelecek
+Actions archive;Архив действий;Eylemler ar?ivi
+Opened actions;Открытые действия;A??lan eylemler
+Complete;Выполнено;Tamamlay?n?z
+Date of Birth;Дата рождения;Do?um tarihi
+Delete customers;Удаление клиентов;M??terileri silin
+Condition;Состояние;Durum
+Country;Страна;?lke
+Create action;Создать действие;Eylem olu?tur
+Create action type;Создать тип действия;Eylem t?r? olu?turun
+Create customer;Создать клиента;M??teri olu?tur
+Create customer purpose;Создать цель клиента;M??teri amac? olu?turun
+Create lead;Создать интерес;Potansiyel m??teri olu?tur
+Create a new action;Создать новое действие;Yeni bir eylem olu?turun
+Create source;Создать источник;Kaynak olu?tur
+Created by CRM system;Создано CRM;CRM sistemi taraf?ndan olu?turulmu?tur
+Created by registration;Создан при регистрации;Kay?t taraf?ndan olu?turuldu
+Creation date;Дата создания;Olu?turulma tarihi
+Creator;Создатель;Yarat?c?
+Date;Дата;Tarih 
+Date of creation;Дата создания;Olu?turma tarihi
+Default source;Источник по умолчанию;Varsay?lan kaynak
+Extra data;Дополнительная информация;Ekstra veriler
+Description;Описание;A??klama
+Email;;E-posta adresi
+Edit customer info;Редактировать информацию о клиенте;M??teri bilgilerini d?zenleyin
+Edit lead info;Редактировать информацию о интересе;Potansiyel m??teri bilgilerini d?zenleyin
+Edit action;Редактировать действие;Eylemi d?zenle
+Edit task;Редактировать задачу;G?revi d?zenleyin
+Add reply;Добавить ответ;Cevap ekle
+Expiration date;Дата истечения;Ge?erlilik  tarihi
+First action date;Дата первого действия;?lk eylem tarihi
+{field} must be a number;{field} должен быть числом;{field} bir say? olmal?d?r
+"""{field}"" must be a integer";"""{field}"" должен быть целым числом";{field} bir tam say? olmal?d?r
+"""{field}"" must be in the date format";"заполните ""{field}"" в формате date ";{field}, tarih bi?iminde olmal?d?r
+High;Высокий;Y?ksek
+Hot;Горячий;S?cak
+I am creator;Я создатель;Ben yarat?c?y?m
+I am responsible;Я ответственный;sorumluyum
+Urgent;Срочный;Acil
+Importance;Важность;?nem
+Important;Важный;?nemli
+In process;В обработке;??lemde
+Client creator;Создатель клиента;M??teri yarat?c?s?
+Information about the customer;Информация о клиенте;M??teri ile ilgili bilgiler
+Customer parameters;Параметры клиента;M??teri parametreleri
+Customer status;Статус клиента;M??teri durumu
+Login;Логин;Oturum a?
+Low;Низкий;D???k
+Average;Средний;Ortalama
+My actions;Мои действия;Eylemlerim
+Name;Имя;?sim 
+New;Новое;Yeni
+New call;Новый вызов;Yeni arama
+New task;Новая задача;Yeni g?rev
+Next action date;Дата следующего действия;Sonraki eylem tarihi
+No point;Нет смысла;Anlam? yok
+Doesn't matter;Не важно;?nemli de?il
+Not interesting;Не интересно;?lgi ?ekici de?il
+Viewers;Наблюдатели (Логины);G?r?nt?leyenler
+Open archive;Открыть архив;Ar?ivi a?
+Open task;Открыть задачу;G?revi a?
+Opened tasks;Открытые задачи;A??lan g?revler
+Patronim;Отчество;Patronim
+Phone;Телефон;Telefon
+Total;Итого;Toplam
+Priority;Приоритет;?ncelik
+Processed, is not completed;Обработано, не выполнено;??lendi, tamamlanmad?
+Customer target;Цель клиента;M??teri hedefi
+Responsible;Ответственный;Sorumluluk sahibi
+Role;Роль;Rol
+Save;Сохранить;Kaydet
+Selected customers were deleted;Выбранные клиенты удалены;Se?ili m??teriler silindi
+Source;Источник;Kaynak
+Status;Статус;Durum
+Subject;Тема;Konu
+"Subject of your task: ""{subject}"".<p> Task: ""{message_text}"".";"Заголовок вашей задачи: ""{subject}"".<p> Задача: ""{message_text}"".";"G?revinizin konusu: ""{konu}"". <p> G?rev: ""{message_text}""."
+Surname;Фамилия;Soyad?
+Task;Задача;G?rev
+Task parameters;Параметры задачи;G?rev parametreleri
+Task title;Заголовок задачи;G?rev ba?l???
+Tasks archive;Архив задач;G?revler ar?ivi
+Message text;Текст сообщения;Mesaj metni
+Target of the customer;Цель клиента;M??terinin hedefi
+This report shows information about the potential and real clients who have been connected each month. First number is potential clients sum and second is real clients sum.;Этот отчет показывает данные о потенциальных и реальных клиентах, которые были подключены в каждом из месяцев. Первая цифра показывает число потенциальных клиентов, вторая - число реальных клиентов.;Bu rapor, her ay ba?lanan potansiyel ve ger?ek m??teriler hakk?ndaki bilgileri g?sterir. ?lk say? potansiyel m??terilerin toplam? ve ikincisi ger?ek m??terilerin toplam?d?r.
+This user was deleted;Этот пользователь был удален;Bu kullan?c? silindi
+Type;Тип;T?r
+User role;Роль;Kullan?c? rol?
+Without importance;Без важности;?nemsiz
+You can choose viewers only in the desks which you belong to.;Наблюдателей  можно выбирать только из тех десков, в которых вы состоите.;?zleyicileri sadece ait oldu?unuz masalarda se?ebilirsiniz.
+You cannot delete default action type.;Вы не можете удалить базовый тип дейсвтия.;Varsay?lan eylem t?r?n? silemezsiniz.
+You cannot delete default source.;Вы не можете удалить базовый источник;Varsay?lan kayna?? silemezsiniz.
+You cannot delete this lead.;Вы не можете удалить этот интерес;Bu m??teri aday?n? silemezsiniz.
+You cannot delete this source, because this source has connected leads.;;Bu kayna?? silemezsiniz ??nk? bu kaynak ba?l? potansiyel m??terilere sahiptir.
+Deletion can not be performed because there are actions with this type.;Удаление не может быть произведено, так как существуют действия с данным типом.;Bu t?r eylemler oldu?u i?in silme i?lemi ger?ekle?tirilemez.
+You have a new task;У вас появилась новая задача;Yeni bir g?revin var
+login;Логин;oturum a?
+Effect;Эффект;Etki
+Losses;Потери;Kay?plar
+Result;Результат;Sonu?
+Amount;Сумма;Miktar
+Spam;Спам;Spam
+Specialist;Специалист;Uzman
+Report type;Тип отчета;Rapor tipi
+Action type;Тип действия;Eylem T?r?
+All specialists;Все специалисты;T?m uzmanlar
+Weight;Вес;A??rl?k
+Start;Начало;Ba?lat
+End;Конец;Son
+Number of accounts;Количество счетов;Hesap say?s?
+Amount of funds;Сумма средств;Fon miktar?
+Actions of selected customers were deleted;Действия выбранных клиентов были удалены;Se?ili m??terilerin eylemleri silindi
+Are you sure you want to delete actions of selected customers?;Вы действительно хотите удалить действия выбранных клиентов?;Se?ili m??terilerin eylemlerini silmek istedi?inizden emin misiniz?
+Delete actions;Удалить действия;Eylemleri sil
+Change responsible;Сменить ответственного;Sorumlulu?u de?i?tir
+Unification date {date};Дата объединения {date};Birle?me tarihi {tarih}
+Client status;Статус клиента;M??teri durumu
+Desk;Деск;S?ra
+Additional contact;Дополнительный контакт;Ek ileti?im
+Clients duplicates;Клиенты дубликаты;M??terileri kopyala
+Title;Обращение;Ba?l?k
+dict;;dikte
+Оригинал;Перевод;
+Account type is not found;Тип счета не найден;Hesap t?r? bulunamad?
+EMail;;Email
+Оригинал;Перевод;
+One can't get the access to an option of non existent object;Невозможно получить доступ к свойству несуществующего объекта;Varolmayan bir nesne se?ene?ine eri?im sa?lanam?yor
+One can't call a method of a non existent object;Невозможно вызвать метод несуществующего объекта;Var olmayan bir nesnenin y?ntemi ?a?r?lamaz
+One can't add an option to a non existent object;Невозможно добавить свойство несуществующему объекту;Var olmayan bir nesneye se?enek eklenemez
+pathLayouts must be a Yii alias path;;pathLayouts bir  takma ad yolu olmal?d?r
+pathViews must be a Yii alias path;;pathViews bir  di?er ad yolu olmal?d?r
+Recipient;Получатель;Al?c?
+Trader;Трейдер;Yat?r?mc?
+Employee;Сотрудник;?al??an
+Section;Раздел;B?l?m
+Duplicate manager;Дублировать менеджеру;Kopyalanan y?netici
+Duplicate the letter to the responsible manager;Дублировать письмо ответственному менеджеру;Mektubu sorumlu y?neticiye kopyalay?n
+main;;ana
+Оригинал;Перевод;
+Upload a file;Загрузить файл;Dosya y?kle
+master;;master
+Оригинал;Перевод;
+To open an account you must agree to the Client Agreement;"Для открытия счета вы должны подтвердить свое согласие с ""Клиентским Соглашением""";Bir hesap a?mak i?in M??teri S?zle?mesini kabul etmelisiniz
+To open an account you must agree to the Master Account Agreement;"Для открытия счета вы должны подтвердить свое согласие с ""Клиентским Соглашением Оферты""";Bir hesap a?mak i?in Ana Hesap S?zle?mesini kabul etmelisiniz
+To open an account you must agree to the Terms of Service;"Для открытия счета вы должны подтвердить свое согласие c ""Клиентским Соглашением""";Bir hesap a?mak i?in Hizmet ?artlar?'n? kabul etmelisiniz
+menu;;men?
+Оригинал;Перевод;
+Actions report;Отчет по действиям;Eylemler raporu
+Accounts report;Отчет по счетам;Hesaplar raporu
+Account types;Типы счетов;Hesap t?rleri
+Action log;Журнал действий;Hareket g?nl???
+Action types;Типы действия;Eylem t?rleri
+Actions;Действия;Hareketler
+Accounts;Счета;Hesaplar
+CRM;;CRM
+Fund account information;Информация о фондовом счете;Fon hesab? bilgileri
+CRM settings;Настройки CRM;CRM ayarlar?
+Requests;Заявки;?stekler
+Requests archive;Архив заявок;Ar?iv istekleri
+Customer information;Информация о клиенте;M??teri Bilgileri
+Are you sure you want to delete this item?;Вы уверены, что хотите удалить этот элемент?;Bu ??eyi silmek istedi?inizden emin misiniz?
+Customers;Клиенты;M??teriler
+Payment systems report;Отчет по платежным системам;?deme sistemleri raporu
+Edit fund account;Редактировать фондовый счет;Fon hesab?n? d?zenleyin
+Close investor account;Закрытие счета инвестора;Yat?r?mc? hesab?n? kapat
+Company;Компания;?irket
+Connect an account;Подключить счет;Bir hesap ba?lay?n
+Summary report;Сводный отчет;?zet raporu
+Type of account creation;Создание типа счета;Hesap olu?turma t?r?
+Create an action;Создать действие;Bir eylem olu?turun
+Create a document;Создать документ;Bir belge olu?turun
+Investor account creation;Создание счета инвестора;Yat?r?mc? hesab? olu?turma
+Open investor account;Открыть счет инвестора;Yat?r?mc? hesab? a?
+Create master account;Создать счет мастера;Ana hesap olu?tur
+Make a ticket;Создать обращение;Bilet yap
+Create the server;Создать сервер;Sunucuyu olu?turun
+Curator report;Отчет по куратору;K?rat?r raporu
+Curators;Кураторы;K?rat?rler
+Actions archive;Архив действий;Eylemler ar?ivi
+Tickets;Обращения;Biletler
+Deals;Сделки;F?rsatlar
+Delete investor account;Удалить счет инвестора;Yat?r?mc? hesab?n? sil
+Demo;Демо;Demo
+Demo account deposit;Пополнение демо счета;Demo hesap mevduat?
+Demo investor  accounts;Демо счета инвестора;Demo yat?r?mc? hesaplar?
+Demo master accounts;Демо мастер счета;Demo ana hesaplar?
+Deposit operations;Депозитные операции;Para yat?rma i?lemleri
+Director report;Отчет по директору;Y?netmen raporu
+Directors;Директора;Y?netmenler
+Display on;Показать по;G?r?nt?le
+Documents;Документы;Belgeler
+Error;Ошибка;Hata
+Edit Task;Редактировать задачу;G?revi D?zenle
+Edit action;Редактировать действие;Eylemi d?zenle
+Edit customer info;Редактирование информации о клиенте;M??teri bilgilerini d?zenleyin
+Edit language;Редактировать язык;Dili d?zenleyin
+Edit lead info;Редактирование информации об интересе;Potansiyel m??teri bilgilerini d?zenleyin
+Edit master account;Редактировать мастер счет;Ana hesab? d?zenleyin
+Edit promotion;Редактировать акцию;Promosyonu d?zenleyin
+Edit task;Редактировать;G?revi d?zenleyin
+Editing;Редактирование;D?zenleme
+Editing payment system;Редактирование платежных систем;?deme sistemini d?zenleme
+Editing server;Редактирование сервера;Sunucuyu d?zenleme
+Email templates;Шаблоны писем;E-posta ?ablonlar?
+Exchange rates;Курсы валют;D?viz kurlar?
+First launch;Первый запуск;?lk ba?latma
+Fund accounts;Фондовые счета;Fon hesaplar?
+Internal transfer;Внутренний перевод;?? transfer
+Account type connection;Подключение типа счета;Hesap t?r? ba?lant?s?
+Account type editing;Редактирование типа счета;Hesap t?r? d?zenleme
+Homepage;Главная страница;Ana Sayfa
+Deposit/Withdrawal;Ввод\Вывод средств;Para Yat?rma / ?ekme
+Information;Информация;Bilgi
+Deposits history;История вводов;Mevduat ge?mi?i
+Investor account information;Информация о счете инвестора;Yat?r?mc? hesap bilgileri
+Deposit on the Investor account;Пополнение счета инвестора;Yat?r?mc? hesab?na para yat?rma
+Withdrawal from Investor account;Вывод средств со счета инвестора;Yat?r?mc? hesab?ndan para ?ekme
+Investor accounts;Счета инвестора;Yat?r?mc? hesaplar?
+Investor;Инвестор;Yat?r?mc?
+Languages;Языки;Diller
+Lead info;Информация об интересе;Potansiyel m??teri bilgisi
+Leads;Интересы;Olas? sat??lar
+Documents management;Управление документами;Belge y?netimi
+Accounts management;Управление счетами;Hesap y?netimi
+Demo investor accounts management;Управление демо инвест счетами;Demo yat?r?mc? hesaplar? y?netimi
+Demo master accounts management;Управление демо мастер счетами;Demo ana hesap y?netimi
+Funds accounts management;Управление фондовыми счетами;Fon hesaplar? y?netimi
+Investor accounts management;Управление счетами инвестора;Yat?r?mc? hesaplar? y?netimi
+Master accounts management;Управление мастер счетами;Ana hesap y?netimi
+Users management;Управление пользователями;Kullan?c? y?netimi
+Manager;Управляющий;Y?netici
+Managers delivery;Рассылка по партнерам;Y?neticilerin teslimi
+Master account information;Информация о мастер счете;Ana hesap bilgileri
+Master account payment;Платеж для мастер счета;Ana hesap ?demesi
+Master account withdrawal;Вывод средств с мастер счета;Ana hesap ?ekme
+Master account;Мастер счета;Ana hesap
+Email delivery;Рассылка;E-posta teslimi
+Choosing the method of email delivery;Выбор варианта рассылки;E-posta teslim y?ntemini se?me
+Messages history;История сообщений;Mesaj ge?mi?i
+My accounts;Мои счета;Hesaplar?m
+My profile;Мой профиль;Profilim
+New Lead;Новый интерес;Yeni Potansiyel M??teri
+New Task;Новая задача;Yeni g?rev
+No results found.;Нет результатов.;Sonu? bulunamad?.
+New requests;Новые заявки;Yeni istekler
+New customer;Новый клиент;Yeni m??teri
+New lead;Новый интерес;Yeni potansiyel m??teri
+New task;Новая задача;Yeni g?rev
+Open account;Открыть счет;Hesap a??n
+Withdrawal through DengiOnline;Вывод через ДеньгиOnline;DengiOnline ?zerinden para ?ekme
+Affiliates;Партнеры;Ortakl?klar
+Affiliate program;Партнеры;Ortakl?k Program?
+Deposit of funds;Ввод средств;Para yat?rma
+(Deposit of funds);(Ввод средств);(Para yat?rma)
+Payments;Платежи;?demeler
+Payment systems;Платежные системы;?deme sistemleri
+All payment systems report;Отчет по всем платежным системам;T?m ?deme sistemleri raporu
+Positions and orders;Позиции и ордера;Pozisyonlar ve sipari?ler
+Positions, orders, options;Позиции, ордера, опционы;Pozisyonlar, sipari?ler, se?enekler
+Web Office;Личный кабинет;Web Ofisi
+ProInvestor;;ProYat?r?mc?
+ProInvestor accounts;ProInvestor счета;ProYat?r?mc? hesaplar?
+ProInvestor settings;Настройки ProInvestor;ProYat?r?mc? ayarlar?
+Promotions;Акции;Promosyonlar
+Live investor accounts;Реальные счета инвесторов;Canl? yat?r?mc? hesaplar?
+Register;Регистрация;Kay?t ol
+Report;Отчет;Rapor
+Reports;Отчеты;Raporlar
+Send a message;Отправить сообщение;Bir mesaj g?nder
+Servers;Серверы;Sunucular
+Email delivery on the account types on the servers ;Рассылка по типам счетов на серверах;Sunuculardaki hesap t?rlerinde e-posta teslimi
+Service;Сервис;Servis
+Service desk;Сервис деск;Servis masas?
+Service desk archive;Сервис деск архив;Servis masas? ar?ivi
+Settings;Настройки;Ayarlar
+Sources;Источники;Kaynaklar
+Specialist report;Отчет по специалисту;Uzman raporu
+Specialists;Специалисты;Uzmanlar
+Statistics;Статистика;?statistik
+General report;Общий отчет;Genel rapor
+(Withdrawal);(Вывод средств);(Para ?ekme)
+Task;Задача;G?rev
+Task dialog;Диалог;G?rev ileti?im kutusu
+Tasks;Задачи;G?revler
+Tasks archive;Архив задач;G?revler ar?ivi
+Total;Всего;Toplam
+Trading accounts;Торговый счет;Yat?r?m hesaplar?
+{trans_start} {trans_end};{trans_start} {trans_end} ;{trans_start} {trans_end}
+Traders;Трейдеры;Yat?r?mc?lar
+Trading;Торговля;??lemler
+Trading history;Торговая история;??lem ge?mi?i
+Users;Пользователи;Kullan?c?lar
+Email delivery on the account types in WebOffice;Рассылка по типам счетов в ЛК;WebOffice'deki hesap t?rlerinde e-posta teslimi
+Withdrawal;Вывод средств;Para ?ekme
+My requests;Мои заявки;?steklerim
+Document editing;Редактирование документа;Belge d?zenleme
+Attention! With this type of account would be removed attached archival accounts. Delete it?;Внимание! Вместе с этим типом счета будут удалены связанные архивные счета. Удалить?;Dikkat! Bu t?r bir hesapla ekli ar?iv hesaplar? kald?r?l?r. Silecek misiniz?
+Depositing;Пополнение счета;Para yat?rma
+Payment methods;Методы оплаты;?deme metodlar?
+Login confirmation;Подтверждение входа;Giri? onay?
+page;;sayfa
+Оригинал;Перевод;
+On the maibox;На почтовый ящик;Posta kutusunda
+Account;Учетная запись;Hesap
+Account: {account};Счет: {account};Hesap: {account}
+"{attribute} ""{value}"" is already taken";"{attribute} ""{value}"" уже занят";"{attribute} ""{value}"" zaten al?nm??"
+{attribute} must be an integer.;{attribute} должен быть целым числом.;{?znitelik} bir tam say? olmal?d?r.
+"The file ""{file}"" cannot be uploaded. Only files with these extensions are allowed: {extensions}.";"Файл ""{file}"" не может быть загружен. Разрешена загрузка файлов только со следующими расширениями: {extensions}.";{File} dosyas? y?klenemiyor. Yaln?zca ?u uzant?lara sahip dosyalara izin verilir: {extensions}.
+{attribute} is too small (minimum is {min}).;{attribute} слишком мал (Минимум: {min}).;{?znitelik} ?ok k???k (minimum {min}).
+{attribute} is too big (maximum is {max}).;{attribute} слишком велик (Максимум: {max}).;{?znitelik} ?ok b?y?k (maksimum {maks}).
+"""{attribute}"" must be repeated exactly";"""{attribute}"" должен быть повторен в точности";{?znitelik} tam olarak tekrarlanmal?d?r
+{attribute} is too long (maximum is {max} characters).;{attribute} слишком длинный (Максимум: {max} симв.).;{?znitelik} ?ok uzun (maksimum {max} karakterdir).
+{attribute} is too short (minimum is {min} characters).;{attribute} слишком короткий (Минимум: {min} симв.).;{?znitelik} ?ok k?sa (minimum {min} karakter).
+Account activation;Активация учетной записи;Hesap Aktivasyonu
+Account is banned, contact your administrator;Учетная запись забанена, обратитесь к администратору;Hesap yasakland?, y?neticinizle ileti?ime ge?in
+Account is not activated, please check email;Учетная запись не активирована. Пожалуйста, проверьте почту;Hesap etkinle?tirilmedi, l?tfen e-postay? kontrol edin
+Activation owned by another user;Активация принадлежит другому пользователю;Ba?ka bir kullan?c?ya ait aktivasyon
+Activation is successfully performed;Активация прошла успешно.;Aktivasyon ba?ar?yla ger?ekle?tirildi
+Add lead;Добавить интерес;Potansiyel m??teri ekleyin
+Address;Адрес;Adres
+Region;Область;B?lge
+Year must be in interval from 1970 to 2033;Год должен быть в промежутке от 1970 до 2033;Y?l, 1970 ile 2033 aras?nda olmal?d?r
+Back to home;Вернуться на главную страницу;Eve geri d?n
+Cancel;Отмена;?ptal etmek
+Change password;Сменить пароль;?ifre de?i?tir
+City;Город;Kent
+Client agreement;Клиентское соглашение;M??teri s?zle?mesi
+Contacts;Контакты;Ki?iler
+Country;Страна;?lke
+Download;Загрузить;?ndir
+Email;;E-posta adresi
+Email has incorrect email address.;Email имеет некорректный формат.;E-postada yanl?? e-posta adresi var.
+Last IP;Последний IP;Son IP
+Duplicate to email;Дублирование на email;E-postaya kopyala
+Error;Ошибка;Hata
+Without default language;Без языка по умолчанию;Varsay?lan dil olmadan
+Profile settings;Настройки профиля;Profil ayarlar?
+Password can't be empty;Пароль не может быть пустым.;Parola bo? olamaz
+Language;Язык;Dil
+Default language;Язык по умолчанию;Varsay?lan dil
+Error of password changing, please, try again later;Ошибка смены пароля, попробуйте позднее;?ifre de?i?tirme hatas?, l?tfen daha sonra tekrar deneyin
+Error, please, try again later;Ошибка. Пожалуйста, попробуйте позднее.;Hata, l?tfen daha sonra tekrar deneyin
+File;Файл;Dosya
+Forgot password?;Забыли пароль?;Parolan?z? m? unuttunuz?
+I agree;Я согласен;kat?l?yorum
+Remember;Запомнить;Hat?rlamak
+In order to recover your password, you need to enter the data specified in the registration;Чтобы восстановить ваш пароль, вам необходимо ввести данные, указанные при регистрации;?ifrenizi kurtarmak i?in kay?tta belirtilen verileri girmeniz gerekmektedir.
+Incorrect login or email;Неправильный логин или email;Yanl?? giri? veya e-posta
+Incorrect email;Неправильный email;Yanl?? E-posta
+Incorrect login or password;Неверно указан логин или пароль;Yanl?? giri? veya ?ifre
+Last Login;Последняя сессия;Son giri?
+Login;Логин;Oturum a?
+Login: {login};Логин: {login};Giri? giri?}
+Login or Email;Логин или Email;Giri? veya E-posta
+Login to the Web Office;Вход в личный кабинет;Web Ofisine Giri? Yap?n
+My profile;Мой профиль;Benim profilim
+Name;Имя;?sim Soyisim
+New call;Новый вызов;Yeni arama
+New password;Новый пароль;Yeni ?ifre
+New task;Новая задача;Yeni g?rev
+Notice of risks;Уведомление о рисках;Risk bildirimi
+Now you can continue using your login and password.;Теперь вы можете продолжить работу под своим логином и паролем.;?imdi kullan?c? ad?n?z? ve ?ifrenizi kullanmaya devam edebilirsiniz.
+Old password;Старый пароль;Eski ?ifre
+Old password is incorrect;Старый пароль введен неправильно;Eski ?ifre yanl??
+Affiliate code;Партнерский код;Ortakl?k kodu
+Affiliates;Партнеры;??tirakler
+Passport;Паспорт;Pasaport
+Investor password: {investor_password};Пароль инвестора: {investor_password};Yat?r?mc? ?ifresi: {investtor_password}
+Password;Пароль;Parola
+Password: {pass};Пароль: {pass};?ifre: {pass}
+Password has been changed;Пароль был изменен;?ifre de?i?tirildi
+Password recovery;Восстановление пароля;?ifre kurtarma
+Password recovery for CRM;Восстановление пароля для CRM;CRM i?in ?ifre kurtarma
+Password recovery for weboffice;Восстановление пароля для личного кабинета;Weboffice i?in ?ifre kurtarma
+Password change request;Запрос на смену пароля;?ifre de?i?tirme talebi
+Password was successfully changed;Пароль был успешно изменен;?ifre ba?ar?yla de?i?tirildi
+Patronymic;Отчество;Soyad?
+Personal data;Персональные данные;Ki?isel veri
+Phone;Телефон;Telefon
+Zip code;Почтовый индекс;Posta kodu
+Profile;Профиль;Profil
+Reg Date;Дата регистрации;Kay?t Tarihi
+Register your account and take access to all service features.;Зарегистрируйте себе учетную запись и получите доступ ко всем сервисам компании.;Hesab?n?z? kaydedin ve t?m hizmet ?zelliklerine eri?in.
+Registration;Регистрация;Kay?t
+Repeat password;Повторите новый пароль;?ifreyi tekrar girin
+Send request to approve account;Отправить запрос на подтверждение учетной записи;Hesab? onaylama iste?i g?nderin
+Server name;Название сервера;Sunucu ad?
+Server name: {server};Название сервера: {server};Sunucu ad?: {server}
+Show;Показать;G?stermek
+Sign in;Войти;oturum a?
+Sign up;Зарегистрироваться;kaydol
+Surname;Фамилия;Soyad?
+The verification code is incorrect;Проверочный код неверен;Do?rulama kodu yanl??
+To confirm registration, go to {link};Для подтверждения регистрации перейдите по {link};Kayd? onaylamak i?in {link} adresine gidin
+A new password has been sent to your Email;На ваш Email отправлен новый пароль;E-postan?za yeni bir ?ifre g?nderildi
+A new password will be sent to your Email;На ваш Email будет отправлено письмо с новым паролем;E-postan?za yeni bir ?ifre g?nderilecektir
+To reset your password, you need to enter the Email, specified during registration.;Чтобы сбросить ваш пароль, вам необходимо ввести Email, указанный при регистрации.;?ifrenizi s?f?rlamak i?in kay?t s?ras?nda belirtilen E-postay? girmeniz gerekir.
+A message will be sent to your Email with a link to change the password.;На ваш Email будет отправлено письмо со ссылкой на изменение пароля.;E-postan?za ?ifreyi de?i?tirmek i?in bir ba?lant? i?eren bir mesaj g?nderilecektir.
+A message with a link to change the password has been sent to your email.;На указанный вами Email было отправлено письмо со ссылкой на изменение пароля.;E-postan?za ?ifreyi de?i?tirmek i?in bir ba?lant? i?eren bir mesaj g?nderildi.
+Unable to change the password, try again later;Не удалось изменить пароль, попробуйте позднее;?ifre de?i?tirilemiyor, daha sonra tekrar deneyin
+Unable to save the data, contact the administrator;Не удалось сохранить данные, обратитесь к администратору;Veriler kaydedilemiyor, y?netici ile ileti?ime ge?in
+Upload;Загрузить;Y?kle
+"It is necessary to fill in the field ""{attribute}""";"Необходимо заполнить поле ""{attribute}""";{Attribute} alan?n? doldurmak gerekiyor
+"""{attribute}"" can't be empty";"""{attribute}"" не может быть пустым";{attribute} bo? olamaz
+Passport and documents;Паспорт и документы;Pasaport ve belgeler
+User is not found;Пользователь не найден;Kullan?c? bulunamad?
+Verification code;Код подтверждения;Do?rulama kodu
+Wrong activation key;Неправильный ключ активации;Yanl?? aktivasyon anahtar?
+You can recover the password to your account.;Вы можете восcтановить пароль к своей учетной записи.;Parolay? hesab?n?za kurtarabilirsiniz.
+You entered wrong affiliate code;Вы ввели несуществующий партнерски код;Yanl?? ?ye kodu girdiniz
+You must authorise;Вы должны авторизоваться;Yetki vermelisiniz
+Your new password;Ваш новый пароль;Yeni parolan?z
+credit card;банковской картой;kredi kart?
+Investor password;Пароль инвестора;Yat?r?mc? ?ifresi
+an email with an activation link has been sent. To complete the registration click the link in the email;было отправлено письмо со ссылкой активации. Для завершения регистрации необходимо перейти по ссылке, указанной в письме;aktivasyon ba?lant?s? i?eren bir e-posta g?nderildi. Kayd? tamamlamak i?in e-postadaki ba?lant?ya t?klay?n
+Enable;Включена;etkinle?tirme
+You have successfully completed your registration in Trader's room. You now have access to company's services. Registration data;Поздравляем Вас с успешной регистрацией в личном кабинете. Теперь у вас есть доступ ко всем сервисам компании. Регистрационные данные;Trader'?n odas?nda kayd?n?z? ba?ar?yla tamamlad?n?z. Art?k ?irketin hizmetlerine eri?ebilirsiniz. Kay?t verileri
+Trader's Room registration completed successfully;Успешная регистрация в личном кабинете;T?ccar?n Odas? kayd? ba?ar?yla tamamland?
+We highly recommend you to store the data in a safe place.;Настоятельно рекомендуем Вам хранить эти данные в максимально защищенном месте.;Verileri g?venli bir yerde saklaman?z? ?iddetle tavsiye ederiz.
+You successfully withdrawed money. Sum of the withdrawal is {sum}.;Вы успешно вывели средств;Ba?ar?yla para ?ektiniz. Para ?ekme toplam? {toplam}.
+The phone number has to contain only figures.;Номер телефона должен содержать только цифры;Telefon numaras? yaln?zca rakamlar i?ermelidir.
+To recover the password, click {link};Для восстановления пароля, перейдите по {link};?ifreyi kurtarmak i?in {link} t?klay?n
+Invalid value;Недопустимое значение;ge?ersiz de?er
+Invalid number format;Некорректный формат номера;Ge?ersiz numara bi?imi
+Authorization required;Требуется авторизация;?zin gerekmekte
+State;Штат;Durum
+demo account;демо-счет;demo hesab?
+Server error;Ошибка сервера;Server hatas?
+Access from this IP address is denied;Доступ с данного IP адреса запрещен;Bu IP adresinden eri?im reddedildi
+Last authorization;Последняя авторизация;Son yetkilendirme
+Access to the system is forbidden! Contact your administrator;Доступ в систему запрещен! Обратитесь к администратору;Sisteme eri?im yasakt?r! Y?neticinizle ileti?ime ge?in
+User id;Id пользователя;Kullan?c? kimli?i
+"The user with ""Trader"" type does not exist";"Такого пользователя с типом ""trader"" не существует";T?ccar tipine sahip kullan?c? mevcut de?il
+The account will be linked with email of the user with 'trader' type.;Email пользователя с типом 'trader', к которому будет привязан счет.;Hesap, 't?ccar' t?r?ndeki kullan?c?n?n e-postas?na ba?lanacakt?r.
+Confirmation code;Код подтверждения;Onay kodu
+Login confirmation;Подтверждение входа;Giri? onay?
+Confirmation code has been sent to your phone number:;Код подтверждения отправлен на номер:;Onay kodu telefon numaran?za g?nderildi:
+Send again in;Выслать повторно через;Tekrar g?nder
+Send a new code;Отправить новый код;Yeni bir kod g?nder
+Code sending limit exceeded;Превышен лимит отправки кода;Kod g?nderme s?n?r? a??ld?
+You can try again in;Вы можете повторить попытку через;Tekrar deneyebilirsin
+Time limit for code sending;Временное ограничение отправки кода;Kod g?nderme i?in zaman s?n?r?
+Incorrect confirmation code;Неверный код подтверждения;Yanl?? onay kodu
+Input attempts limit exceeded;Превышен лимит попыток ввода;Giri? denemeleri s?n?r? a??ld?
+Validity of the code has been expired;Срок действия кода истек;Kodun ge?erlili?i sona erdi
+No phone number has been attached. Sending SMS is impossible.;Номер телефона не привязан. Отправка SMS невозможна.;Telefon numaras? eklenmedi. SMS g?ndermek imkans?zd?r.
+mo.;мес.;mo.
+{number} mo.;{number} мес.;{number} ay.
+The password must be at least 8 characters long and contain upper and lower latin characters and at least 1 figure.;Пароль должен состоять не менее чем из 8 символов и содержать латинские буквы в верхнем и нижнем регистре, а также хотя бы 1 цифру.;?ifre en az 8 karakter uzunlu?unda olmal? ve ?st ve alt latin karakterleri ve en az 1 rakam i?ermelidir.
+Signing in is impossible;Вход невозможен;Oturum a?mak imkans?zd?r
+Password recovery in Affiliate's Room;Восстановление пароля в Кабинете партнёра;Ortak Odas?nda ?ifre kurtarma
+Incorrect trader's registration (the partner is not found);Некорректная регистрация трейдера (партнер не найден);Yanl?? t?ccar kayd? (ortak bulunamad?)
+User registration in the Affiliate's Room;Регистрация пользователя в кабинете партнера;Ortak Odas?'nda kullan?c? kayd?
+Referral registration;Регистрация реферала;Y?nlendirme kayd?
+Full name;ФИО;Ad Soyad
+partner;;ortak
+Оригинал;Перевод;
+Access;Доступ;Giri?
+Account number;Номер счета;Hesap numaras?
+Account type;Тип счета;Hesap tipi
+Accounts {usd};Счета: {usd};Hesaplar {usd}
+Added files;Добавленные файлы;Eklenen dosyalar
+Administration;Администрация;Y?netim (de?i?tir | kayna?? de?i?tir)
+All accounts;Все счета;B?t?n hesaplar
+All intervals;Все интервалы;T?m aral?klar
+Account approval;Подтверждение счета;Hesap onay?
+April;Апрель;Nisan
+Last message;Последнее сообщение;Son Mesaj
+August;Август;A?ustos
+Waiting for a response;Ожидание ответа;Cevap i?in bekleniyor
+Bonuses;Бонусы;Bonuslar
+All;Все;Her?ey
+Payment systems;Платежная система;?deme sistemleri
+Request type;Тип заявки;?stek T?r?
+Transaction date;Дата перевода;??lem Tarihi
+All systems;Все платежные системы;T?m sistemler
+Login;Логин;Oturum a?
+Consolid;Общий;Konsolidasyon
+With archive accounts;Вместе с архивными счетами;Ar?iv hesaplar? ile
+Key word;Ключевое слово;Anahtar kelime
+Search;Поиск;Arama
+Check to send the ticket to the archive.;Отметьте для отправки задачи в архив.;Bileti ar?ive g?ndermek i?in i?aretleyin.
+Close ticket;Закрыть обращение;Bileti kapat
+Closed by;Закрыто;Taraf?ndan kapat?ld?
+Create ticket;Создать обращение;Bilet olu?tur
+Theme of ticket;Тема обращения;Bilet temas?
+Current month;Текущий месяц;??inde bulundu?umuz ay
+Interval;Интервал;Aral?k
+New ticket;Новое обращение;Yeni bilet
+Start date;Дата открытия;Ba?lang?? ??tarihi
+Close Date;Дата закрытия;Yak?n tarih
+Deals;Сделки;F?rsatlar
+December;Декабрь;Aral?k
+Add reply;Введите ответ;Cevap ekle
+February;Февраль;?ubat
+Files;Файлы;Dosyalar
+Deposits {usd};Вводы: {usd};Mevduat {usd}
+Deposits;Вводы;Mevduat
+Date of adding;Дата добавления;Eklenme tarihi
+January;Январь;Ocak
+July;Июль;Temmuz
+June;Июнь;Haziran
+Lots {usd};Лоты: {usd};?ok {usd}
+Lots;Лоты;?ok
+None;Нет;Yok
+Manager;Менеджер;Y?netici
+March;Март;Mart
+May;Май;May?s
+Ticket;Обращение;Bilet
+Tickets archive;Архив обращений;Bilet ar?ivi
+Created;Создано;Olu?turuldu
+A year|years|years ago;год назад|года назад|лет назад;Bir y?l | y?l | y?l ?nce
+A month|months|months ago;месяц назад|месяца назад|месяцев назад;Bir ay | ay | ay ?nce
+A day|days|days ago;день назад|дня назад|дней назад;Bir g?n | g?n | g?n ?nce
+Today;Сегодня;Bug?n
+Today at;Сегодня в;Bug?nde
+Yesterday at;Вчера в;?nceki g?nde
+Ticket theme;Тема обращения;Bilet temas?
+My tickets;Мои обращения;Biletlerim
+Name;Имя;?sim Soyisim
+November;Ноябрь;Kas?m
+October;Октябрь;Ekim
+Only active;Только активные;Sadece aktif
+Opened tickets;Открытые обращения;A??lan biletler
+Withdrawals {usd};Выводы: {usd};Para ?ekme {usd}
+Withdrawals;Выводы;Para ?ekme
+Page not found;Страница не найдена;sayfa bulunamad?
+Affiliate;Партнер;Affiliate
+"A reply has been received  from the user ""{user}"" on the subject ""{subject}"".";"Получен ответ от пользователя ""{user}"" на тему ""{subject}"".";"{User} kullan?c?s?ndan ""{subject}"" konusunda bir yan?t al?nd?."
+"A reply has been received in the task ""{subject}"".";"Получен ответ в задаче ""{subject}"".";{Subject} g?revinde bir yan?t al?nd?.
+Registration date;Дата регистрации;Kay?t Tarihi
+A reply has been received;Ответ получен;Bir cevap al?nd?
+Report type;Тип отчета;Rapor tipi
+Role;Роль;Rol
+September;Сентябрь;Eyl?l
+Service desk;Сервис деск;Servis masas?
+Show;Показать;G?stermek
+"Subject of your ticket: ""{subject}"". Text: ""{message_text}"".";"Тема вашего обращения: ""{subject}"". Текст обращения: ""{message_text}"".";"Biletinizin konusu: ""{subject}"". Metin: ""{message_text}""."
+Summary;Сумма;?zet
+Text;Текст;Metin
+Period;Период;Periyot
+Make a report;Сформировать отчет;Bir rapor haz?rlay?n
+Date of last change;Дата последнего изменения;Son de?i?iklik tarihi
+Status;Статус;Durum
+Cancel;Отменить;?ptal etmek
+Formed;Сформирован;Olu?turulan
+In process;В обработке;??lemde
+Report generation;Формирование отчета;Rapor olu?turma
+"For re-count you should select the desired period and click ""Generate report"". When the report was formed, the status will be changed to ""Formed"". In one period report may be formed for 1-2 hours.";"Для пересчета данных выберете нужный период и нажмите ""Сформировать отчет"". По завершении формирования отчета статус сменится на ""Сформирован"". Отчет за один период может формироваться 1-2 часа.";"Yeniden say?m i?in istenen d?nemi se?meli ve ""Rapor olu?tur"" a t?klamal?s?n?z. Rapor olu?turuldu?unda, durum ""Olu?turuldu"" olarak de?i?tirilecektir. Bir d?nemde 1-2 saat rapor olu?turulabilir."
+The report may not have relevant data in connection with a feature of its work. Time delay is 1-2 hours.;Отчет может иметь неактуальные данные, в связи с особенностью его работы. Задержка по времени составляет 1-2 часа.;Rapor, ?al??mas?n?n bir ?zelli?i ile ba?lant?l? olarak ilgili verilere sahip olmayabilir. Zaman gecikmesi 1-2 saattir.
+Total;Общее;Toplam
+Trading accounts;Торговые счета;Ticaret hesaplar?
+Traders;Трейдеры;T?ccarlar
+User role;;Kullan?c? rol?
+User type;Тип пользователя;Kullan?c? tipi
+Without affiliate;Без партнера;Affiliate olmadan
+Year;Год;Y?l
+"You have received a reply from manager on the ticket ""{subject}"".";"Вы получили ответ от менеджера на обращение ""{subject}"".";{Subject} biletiyle ilgili y?neticiden bir yan?t ald?n?z.
+"You have sent a new message on the task ""{subject}"".";"Вы отправили новое сообщение по задаче ""{subject}"".";{Subject} g?reviyle ilgili yeni bir mesaj g?nderdiniz.
+Your account was not approved;Ваша учетная запись не подтверждена;Hesab?n?z onaylanmad?
+Your account was approved, now you can create live trading account.;Ваша учетная запись была подтверждена, теперь вы можете создать реальный торговый счет;Hesab?n?z onayland?, ?imdi canl? ticaret hesab? olu?turabilirsiniz.
+Your account was approved;Ваша учетная запись была подтверждена;Hesab?n?z onayland?
+Administrator didn't confirm your account. You can add new documents, or contact Administrator;Администратор не подтвердил вашу учетную запись. Вы можете добавить новые документы или связаться с администратором;Y?netici hesab?n?z? onaylamad?. Yeni belgeler ekleyebilir veya Y?netici ile ileti?ime ge?ebilirsiniz
+id;;?D
+In/Out {usd};Сумма: {usd};Giri? / ??k?? {usd}
+In/Out;Сумма;Giri? / ??k??
+Client Relations Department;Отдел по работе с клиентами;M??teri ?li?kileri Departman?
+Financial service;Финансовый отдел;Finansal servis
+Technical service;Технический отдел;Teknik servis
+Complaints department;Отдел претензий;?ikayet departman?
+Your new password;Ваш новый пароль;Yeni parolan?z
+Notification of request reopening;Уведомление о переоткрытии обращения;Talebin yeniden a??lmas?na ili?kin bildirim
+{client_name} reopened {subject} request;{client_name} переоткрыл обращение: {subject};{client_name}, {subject} iste?ini yeniden a?t?
+Yesterday;Вчера;D?n
+Reopen;Переоткрыть;Yeniden a?
+Ticket is closed;Обращение закрыто;Bilet kapand?
+Ticket is reopened;Обращение переоткрыто;Bilet yeniden a??ld?
+"Received a response from the user ""{user}"" to the subject ""{subject}"".";"Получен ответ от пользователя ""{user}"" на тему ""{subject}"".";"{User} kullan?c?s?ndan ""{subject}"" konusuna bir yan?t al?nd?."
+{user} has created a new ticket topic: {subject}. Message: {message_text};{user} создал новое обращение с темой: {subject}. Текст сообщения: {message_text};{user} yeni bir bilet konusu olu?turdu: {subject}. Mesaj: {message_text}
+New message in the ticket {user};Новое сообщение в обращении {user};{User} biletinde yeni mesaj
+{user} has created a new message in the ticket: {subject}. Message: {message_text};{user} создал новое сообщение в обращении: {subject}. Текст сообщения: {message_text};{user}, bilette yeni bir mesaj olu?turdu: {subject}. Mesaj: {message_text}
+Ticket text;Текст обращения;Bilet metni
+Type of partnership;Тип партнерства;Ortakl?k t?r?
+Percentage interest;Процент вознаграждения;Y?zde faiz
+Hold (days);Hold (дней);Beklet (g?nler)
+payments;;?demeler
+Оригинал;Перевод;
+"""The amount of transfer"" must be a number";"""Сумма платежа"" должно быть числом";Transfer miktar? bir say? olmal?d?r
+"""Amount"" must be a number";"""Сумма"" должна быть числом";Miktar bir say? olmal?d?r
+Account;Счет;Hesap
+Account / card number;Номер счета / карты;Hesap / kart numaras?
+Account will be deposited within 1-2 hours.;Счет пополнится в течении 1-2 часов.;Hesaba 1-2 saat i?inde para yat?r?lacakt?r.
+Account: {data};Счет: {data};Hesap verisi}
+accounts do not exist;Счета отсутствуют;hesaplar mevcut de?il
+Account not found;Счет не найден;Hesap bulunamad?
+Alien's passport;Паспорт иностранного гражданина;Yabanc? pasaport
+BEST transfer;Перевод БЭСТ;EN ?Y? transfer
+No accounts selected;Счета не выбраны;Hesap se?ilmedi
+The minimal deposit amount must be a number;Сумма минимального депозита должна быть числом;Minimum para yat?rma miktar? bir say? olmal?d?r
+The minimal deposit amount must exceed {count};Сумма минимального депозита должна быть больше чем {count};Minimum para yat?rma tutar? {count} de?erini a?mal?d?r
+Amount of payment;Сумма платежа;?deme miktar?
+The amount of deposit (withdrawal) must be a number;Сумма платежа (снятия) должна быть числом;Para yat?rma miktar? (para ?ekme) bir say? olmal?d?r
+Amount of payment (Amount of withdrawal) must be bigger {count};Сумма пополнения (снятия) должна быть больше {count};?deme miktar? (Para ?ekme miktar?) daha b?y?k olmal?d?r {count}
+The amount of deposit (withdrawal) must exceed {count} {currency};Сумма пополнения (снятия) должна быть больше {count} {currency};Para yat?rma miktar? (para ?ekme) {count} {currency} 'dan fazla olmal?d?r
+The amount of deposit (withdrawal) must not be less than {count} {currency};Сумма пополнения (снятия) должна быть не менее {count} {currency};Para yat?rma (para ?ekme) miktar? {count} {currency} 'dan az olmamal?d?r
+The amount of deposit is too big. The max amount is {amount}.;Сумма платежа слишком большая. Максимальная сумма {amount}.;Depozito miktar? ?ok fazla. Maksimum miktar {miktar}.
+The withdrawal amount;Выводимая сумма;Para ?ekme miktar?
+The amount to be credited;Сумма к зачислению;Kredilendirilecek miktar
+The payment system is unavailable right now, please try again later.;На данный момент платежная система не доступна, повторите попытку позже.;?deme sistemi ?u anda kullan?lam?yor, l?tfen daha sonra tekrar deneyin.
+Please note! If the currency of the transfer does not match your card or your wallet currency, the final amount may vary depending on the exchange rate applied by your bank.;Внимание! Если валюта платежа не совпадает с валютой Вашей карты или кошелька, то конечная сумма списания может отличаться от заявленной в зависимости от курса Вашего банка.;L?tfen akl?n?zda bulundurun! Transferin para birimi kart?n?zla veya c?zdan para biriminizle e?le?miyorsa, nihai tutar bankan?z taraf?ndan uygulanan d?viz kuruna ba?l? olarak de?i?ebilir.
+BIC;БИК банка;BIC
+BIC: {data};БИК банка: {data};BIC: {data}
+Bank cards;Банковские карты;Banka kartlar?
+Incorrect card number entered;Вы ввели неправильный номер карты.;Yanl?? kart numaras? girildi
+Back to homepage;Вернуться на главную;ana sayfaya geri d?n
+Bank transfer;Банковский перевод;banka transferi
+Card number;Номер карты;Kart numaras?
+Card number: {data};Номер карты: {data};Kart numaras?: {data}
+Card number (if available);Номер карты (при наличии);Kart numaras? (varsa)
+Checking;Ожидание;Kontrol etme
+Request;Заявка;?stek
+Withdrawal card number;Номер карты для вывода;Para ?ekme kart? numaras?
+This feature is unavalable. It can only be used by those depositing via SorexPay.;Вы не можете воспользоваться данной функцией. Эту функцию могут использовать только те клиенты, которые положили на свой счет средства через платежную систему SorexPay.;Bu ?zellik uygun de?ildir. Yaln?zca SorexPay arac?l???yla para yat?ranlar taraf?ndan kullan?labilir.
+The request is not found;Заявка не найдена;?stek bulunamad?
+The request number;Номер заявки;?stek numaras?
+The request number: {data};Номер заявки: {data};?stek numaras?: {data}
+Commission;Комиссия;komisyon
+Correspondent bank account;Корр. счет банка;Muhabir banka hesab?
+Correspondent bank account: {data};Корр. счет банка: {data};Muhabir banka hesab?: {data}
+Correspondent bank;Банк-корреспондент;Muhabir bankas?
+Correspondent bank: {data};Банк-корреспондент: {data};Muhabir banka: {data}
+Correspondent bank address;Адрес банка-корреспондента;Muhabir banka adresi
+Correspondent bank address: {data};Адрес банка-корреспондента: {data};Muhabir banka adresi: {data}
+The country and the city of the recipient;Страна и город получателя;Al?c?n?n ?lkesi ve ?ehri
+The country and the city of the recipient: {data};Страна и город получателя: {data};Al?c?n?n ?lkesi ve ?ehri: {data}
+The transfer option;Способ оплаты;Transfer se?ene?i
+Credit card;Кредитная карта;Kredi kart?
+Currency;Валюта;Para birimi
+Currency: {data};Валюта: {data};Para birimi: {data}
+Сryptocurrency;Криптовалюта;Kripto para birimi
+The currency of the bank account;Валюта банковского счета;Banka hesab?n?n para birimi
+The currency of the transfer;Валюта платежа;Transferin para birimi
+The currency of the wallet;Валюта кошелька;C?zdan?n para birimi
+Current account;Расчетный счет;Mevcut hesap
+Current account: {data};Расчетный счет: {data};Mevcut hesap: {data}
+Current conversion rate;Текущий курс конвертации;Mevcut d?n???m oran?
+Claim;Заявка;?ddia
+Deleted;Удалена;silindi
+DengiOnline;ДеньгиOnline;DengiOnline
+Card type;Тип карты;Kart tipi
+Deposit to;Перевести на;Depozito
+The transfer failed;Ошибка платежа;Transfer ba?ar?s?z oldu
+The deposit account {account} was rejected;Ошибка зачисления средств на счет {account};{Account} mevduat hesab? reddedildi
+Example;Пример;Misal
+Enter the number;Введите число;Numaray? girin
+E-wallet;Электронный кошелек;E-c?zdan
+The request limit is exceeded;Превышен лимит заявок;?stek s?n?r? a??ld?
+Failure to get the payment status;Невозможно получить статус платежа;?deme durumunun al?nmamas?
+Full bank name;Полное название банка;Tam banka ad?
+Full bank name: {data};Полное название банка: {data};Tam banka ad?: {data}
+Full name;Полные ФИО получателя;Ad Soyad
+Group;Тип счета;Grup
+INN;ИНН;HAN
+INN: {data};ИНН: {data};INN: {veri}
+I agree with ;Я согласен с ;kat?l?yorum
+Information;Информация;Bilgi
+Insufficient funds for withdrawal.;Недостаточно средств для вывода;Para ?ekme i?in yetersiz bakiye.
+Method of transfer;Способ оплаты;Transfer y?ntemi
+Min deposit and profit value must be numbers;Минимальный депозит и сумма вознаграждения должны быть числами;Min depozito ve kar de?eri rakamlardan olu?mal?d?r
+Min deposit and profit value must be bigger {count};Минимальный депозит и сумма вознаграждения должны быть больше {count};Minimum depozito ve kar de?eri daha b?y?k olmal?d?r {count}
+MoneyBookers;;MoneyBookers
+Make a deposit;Пополнить счет;Para yat?r?n
+Min. deposit amount {value} {currency}.;Мин. сумма ввода {value} {currency}.;Min. mevduat tutar? {de?er} {para birimi}.
+My requests;Мои заявки;?steklerim
+Max. deposit amount {value} {currency}. The amount of the payment voucher is not limited.;Макс. сумма ввода {value} {currency}. Сумма по оплате ваучером не ограничена.;Maks. Alan say?s? depozito tutar? {de?er} {para birimi}. ?deme kuponunun miktar? s?n?rl? de?ildir.
+Max. deposit amount {value} {currency}.;Макс. сумма ввода {value} {currency}.;Maks. Alan say?s? depozito tutar? {de?er} {para birimi}.
+The maximum Deposit amount is {value} {currency}.;Максимальная сумма ввода {value} {currency}.;Maksimum Para Yat?rma tutar? {value} {currency} 'dir.
+Mobile transfer;Перевод на мобильный;Mobil aktar?m
+Name;Имя;?sim Soyisim
+Name: {data};Имя: {data};Ad: {data}
+Next;Далее;Sonraki
+Not enough money;Недостаточно средств;yetersiz para
+Number;Номер;Numara
+No rates;Нет курсов;?cret yok
+Account number;Номер счета;Hesap numaras?
+Open date;Дата создания;A??k tarih
+The operation is still in progress;Операция выполняется;Operasyon hala devam ediyor
+The operation completed successfully;Операция проведена успешно;??lem ba?ar?yla tamamland?
+Deposit of funds;Ввод средств;Para yat?rma
+Transfer details;Информация о платеже;Transfer detaylar?
+Payment system;Платежная система;?deme sistemi
+Payment system not found;Платежная система не найдена;?deme sistemi bulunamad?
+The transfer type;Тип перевода;Transfer t?r?
+The transfer options;Способы оплаты;Transfer se?enekleri
+Payment method;Способ оплаты;?deme ?ekli
+The amount of transfer;Сумма перевода;Transfer miktar?
+The operation was cancelled due to an error;Операция была приостановлена из-за ошибки;Bir hata nedeniyle i?lem iptal edildi
+Payments;Платежи;?demeler
+Payment systems are not found;Платежные системы не найдены;?deme sistemleri bulunamad?
+Pending;Подана;Bekliyor
+Phone number;Номер телефона;Telefon numaras?
+Cards;Банковские карты;Kartlar
+Print error;Ошибка печати;Bask? hatas?
+Print version;Версия для печати;Bask? versiyonu
+QiWi wallet;QiWi кошелек;QIWI C?zdan
+Recipient account;Лицевой счет получателя;Al?c? hesab?
+Recipient account number in correspondent bank;Номер счета банка получателя в банке-корреспонденте;Muhabir bankadaki al?c? hesap numaras?
+Recipient account number in correspondent bank: {data};Номер счета банка получателя в банке-корреспонденте: {data};Muhabir bankadaki al?c? hesap numaras?: {data}
+Recipient address;Адрес получателя;Al?c? adresi
+Recipient address: {data};Адрес получателя: {data};Al?c? adresi: {data}
+Recipient bank address;Адрес банка получателя;Al?c?n?n banka adresi
+Recipient bank address: {data};Адрес банка получателя: {data};Al?c? banka adresi: {data}
+Regular international passport;Общегражданский заграничный паспорт;Normal uluslararas? pasaport
+Rejected;Отклонена;Reddedildi
+RF passport;Паспорт гражданина РФ;RF pasaportu
+Deposit;Пополнение;Depozito
+The deposit via {pay_sys} has failed;Пополнение счета через {pay_sys} неудачно;{Pay_sys} yoluyla para yat?rma i?lemi ba?ar?s?z oldu
+The deposit via {pay_sys} has failed, the request is timed out.;Пополнение счета через {pay_sys} неудачно, срок действия заявки истек;{Pay_sys} yoluyla para yat?rma i?lemi ba?ar?s?z oldu, istek zaman a??m?na u?rad?.
+Bank details;Реквизиты;banka detaylar?
+SWIFT of the Correspondent Bank;SWIFT банка-корреспондента;Muhabir Bankan?n SWIFT
+SWIFT Of The Correspondent Bank: {data};SWIFT банка-корреспондента: {data};Muhabir Bankan?n SWIFT'si: {data}
+Status;Статус;Durum
+Success;Исполнена;Ba?ar?
+Amount: {data};Сумма: {data};Miktar: {data}
+Sum;Сумма;Toplam
+The payment amount is less than the minimum commissions had worked.;Сумма платежа меньше минимальной коммиссии.;?deme tutar?, ?al??m?? oldu?u minimum komisyondan daha az.
+Withdrawal amount;Вывод средств на сумму;Para ?ekme miktar?
+Terms of transfer;Срок перевода;Transfer ?artlar?
+To withdraw your funds, please proceed to {link};Чтобы вывести ваши средства, перейдите по {link};Paran?z? ?ekmek i?in l?tfen {link} adresine ilerleyin
+Transfer;Перевод;Aktar
+The minimum amount of deposit {value} {currency}.;Минимальная сумма ввода {value} {currency}.;Minimum depozito miktar? {value} {currency}.
+There was depositing error for the account {account} through the payment system DengiOnline. The client was debited, but the account was not credited with the amount.;Произошла ошибка зачисления средств на счет №{account} через платежную систему ДеньгиOnline. Деньги были списаны у клиента, но на счет не поступили.;DengiOnline ?deme sistemi ?zerinden {account} hesab? i?in para yat?rma hatas? olu?tu. M??teriden bor? al?nd?, ancak tutar hesaba yat?r?lmad?.
+There was depositing error for the account {account} through the payment system DengiOnline. If necessary, please contact the technical support.;Произошла ошибка зачисления средств через платежную систему ДеньгиOnline. При необходимости обратитесь в техническую поддержку.;DengiOnline ?deme sistemi arac?l???yla {account} hesab? i?in para yat?rma hatas? olu?tu. Gerekirse l?tfen teknik deste?e ba?vurun.
+Transfer between accounts;Перевод между счетами;Hesaplar aras?nda transfer
+Try again, if the problem persists - contact the support;Попробуйте еще раз. Если проблема не устранится, свяжитесь с администрацией сайта;Sorun devam ederse tekrar deneyin - deste?e ba?vurun
+The User {user} ({login}) has deposited the account {number} through {pay_sys} on the amount of {amount}.;Пользователь {user} ({login}) пополнил счет {number} через {pay_sys} на сумму {amount}.;Kullan?c? {user} ({login}), {number} hesab?na {amount} tutar?nda {pay_sys} yoluyla para yat?rd?.
+The User {user} ({login}) has deposited the account {number} through {pay_sys} on the amount of {amount}. {amount_account} should have been credited on his account less than fees.;Пользователь {user} ({login}) пополнил счет {number} через {pay_sys} на сумму {amount}. На его счет зачислено {amount_account};Kullan?c? {user} ({login}), {number} hesab?na {amount} tutar?nda {pay_sys} yoluyla para yat?rd?. {amount_account} hesab?na ?cretten daha az alacak ?ekilde yat?r?lm?? olmal?yd?.
+User {user} ({login}) has sent a request to deposit his account {number} through {pay_sys} on the amount of {amount_claim}. His account will be deposited on {amount_account}.;Пользователь {user} ({login}) отправил заявку на пополнение счета {number} через {pay_sys} на сумму {amount_claim}. Его счет будет пополнен на {amount_account}.;Kullan?c? {user} ({login}), {number} hesab?na {amount_claim} tutar?nda {pay_sys} ?zerinden para yat?rmak i?in bir istek g?nderdi. Hesab?na {amount_account} tarihinde yat?r?lacakt?r.
+User {user} ({login});Пользователь {user} ({login});Kullan?c? {user} ({login})
+From the account should be withdrawn {amount_account};С его счета будет снято {amount_account}.;Hesaptan geri ?ekilmelidir {amount_account}
+has sent withdrawal request for the account {number} through {pay_sys} for the amount of {amount}.;отправил заявку на вывод средств со счета {number} через {pay_sys} на сумму {amount}.;{miktar} tutar?nda {pay_sys} ?zerinden {number} hesab? i?in para ?ekme iste?i g?nderdi.
+Information review;Просмотр информации;Bilgi incelemesi
+Vouchers;Ваучер;Kuponlar
+Withdrawal amount including the fee is {commission} {currency}. Withdrawal amount excluding the fee should not be less than {count} {currency}.;Сумма для вывода с учетом комиссии составляет {commission} {currency}. Сумма вывода без учета комиссии должна быть не меньше {count} {currency}.;?cret dahil para ?ekme tutar? {komisyon} {para birimi}. ?cret hari? para ?ekme tutar? {count} {currency} 'dan az olmamal?d?r.
+WebMoney WME;;WebMoney WME
+WebMoney WMR;;WebMoney WMR
+WebMoney WMZ;;WebMoney WMZ
+When transferring through that charge a fee payment system 5%, at least $ 0.5.;При переводе через данную платежную систему взымается комиссия в размере 5%, минимум 0,5$.;Bu ?cret ?zerinden transfer yaparken% 5'lik bir ?cret ?deme sistemi, en az 0,5 $.
+Webmoney wallet;Кошелек WebMoney;Webmoney c?zdan?
+Withdraw from;Вывести с;?ekil
+Withdrawal;Вывод средств;Para ?ekme
+Yandex Money;Яндекс Деньги;Yandex Money
+Yandex wallet;Yandex кошелек;Yandex c?zdan?
+Yandex.Money;Яндекс.Деньги;Yandex.Money
+The wallet number {paysys} entered is incorrect;Вы ввели неправильный номер {paysys} кошелька.;Girilen c?zdan numaras? {paysys} yanl??
+You have sent a request for deposit an account {number} through {pay_sys} on the amount of {amount_claim}. To your account must be received {amount_account}.;Вы отправили заявку на пополнение счета {number} через {pay_sys} на сумму {amount_claim}. На ваш счет должно быть зачислено {amount_account}.;{Amount_claim} tutar?nda {pay_sys} ?zerinden bir hesaba {number} yat?rmak i?in bir istek g?nderdiniz. Hesab?n?za {amount_account} al?nmal?d?r.
+You have requested to withdraw the amount of {amount_claim} from the account {number} through {pay_sys}. The amount to be withdrawn is {amount_account}.;Вы отправили заявку на вывод средств со счета {number} через {pay_sys} на сумму {amount_claim}. С вашего счета должно быть снято {amount_account}.;{Number} hesab?ndan {amount_claim} tutar?n? {pay_sys} ile ?ekmeyi talep ettiniz. ?ekilecek miktar {amount_account}.
+You have requested to deposit the amount of {amount} to the account {number} through {pay_sys}.;Вы подали заявку на пополнение счета {number} через {pay_sys} на сумму {amount}.;{Tutar} tutar?n? {number} hesab?na {pay_sys} yoluyla yat?rmay? talep ettiniz.
+You have sent a request for withdrawal from account {number} through {pay_sys} on the amount of {amount_claim}.;Вы отправили заявку на вывод средств со счета {number} через {pay_sys} на сумму {amount_claim}.;{Number_claim} tutar?nda {pay_sys} ile {number} hesab?ndan para ?ekme iste?i g?nderdiniz.
+The amount to be withdrawn is {amount_account}.;С вашего счета должно быть снято {amount_account}.;?ekilecek miktar {amount_account}.
+{transfer_start} {transfer_end};{transfer_start} {transfer_end};{transfer_start} {transfer_end}
+{transfer_start} {transfer_mid} {transfer_end};{transfer_start} {transfer_mid} {transfer_end};{transfer_start} {transfer_mid} {transfer_end}
+You have requested to withdraw the amount of {amount} from the account {number} through {pay_sys}.;Вы отправили заявку на вывод средств со счета {number} через {pay_sys} на сумму {amount}.;{Number} hesab?ndan {miktar} tutar?n? {pay_sys} yoluyla ?ekmeyi talep ettiniz.
+You have requested to withdraw funds from the account {number} ;Вы отправили заявку на вывод средств со счета {number};{Number} hesab?ndan para ?ekme talebinde bulundunuz
+You have requested to deposit the account {number} via vaucher through {pay_sys}.;Вы подали заявку на пополнение счета {number} ваучером через {pay_sys}.;{Number} hesab?na {pay_sys} arac?l???yla vaucher arac?l???yla para yat?rma talebinde bulundunuz.
+through {pay_sys} ;через {pay_sys};{pay_sys} arac?l???yla
+for the amount of {amount_claim}. ;на сумму {amount_claim}. ;{amount_claim} miktar? i?in.
+You have transferred funds.;Вы перевели денежные средства.;Para transfer ettiniz.
+You have transferred funds: {value} {currency} from account number {account_out} to account {account_in}.;Вы перевели {value} {currency} со счета номер {account_out} на счет {account_in}.;{Account_out} hesap numaras?ndan {account_in} hesab?na {value} {currency} para aktard?n?z.
+Your deposit request for account {number} through {pay_sys} for the amount of {amount} was rejected;Ваша заявка на пополнение счета {number} через {pay_sys} на сумму {amount} была отклонена;{Tutar} tutar?ndaki {number} - {pay_sys} hesab? i?in para yat?rma talebiniz reddedildi
+Your deposit request for account {number} through {pay_sys} for the amount of {amount} was rejected, the request is timed out;Ваша заявка на пополнение счета {number} через {pay_sys} на сумму {amount} была отклонена, так как истек срок действия заявки.;{Miktar} tutar?ndaki {number} - {pay_sys} hesab? i?in para yat?rma talebiniz reddedildi, istek zaman a??m?na u?rad?
+Your demo account {account} was credited by {amount} {currency};Ваш демо счет {account} был пополнен на сумму {amount} {currency};{Account} demo hesab?n?za {amount} {currency} kadar kredi verildi
+You have deposited the account {number} through {pay_sys} on the amount of {amount_claim}. {amount_account} should have been credited on the account less than fees.;Вы пополнили счет {number} через {pay_sys} на сумму {amount_claim}. На Ваш счет должно поступить {amount_account} с учетом комиссии.;{Number} ile {pay_sys} aras?ndaki hesaba {amount_claim} tutar?nda para yat?rd?n?z. {amount_account} hesaba ?cretten daha az alacak ?ekilde yat?r?lm?? olmal?d?r.
+Qiwi;Qiwi;Qiwi
+OrangePay(Qiwi);OrangePay(Qiwi);OrangePay (Qiwi)
+webmoney;WebMoney;?nternet paras?
+OrangePay(webmoney);OrangePay(WebMoney);OrangePay (webmoney)
+yandex;Yandex Деньги;yandex
+YandexMoney;Яндекс Деньги;YandexMoney
+OrangePay(yandex);OrangePay(Яндекс Деньги);OrangePay (yandex)
+card;Банковские карты;kart
+CreditCard;Банковские карты;Kredi kart?
+OrangePay(card);OrangePay(Банковские карты);OrangePay (kart)
+paypal;PayPal;paypal
+perfect_money;Perfect Money;M?kemmel Para
+I agree to:;Я согласен с документами:;A kat?l?yorum:
+MegaTransfer Wallet;Кошелек MegaTransfer;MegaTransfer C?zdan
+mobile;Перевод на мобильный;mobil   
+best;Перевод БЭСТ;en iyi
+bank;Банковский перевод;banka
+Amount of payment ({currency});Сумма платежа ({currency});?deme tutar? ({currency})
+Your request for funds withdrawal from the {number} account through {pay_sys} for the {amount_claim} amount has been executed. Please await for the receipt of funds to your specified requisites.;Ваша заявка на вывод средств со счета {number} через {pay_sys} на сумму {amount_claim} исполнена. Пожалуйста, ожидайте поступления средств на указанные вами реквизиты.;{Amount_claim} tutar? i?in {number} hesab?ndan {pay_sys} ?zerinden para ?ekme talebiniz yerine getirildi. L?tfen belirtilen gereksinimleriniz i?in fonlar?n al?nmas?n? bekleyin.
+You cannot generate a withdrawal request because the total amount of your pending requests is {sum} {currency}.;Вы не можете сформировать заявку на вывод средств, т.к. общая сумма ваших ожидающих заявок составляет {sum} {currency}.;Bekleyen isteklerinizin toplam tutar? {sum} {currency} oldu?u i?in para ?ekme iste?i olu?turamazs?n?z.
+Commission is charged in amount of {fee}% when transferring through this payment system;При переводе через данную платежную систему взимается комиссия в размере {fee}%;Bu ?deme sistemiyle transfer yap?l?rken komisyon% {?cret} olarak al?n?r
+The types of both accounts must match;Типы обоих счетов должны совпадать;Her iki hesab?n t?r? e?le?melidir
+Сryptocurrencies;Криптовалюты;Kripto para birimleri
+I agree with:;Я согласен(а) с:;Kat?l?yorum:
+The operation cannot be completed;Операция не может быть завершена;??lem tamamlanam?yor
+Bank;Банк;Banka
+All banks;Все банки;T?m bankalar
+You have sent the claim for withdrawal in the amount of {amount}.;Вы отправили заявку на вывод средств в размере {amount}.;{Tutar} tutar?nda para ?ekme talebini g?nderdiniz.
+dollar;доллар;dolar
+dollars2;доллара;dolar2
+dollars;долларов;dolar
+cent;цент;sent
+cents2;цента;sent2
+cents;центов;sent
+euro;евро;euro
+ruble;рубль;ruble
+rubles2;рубля;ruble2
+rubles;рублей;ruble
+kopeck;копейка;Rus para birimi
+kopecks2;копейки;kopecks2
+kopecks;копеек;kopek
+The application for funds withdrawal has been successfully submitted.;Заявка на вывод денежных средств успешно подана.;Para ?ekme ba?vurusu ba?ar?yla yap?ld?.
+The amount to be credited is too small;Сумма к зачислению слишком мала;Kredilendirilecek miktar ?ok k???k
+Bank account;Банковский счет;banka hesab?
+Save payment details;Сохранить платежные данные;?deme ayr?nt?lar?n? kaydedin
+Delete payment details;Удалить платежные данные;?deme ayr?nt?lar?n? silin
+Bank branch;Отделение банка;banka ?ubesi
+The city of the bank;Город банка;Bankan?n ?ehri
+Bank province;Провинция банка;Banka vilayeti
+Currency is not active;Валюта не активна;Para birimi aktif de?il
+Payment method is not active;Метод оплаты не активен;?deme y?ntemi aktif de?il
+Card number {currency};Номер карты {currency};Kart numaras? {currency}
+Wallet address;Адрес кошелька;C?zdan adresi
+Wallet address {currency};Адрес кошелька {currency};C?zdan adresi {currency}
+Mir;Мир;Mir
+Beeline;Билайн;Beeline
+Megafon;Мегафон;Megafon
+Tele2;Теле2;Tele2
+MTS;МТС;MTS
+Alfa-click;Альфа-Клик;Alfa t?klama
+Qiwi terminal;Qiwi терминал;Qiwi terminali
+World terminal;World терминал;D?nya terminali
+Svyaznoy;Связной;Svyaznoy
+Promsvyazbank;Промсвязьбанк;Promsvyazbank
+QIWI Kazakhstan;QIWI Казахстан;QIWI Kazakistan
+Sberbank online;Сбербанк Онлайн;Sberbank ?evrimi?i
+Bank account number;Номер банковского счета;banka hesab? numaras?
+The account does not belong to you.;Счет вам не принадлежит;Hesap size ait de?il.
+Bank cards (Yandex provider);Банковские карты (провайдер Яндекс);Banka kartlar? (Yandex sa?lay?c?s?)
+CreditCardYandex;Банковские карты (провайдер Яндекс);Kredi Kart?Yandex
+Bank cards (Qiwi provider);Банковские карты (провайдер Qiwi);Banka kartlar? (Qiwi sa?lay?c?)
+CreditCardQiwi;Банковские карты (провайдер Qiwi);Kredi Kart?Qiwi
+Voucher;Ваучер;Kupon
+Voucher Password;Пароль ваучера;Kupon ?ifresi
+Bank cards (Monetix wallet);Банковские карты (Monetix wallet);Banka kartlar? (Monetix c?zdan)
+Transfer funds from {account_out} to {account_on};Перевод средств со счета {account_out} на счет {account_on};{Account_out} hesab?ndan {account_on} hesab?na para aktar?n
+Transfer funds from the account {account_out} to the master account {offer_name};Перевод средств со счета {account_out} на мастер-счет {offer_name};{Account_out} hesab?ndan {offer_name} ana hesab?na para aktar?n
+Transfer funds from the master account {offer_name} to the account {account_on};Перевод средств с мастер-счета {offer_name} на счет {account_on};{Offer_name} ana hesaptan {account_on} hesab?na para aktar?n
+Transfer funds from account {account_out} to investor account {account_on};Перевод средств со счета {account_out} на счет инвестора {account_on};{Account_out} hesab?ndan {account_on} yat?r?mc? hesab?na para aktar?n
+Transfer funds from investor’s account {account_out} to account {account_on};Перевод средств со счета инвестора {account_out} на счет {account_on};Yat?r?mc?n?n hesab?ndan {account_out} {account_on} hesab?na para aktar?n
+Transfer of funds from the investor’s account {account_out} to the account {account_on} due to the closure of the investor’s account;Перевод средств со счета инвестора {account_out} на счет {account_on} по причине закрытия счета инвестора;Yat?r?mc?n?n hesab?n?n kapat?lmas? nedeniyle yat?r?mc?n?n {account_out} hesab?ndan {account_on} hesab?na para aktar?m?
+Transfer of funds from investor’s account {account_out} to account {account_on} due to the closing of the offer {offer_name};Перевод средств со счета инвестора {account_out} на счет {account_on} по причине закрытия оферты {offer_name};Yat?r?mc?n?n {account_out} hesab?ndan {account_on} hesab?na {offer_name} teklifinin kapanmas? nedeniyle para transferi
+Transfer of funds from the master account {offer_name} to the account {account_on} due to the closure of the offer;Перевод средств с мастер-счета {offer_name} на счет {account_on} по причине закрытия оферты;Teklifin kapat?lmas? nedeniyle {offer_name} ana hesaptan {account_on} hesab?na para transferi
+Banks of Vietnam;Банки Вьетнама;Vietnam Bankalar?
+You have an opened orders on master account. To close orders, go to the webtrader.;На мастер-счете есть открытые сделки. Чтобы закрыть сделки, перейдите в торговый терминал.;Ana hesapta a??lm?? bir sipari?iniz var. Sipari?leri kapatmak i?in webtrader'a gidin.
+proInvestor;;proyat?r?mc?
+Оригинал;Перевод;
+Create a request;Создать заявку;Bir istek olu?tur
+Yes;Да;Evet
+No;Нет;Hay?r
+Hide trading history;Скрывать торговую историю;Ticaret ge?mi?ini gizle
+Do not display the trading history of the Master Account for investors.;Не отображать для инвесторов торговую историю мастер счета;Yat?r?mc?lar i?in Ana Hesab?n ticaret ge?mi?ini g?r?nt?lemeyin.
+Functionality is not available;Функционал не доступен;??levsellik mevcut de?il
+day|days|days;день|дня|день;g?n | g?n | g?n
+(must be at least {sum});(должно быть не менее {sum});(en az {toplam} olmal?d?r)
+1-month profit;Доходность за месяц;1 ayl?k k?r
+1-week profit;Доходность за неделю;1 haftal?k k?r
+1-year profit;Доходность за год;1 y?ll?k k?r
+3-months profit;Доходность за три месяца;3 ayl?k kar
+6-months profit;Доходность за шесть месяцев;6 ayl?k k?r
+Allowed;Разрешено;?zin veriliyor
+Account number;Номер счета;Hesap numaras?
+Account params;Параметры счета;Hesap parametreleri
+You have no live trading accounts.;У вас нет реальных торговых счетов.;Canl? i?lem hesab?n?z yok.
+Account to connect;Счет для подключения;Ba?lan?lacak hesap
+Account type is successfully changed.;Тип счета был успешно изменен;Hesap t?r? ba?ar?yla de?i?tirildi.
+Age;Возраст;Ya?
+At the moment, you can't open an account. Contact your administrator.;В данный момент нельзя подключить счет. Обратитесь к администратору.;?u anda bir hesap a?amazs?n?z. Y?neticinizle ileti?ime ge?in.
+Currency of fund account;Валюта фондового счета;Fon hesab?n?n para birimi
+Fund account statistics;Статистика фондового счета;Fon hesab? istatistikleri
+Profit from fund account;Доходность фондового счета;Fon hesab?ndan kar
+Fund account number;Номер фондового счета;Fon hesap numaras?
+The percentage of the Investor profit, which is paid to the Manager monthly. Valid values are from 0 to 100.;Процент от дохода Инвестора, ежемесячно перечисляемый на счет Управляющего. Допустимые значения от 0 до 100.;Y?neticiye ayl?k olarak ?denen Yat?r?mc? kar?n?n y?zdesi. Ge?erli de?erler 0 ile 100 aras?ndad?r.
+Value in «{field}» must be bigger then {min_sum}.;Значение поля «{field}» должно быть больше {min_sum}.;«{Alan}» i?indeki de?er {min_sum} de?erinden b?y?k olmal?d?r.
+Profit for all the time;Доходность за все время;Her zaman kar elde edin
+Amount of payment;Сумма платежа;?deme miktar?
+Amount of payment must be bigger {value}.;Сумма платежа должна быть больше {value}.;?deme miktar? {de?er} daha b?y?k olmal?d?r.
+Amount of the Manager’s first deposit to the master account.;Размер первого пополнения мастер счета Управляющим.;Y?neticinin ana hesaba yapt??? ilk para yat?rma tutar?.
+Amount of the investor’s first deposit to the master account.;Размер первого пополнения мастер счета Инвестором.;Yat?r?mc?n?n ana hesaba ilk yat?rd??? tutar.
+Amount weekly transferred by the Investor to the Manager’s account.;Сумма, еженедельно перечисляемая Инвестором на счет Управляющего.;Yat?r?mc? taraf?ndan Y?netici hesab?na haftal?k olarak aktar?lan tutar.
+Confirmed;Подтвержден;Onaylanm??
+Open a trading account;Подключить торговый счет;Bir ticaret hesab? a??n
+Back to homepage;Вернуться на главную;ana sayfaya geri d?n
+During the transfer an unknown error has occurred, please try again later.;Во время перевода произошла неизвестная ошибка. Пожалуйста, повторите операцию позже.;Aktar?m s?ras?nda bilinmeyen bir hata olu?tu, l?tfen daha sonra tekrar deneyin.
+Charge {interest} %;Начислено {interest} %;% {Faiz} al
+Client agreement;Пользовательское соглашение;M??teri s?zle?mesi
+Account close;Закрытие счета;Hesap kapatma
+Offer close;Закрытие оферты;Teklif yak?n
+Comments;Комментарий;Yorumlar (de?i?tir | kayna?? de?i?tir)
+Commission;Комиссия;komisyon
+Create;Создать;Olu?turmak
+Profitability;Доходность;Karl?l?k
+Open an account;Создать счет;Hesap a?
+Open investor account;Создать счет инвестора;Yat?r?mc? hesab? a?
+Open master account;Создать мастер счет;Ana hesap a??n
+Create trading history;Создать торговую историю;Ticaret ge?mi?i olu?turun
+Currency;Валюта;Para birimi
+Currency of deposit;Валюта зачисления;Mevduat para birimi
+Currency of investor account;Валюта счета инвестора;Yat?r?mc? hesab?n?n para birimi
+Currency of withdrawal;Валюта снятия;Para ?ekme para birimi
+Date;Дата;Tarih (de?i?tir | kayna?? de?i?tir)
+Date of deposit;Дата начисления;Para yat?rma tarihi
+Close date;Дата закрытия;Yak?n tarih
+Creation date;Дата создания;Olu?turulma tarihi
+Date of investor  account opening.;Дата создания счета инвестора.;Yat?r?mc? hesab? a??l?? tarihi.
+Date of master account opening. It is recommended to specify an interval at least three month from the current date to have sufficient trading history.;Дата создания мастер счета. Рекомендуем указывать период не менее трех месяцев от текущей даты, чтобы была достаточная история торговли.;Ana hesap a??l?? tarihi. Yeterli i?lem ge?mi?ine sahip olmak i?in mevcut tarihten itibaren en az ?? ayl?k bir aral?k belirtmeniz ?nerilir.
+Start date;Дата открытия;Ba?lang?? ??tarihi
+Deals number;Количество сделок;F?rsat numaras?
+Deals opening;Создание сделок;A??l?? anla?malar?
+Deals in month;Сделок в месяц;Ayl?k f?rsatlar
+Deals were successfully opened;Сделки успешно созданы;Anla?malar ba?ar?yla a??ld?
+Delete investor account;Удаление счета инвестора;Yat?r?mc? hesab?n? sil
+Delete master account;Удаление мастер счета;Ana hesab? sil
+Demo;Демо;Demo
+Denied;Запрещено;Reddedildi
+Funds deposit;Зачисление средств;Para yat?rma
+Deposit/Withdrawal;Пополнение/Снятие;Para Yat?rma / ?ekme
+Description;Описание;A??klama
+Make it non public;Сделать не публичной;Herkese a??k yapmay?n
+Upload deals;Загрузить сделки;Anla?malar? y?kle
+Upload trading history;Загрузить торговую историю;Ticaret ge?mi?ini y?kle
+Selection;Выборка;Se?imi
+Edit;Редактировать;D?zenle
+There is not enough money for transaction;Недостаточно средств для перевода.;??lem i?in yeterli para yok
+There is not enough money on your trading account;Недостаточно средств на вашем торговом счете.;Ticaret hesab?n?zda yeterli para yok
+Funds growth;Прирост средств;Fon b?y?mesi
+Deposit error;Ошибка зачисления.;Para yat?rma hatas?
+File is not uploaded;Файл не загружен;Dosya y?klenmedi
+First deposit;Первый платеж;?lk para yat?rma
+First launch;Первый запуск;?lk ba?latma
+Fund;Фонд;Fon, sermaye
+Fund account;Фондовый счет;Fon hesab?
+Funds;Средства;Para kayna??
+Funds transaction;Перевод средств;Fon i?lemi
+Account type;Тип счета;Hesap tipi
+I agree;Я согласен;kat?l?yorum
+I agree with;Я согласен с;kat?l?yorum
+Terms of the offer;условиями оферты;Teklifin ?artlar?
+Information;Информация;Bilgi
+Deposit date;Дата начисления;Para yat?rma tarihi
+Charges;Начисления;?cretler
+Insufficient funds;Недостаточно средств;Yetersiz bakiye
+Interest;Процент;Faiz
+Interest  has been accrued;Процент начислен;Faiz tahakkuk etti
+Interest charge;Начисление процентов;Faiz gideri
+Invest;Инвестировать;Yat?r?m
+Investor account is successfully connected to the system;Счет инвестора успешно подключен;Yat?r?mc? hesab? sisteme ba?ar?yla ba?land?
+Investor account number;Номер счета инвестора;Yat?r?mc? hesap numaras?
+Investor account statistics;Статистика счета инвестора;Yat?r?mc? hesap istatistikleri
+Investor funds;Средства инвесторов;Yat?r?mc? fonlar?
+Investor deposited the account;Инвестор зачислил на счет;Yat?r?mc? hesab? yat?rd?
+Investor with number {account_number} hasn't got enough money for weekly subscription.;У инвестора с номером счета {account_number} недостаточно средств для еженедельной абонентской платы.;{Account_number} numaral? yat?r?mc?n?n haftal?k abonelik i?in yeterli paras? yok.
+Investors;Инвесторы;Yat?r?mc?lar
+Investors' funds;Средства инвесторов;Yat?r?mc? fonlar?
+Date of connection;Дата подключения;Ba?lant? tarihi
+Lot size;Размер лота;Lot b?y?kl???
+Master Account;Мастер счет;Ana hesap
+Master account;Мастер счет;Ana hesap
+Master account for which the trading history is being loaded;Мастер счет, для которого загружается торговая история;??lem ge?mi?inin y?klendi?i ana hesap
+Master account is successfully connected to the system;Мастер счет успешно подключен;Ana hesap sisteme ba?ar?yla ba?land?
+Master account number;Номер мастер счета;Ana hesap numaras?
+Master account statistics;Статистика мастер счета;Ana hesap istatistikleri
+Master funds;Средств мастера;Ana fonlar
+Method of payment for managing investor accounts.;Способ оплаты за управление счетами инвесторов.;Yat?r?mc? hesaplar?n? y?netmek i?in ?deme y?ntemi.
+Min Deposit;Минимальный депозит;Min Depozito
+Min deposit;Минимальный депозит;Min depozito
+Min deposit and profit value must be numbers;Минимальный депозит и сумма вознаграждения должны быть числами.;Min depozito ve kar de?eri rakamlardan olu?mal?d?r
+Minimum deposit amount.;Минимальная сумма для инвестирования.;Minimum para yat?rma miktar?.
+Month;Месяц;Ay
+Name;Название;?sim Soyisim
+Funds needed for publicity;Необходимо средств для публичности;Tan?t?m i?in gerekli fonlar
+Accounts deposits are not allowed. You can only {close} this investor account or withdraw funds.;Пополнение счетов запрещено. Вы можете только {close} этот счет инвестора и вывести средства.;Hesap mevduatlar?na izin verilmez. Bu yat?r?mc? hesab?n? yaln?zca {kapatabilir} veya para ?ekebilirsiniz.
+"There is not enough money for transaction or you enter a small value in the field ""Amount"" . Minimum sum of transaction for this offer is {value} {currency}.";"Недостаточно средств для перевода, или вы ввели в поле ""Сумма"" маленькое значение. Минимальная сумма перевода для этой оферты {value} {currency}.";"??lem i?in yeterli para yok veya ""Tutar"" alan?na k???k bir de?er giriyorsunuz. Bu teklif i?in minimum i?lem tutar? {value} {currency}."
+Not public;Не публична;Halka a??k de?il
+There are no account types available. Please choose another account.;Нет доступных типов счетов. Выберите другой счет.;Kullan?labilir hesap t?r? yok. L?tfen ba?ka bir hesap se?in.
+Notice of risks;Уведомление о рисках;Risk bildirimi
+Now market is closed. You can close your investor account only if market is opened. Please try again later.;В данный момент рынок закрыт. Вы можете закрыть свой счет инвестора, только когда рынок открыт. Попробуйте повторить позже.;?imdi piyasa kapand?. Yat?r?mc? hesab?n?z? ancak piyasa a??lm??sa kapatabilirsiniz. L?tfen daha sonra tekrar deneyiniz.
+Now market is closed. You can close your master account only if market is opened. Please try again later.;Сейчас рынок закрыт. Вы можете закрыть мастер счет, только когда рынок открыт. Попробуйте повторить позже.;?imdi piyasa kapand?. Ana hesab?n?z? yaln?zca piyasa a??ksa kapatabilirsiniz. L?tfen daha sonra tekrar deneyiniz.
+Now market is closed. You can deposit or withdraw your investor account only if market is opened. Please try again later.;Сейчас рынок закрыт. Вы можете пополнить или вывести средства со счета, только когда рынок открыт. Попробуйте повторить позже.;?imdi piyasa kapand?. Yat?r?mc? hesab?n?z? sadece piyasa a??ld???nda yat?rabilir veya ?ekebilirsiniz. L?tfen daha sonra tekrar deneyiniz.
+Now market is closed. You may withdraw your money only if market is opened. Please try again later.;В данный момент рынок закрыт. Вы можете вывести ваши средства, только когда рынок открыт. Попробуйте повторить позже.;?imdi piyasa kapand?. Paran?z? ancak piyasa a??l?rsa ?ekebilirsiniz. L?tfen daha sonra tekrar deneyiniz.
+Number;Номер;Numara
+Offer edit is denied;Редактирование оферты запрещено;Teklif d?zenleme reddedildi
+Offer change;Изменение оферты;Teklif de?i?ikli?i
+Offer description;Описание оферты;Teklif a??klamas?
+Offer name;Название оферты;Teklif ad?
+Offer name and number;Название оферты и номер;Teklif ad? ve numaras?
+Transaction type;Тип перевода;??lem tipi
+Offer settings;Параметры оферты;Teklif ayarlar?
+Offer type;Тип оферты;Teklif tipi
+An email with an activation link has been sent to your mailbox {mail}. To complete the registration click a link in the email!;На адрес {mail} отправлено письмо со ссылкой активации. Для завершения регистрации перейдите по ссылке.;Posta kutunuza {mail} aktivasyon ba?lant?s? i?eren bir e-posta g?nderildi. Kayd? tamamlamak i?in e-postadaki bir ba?lant?ya t?klay?n!
+An email with an activation link has been sent to your mailbox {mail}.  To complete the deletion of investor account click a link in the email!;На адрес {mail} отправлено письмо подтверждения. Для завершения удаления счета инвестора перейдите по ссылке в письме.;Posta kutunuza {mail} aktivasyon ba?lant?s? i?eren bir e-posta g?nderildi. Yat?r?mc? hesab?n?n silinmesini tamamlamak i?in e-postadaki bir ba?lant?ya t?klay?n!
+An email with an activation link has been sent to your mailbox {mail}. To complete the deletion of Master account click a link in the email!;На адрес {mail} отправлено письмо подтверждения. Для завершения удаления мастер-счета перейдите по ссылке в письме.;Posta kutunuza {mail} aktivasyon ba?lant?s? i?eren bir e-posta g?nderildi. Ana hesab?n silinmesini tamamlamak i?in e-postadaki bir ba?lant?ya t?klay?n!
+An email with password from your Master account has been sent to your mailbox {mail}.;На адрес {mail} отправлено письмо с паролем от вашего мастер счета.;Ana hesab?n?zdan ?ifreli bir e-posta posta kutunuza {mail} g?nderildi.
+Open date;Дата открытия;A??k tarih
+Page is not found;Страница не найдена;Sayfa bulunamad?
+Payed;;?dendi
+Percent must be in interval from 0 to 100;Процент должен быть в интервале от 0 до 100;Y?zde, 0 ile 100 aras?nda olmal?d?r
+Percent;Процент;Y?zde
+Transactions are denied;Переводы запрещены;??lemler reddedildi
+Profit interest;Процент с прибыли;Kar faizi
+Investor accounts opening permission;Разрешение пополнения и создания инвест счетов;Yat?r?mc? hesab? a?ma izni
+Please check «{field}» field format;Пожалуйста проверьте «{field}» формат поля;L?tfen «{alan}» alan bi?imini kontrol edin
+Popularity;Популярность;Pop?lerlik
+Ability to create and deposit the investor accounts for this offer.;Возможность создания и пополнения инвесторских счетов для данной оферты.;Bu teklif i?in yat?r?mc? hesaplar? olu?turma ve yat?rma yetene?i.
+Close price;Цена закрытия;Kapan?? fiyat?
+Currency of transaction;Валюта перевода;??lemin para birimi
+Open price;Цена открытия;A??k fiyat
+Profit;Прибыль;Kar
+Not enough money for transaction. You need minimum {value} {currency} with subscription.;Недостаточно средств для перевода. Вам необходимо минимум {value} {currency} с учетом абонентской платы.;??lem i?in yeterli para yok. Abonelikle minimum {de?er} {para birimi} gerekir.
+You have opened positions. You can not edit offer condition. Please close it and try again.;Вы не можете изменять условия оферты, пока у вас есть открытые позиции. Пожалуйста, закройте их и повторите еще раз.;Pozisyon a?t?n?z. Teklif ko?ulunu d?zenleyemezsiniz. L?tfen kapat?n ve tekrar deneyin.
+Profit type;Тип вознаграждения;Kar t?r?
+Sum of the profit;Сумма вознаграждения;Kar?n toplam?
+Public;Публична;halka a??k
+There is not enough money for transaction. You can't withdraw your profit this month.;Недостаточно средств для перевода. Вы не можете вывести ваш доход за текущий месяц.;??lem i?in yeterli para yok. Bu ay kar?n?z? ?ekemezsiniz.
+There is not enough money for transaction. You can't withdraw your profit.;Недостаточно средств для перевода. Вы не можете вывести ваш доход.;??lem i?in yeterli para yok. K?r?n?z? ?ekemezsiniz.
+Publicity;Публичность;Tan?t?m
+Registration of Investor account;Регистрация счета инвестора;Yat?r?mc? hesab?n?n kayd?
+Report file of the strategy tester, generated in MT4 (Max deals amount is 200).;Файл отчета тестера стратегий, сформированный в MT4 (Максимальное кол-во сделок 200);MT4'te olu?turulan strateji test?isinin rapor dosyas? (Maksimum i?lem tutar? 200'd?r).
+Investment profit;Доходность;Yat?r?m kar?
+Profit from Investor account;Доходность счета инвестора;Yat?r?mc? hesab?ndan kar
+Profit from Master account;Доходность мастер счета;Ana hesaptan kar
+Profit in %;Доходность в %;% Olarak kar
+Deposit;Зачислить;Depozito
+Make it public;Опубликовать;Herkese a??k hale getirin
+Specify detailed information about your master account.;Укажите подробную информацию о Вашем мастер счете.;Ana hesab?n?z hakk?nda ayr?nt?l? bilgileri belirtin.
+Subscription;Абонентская плата;Abonelik
+Swap;Своп;Takas
+Symbol;Символ;Sembol
+Symbols;Инструменты;Semboller
+Withdrawal amount;Сумма вывода;Para ?ekme miktar?
+The number of investors;Количество инвесторов;Yat?r?mc? say?s?
+A deposit of account has been performed, number;Пополнение счета номер;Bir hesap depozitosu yap?ld?, numara
+A withdrawal of funds has been performed, number;Снятие средств со счета номер;Para ?ekme i?lemi ger?ekle?tirildi, numara
+This investor hasn't got enough money for subscription;У инвестора недостаточно средств для абонентской платы;Bu yat?r?mc?n?n abonelik i?in yeterli paras? yok
+This user is already connected to this offer;Этот пользователь уже подключен к данной оферте;Bu kullan?c? zaten bu teklife ba?l?
+To register investor account, click {link}.;Для регистрации счета инвестора перейдите по {link}.;Yat?r?mc? hesab?n? kaydetmek i?in {link} t?klay?n.
+Trading account number;Номер торгового счета;Ticaret hesap numaras?
+Trading account of the Manager, to which the funds from master account will be transferred.;Торговый счет Управляющего, на который будут выведены средства с мастер счета.;Ana hesaptaki fonlar?n aktar?laca?? Y?neticinin al?m sat?m hesab?.
+Deals;Сделки;F?rsatlar
+Trust management agreement;Соглашение о доверительном управлении;G?ven y?netimi anla?mas?
+Type;Тип;T?r
+Offer terms;Условия оферты;Teklif ?artlar?
+Type of created offer.;Тип создаваемой оферты.;Olu?turulan teklifin t?r?.
+User;Пользователь;Kullan?c?
+User's account in Web Office;Счет пользователя в личном кабинете.;Web Office'teki kullan?c? hesab?
+Requests review;Просмотр заявок;?nceleme istekleri
+Volume;Объем;Ses
+Withdrawal;Снятие средств;Para ?ekme
+Profitability {sum}%;Доходность {sum}%;Karl?l?k% {sum}
+"You have opened investor account number {number}, new account was connected to offer: ""{offer}"".";"Вы создали счет инвестора номер: {number}, новый счет был присоединен к оферте: ""{offer}"".";"{Number} yat?r?mc? hesap numaras?n? a?t?n?z, teklif i?in yeni hesap ba?land?: ""{offer}""."
+"You have opened {type} number: {number} in group: ""{group}"" on the server: ""{server}"".";"Вы создали {type} номер: {number} в группе: ""{group}"" на сервере: ""{server}"".";"{Server} sunucusunda ""{group}"" grubunda {type} number: {number} a?t?n?z."
+You have bonuses on your account. Please, delete them and try again.;На вашем счете есть бонусные средства. Пожалуйста, удалите их и попробуйте снова.;Hesab?n?zda bonuslar?n?z var. L?tfen bunlar? silin ve tekrar deneyin.
+You have new investor account ;У вас новый инвестор ;Yeni yat?r?mc? hesab?n?z var
+You have opened positions, please close them, and try again.;У вас есть открытые позиции. Пожалуйста, закройте их и попробуйте снова.;Pozisyon a?t?n?z, l?tfen kapat?n ve tekrar deneyin.
+You have opened positions. You can not deposit or withdraw your master account while they are opened. Please close them and try again.;У вас есть открытые позиции. Вы не можете пополнить или снять средства с мастер счета, пока они открыты. Пожалуйста, закройте их и повторите еще раз.;Pozisyon a?t?n?z. Ana hesab?n?z a??kken para yat?ramaz veya ?ekemezsiniz. L?tfen bunlar? kapat?n ve tekrar deneyin.
+"You must add trading group on the server ""{server}"".";"Вы должны добавить торговую группу на сервер: ""{server}"".";{Server} sunucusuna ticaret grubu eklemelisiniz.
+You need to {create} trust management group to use this option;Вам необходимо {create} группу доверительного управления для использования этой опции.;Bu se?ene?i kullanmak i?in g?ven y?netim grubuna {create} ihtiyac?n?z var
+You need to {create} master account for use this option.;Вам необходим {create} мастер счет для использования данного функционала.;Bu se?ene?i kullanmak i?in {create} ana hesab?na ihtiyac?n?z var.
+You need to {create} trading group to use this option.;Вам необходимо {create} торговую группу для использования этой опции.;Bu se?ene?i kullanmak i?in ticaret grubu {olu?turmal?s?n?z}.
+You need to {create} the user with trader's rights to use this option;Вам необходимо {create} пользователя с правами трейдера для использования этой опции.;Bu se?ene?i kullanmak i?in t?ccar haklar?na sahip kullan?c?y? {olu?turmal?s?n?z}
+"You need to fill in ""First deposit"" field";"Вам необходимо заполнить поле ""Первый депозит""";?lk para yat?rma alan?n? doldurman?z gerekiyor
+"You have entered small value in the field ""Amount"" . Minimum sum of transaction to this offer is {value} {currency}.";"Вы занесли в поле ""Сумма"" маленькое значение. Минимальная сумма перевода для этой оферты составляет {value} {currency}.";Miktar alan?na k???k bir de?er girdiniz. Bu teklife ili?kin minimum i?lem tutar? {value} {currency}.
+Your funds;Ваших средств;Paran?z
+Your investor account has been deleted;Ваш счет инвестора был удален;Yat?r?mc? hesab?n?z silindi
+Your master account has been deleted;Ваш мастер счет был удален;Ana hesab?n?z silindi
+Your trading account where the money will be withdrawn;Ваш торговый счет, с которого будут сняты деньги.;Paran?n ?ekilece?i ticaret hesab?n?z
+Your trading account where the money will be deposited;Ваш торговый счет, на который будут зачислены деньги.;Paran?n yat?r?laca?? ticaret hesab?n?z
+close;Закрыть;kapat
+Not enough money for transfer.;Не хватает средств для перевода.;Transfer i?in yeterli para yok.
+Not enough money for trasfer. There must be at least {funds} {currency} on your account.;Не хватает средств для перевода. На вашем счете должно быть минимум {funds} {currency}.;Transfer i?in yeterli para yok. Hesab?n?zda en az {money} {currency} olmal?d?r.
+in the amount of;на сумму;de?erinde
+link;ссылке;ba?lant?
+The letter with activation link has been sent to your email {email}.;На ваш электронный адрес {email} отправлено письмо со ссылкой активации.;Aktivasyon ba?lant?s?n? i?eren mektup {email} e-postan?za g?nderildi.
+Your investor account has been deleted, because the master has increased the amount of consideration;Ваш инвесторский счет был удален, потому что мастер увеличил сумму вознаграждения.;Yat?r?mc? hesab?n?z silindi, ??nk? ana hesap bedelini art?rd?
+Incorect data;Неправильные данные;Incorect verileri
+You have already deals on this account;На этом счете уже есть сделки;Bu hesapta zaten anla?malar?n?z var
+Coefficient;Коэффициент;Katsay?
+Changing offer conditions;Изменение условий оферты;Teklif ko?ullar?n? de?i?tirme
+Incorrect file format;Неправильный формат файла;Yanl?? dosya bi?imi
+You have option deals on this account, you can not make it master account;На этом счете есть сделки по опционам, его нельзя сделать мастер счетом.;Bu hesapta opsiyon anla?malar?n?z var, bunu ana hesap yapamazs?n?z
+This account is connected to an invest account, please disable it and try again.;Этот счет имеет подключенный инвест-счет. Пожалуйста, отключите его и попробуйте снова.;Bu hesap bir yat?r?m hesab?na ba?l?, l?tfen devre d??? b?rak?n ve tekrar deneyin.
+The coefficient which will be multiplied by the options trades;Коэффициент, на который будут умножены параметры сделок;Opsiyon ticareti ile ?arp?lacak katsay?
+The table can have not relevant data in connection with the feature of the work. Time delay is 1-2 hours.;Таблица может иметь неактуальные данные в связи с особенностью работы. Задержка по времени составляет 1-2 часа.;Tablo, i?in ?zelli?i ile ba?lant?l? olarak ilgili verilere sahip olamaz. Zaman gecikmesi 1-2 saattir.
+Please check «{field}». You need to put in this field sum bigger than the sum in settings «{setting}»;Пожалуйста, проверьте «{field}». Вам необходимо внести в это поле сумму больше,чем указано в настройке «{setting}»;"L?tfen ""{alan}"" alan?n? kontrol edin. Bu alana toplam? «{setting}» ayarlar?ndaki toplamdan daha b?y?k olarak girmelisiniz"
+{trans_start} {trans_mid} {trans_end}; {trans_start} {trans_mid} {trans_end};{trans_start} {trans_mid} {trans_end}
+{trans_start} {trans_end}; {trans_start} {trans_end};{trans_start} {trans_end}
+Are you sure you want to close this Investor's account?;Вы уверены, что хотите закрыть данный инвесторский счет?;Bu Yat?r?mc?n?n hesab?n? kapatmak istedi?inizden emin misiniz?
+A request for Investor's account {account_number} closure has been sent successfully;Заявка на закрытие инвесторского счета {account_number} успешно отправлена;Yat?r?mc? hesab?n?n {account_number} kapat?lmas? i?in bir istek ba?ar?yla g?nderildi
+Investor's account {account_number} has been closed successfully;Инвесторский счет {account_number} успешно закрыт;Yat?r?mc?n?n hesab? {account_number} ba?ar?yla kapat?ld?
+Removal of the investor's account has been already confirmed by another user;Удаление инвесторского счета уже подтверждено другим пользователем;Yat?r?mc?n?n hesab?n?n kald?r?lmas? ba?ka bir kullan?c? taraf?ndan zaten onayland?
+fund account;фондовый счет;fon hesab?
+master account;мастер счет;Ana hesap
+The creation date of the investment account cannot be earlier than the creation date of the master account.;Дата создания инвестиционного счета не может быть раньше даты создания мастер счета.;Yat?r?m hesab?n?n olu?turulma tarihi, ana hesab?n olu?turulma tarihinden ?nce olamaz.
+Do you really want to publish the formal offer?;Вы действительно хотите опубликовать оферту?;Resmi teklifi ger?ekten yay?nlamak istiyor musunuz?
+Your request for the formal offer publication has been successfully sent to the administrator.;Ваш запрос на публикацию оферты успешно отправлен администратору.;Resmi teklif yay?nlama talebiniz y?neticiye ba?ar?yla g?nderildi.
+Minimum deposit and amount of consideration should be defined as positive numbers.;Минимальный депозит и сумма вознаграждения должны быть положительными числами.;Minimum depozito ve ?deme miktar? pozitif say?lar olarak tan?mlanmal?d?r.
+The terms of the offer have been successfully changed.;Условия оферты успешно изменены.;Teklifin ?artlar? ba?ar?yla de?i?tirildi.
+The offer doesn't exist.;Оферты не существует.;Teklif mevcut de?il.
+Unable to create account;Невозможно создать счет;Hesap olu?turulam?yor
+Invest account {account_number} successfully deleted;Инвесторский счет {account_number} успешно удален;Yat?r?m hesab? {account_number} ba?ar?yla silindi
+Investor account created;Инвесторский счет создан;Yat?r?mc? hesab? olu?turuldu
+You have open positions, please close them, and try again.;У вас есть открытые позиции, пожалуйста, закройте их и повторите попытку.;A??k pozisyonlar?n?z var, l?tfen kapat?n ve tekrar deneyin.
+On this account there are deals on options, it can not make a master account.;Нельзя сделать мастер-счет, так как на этом счете есть сделки по опционам.;Bu hesapta se?enekler ?zerinde anla?malar var, ana hesap yapamaz.
+You have bonus money on your account, please delete them, and try again.;У вас на счету есть бонусные деньги, потратьте их и повторите попытку.;Hesab?n?zda bonus paran?z var, l?tfen bunlar? silin ve tekrar deneyin.
+You need to connect trade account.;Вам нужно подключить торговый счет.;Ticaret hesab?n? ba?laman?z gerekir.
+Master account successfully connect, need activation;Мастер-счет успешно подключен, требуется активация;Ana hesap ba?ar?yla ba?land?, aktivasyon gerekiyor
+Operation is prohibited by the settings.;Операция запрещена настройками;Ayarlarla i?lem yasaklanm??t?r.
+Demo master account already has offer account;Демо мастер-счет уже подключен к оферте;Demo ana hesab?n?n zaten teklif hesab? var
+Open invest account forbidden;Открывать инвестиционный счет запрещено;A??k yat?r?m hesab? yasakland?
+No accounts;Счета не найдены;Hesap yok
+You can not to connect more then one type of investor to this master;К этому мастер-счету нельзя подключить более одного инвестора;Bu ustaya birden fazla yat?r?mc? t?r? ba?layamazs?n?z
+You can not to connect live account to demo;Реальный счет нельзя подключить к демо;Canl? hesab? demoya ba?layamazs?n?z
+No master real trade account;Нет реального торгового счета;Ana ger?ek ticaret hesab? yok
+Create investor account;Создан инвесторский счет;Yat?r?mc? hesab? olu?turun
+Not enough funds;Недостаточно средств;Yeterli bakiye yok
+Too small transfer value;Недостаточно средств для перевода;?ok k???k transfer de?eri
+No offer;Оферта не найдена;Teklif yok
+Offer not approved or not payed;Оферта не одобрена или не оплачена;Teklif onaylanmad? veya ?denmedi
+Master account successfully registered, need activation;Мастер-счет успешно зарегистрирован, требуется активация;Ana hesap ba?ar?yla kaydedildi, aktivasyon gerekiyor
+Cannot create master account with inactive profit_id;Не удается создать мастер-счет с неактивным profit_id;Etkin olmayan kar_kimli?i ile ana hesap olu?turulamaz
+User does not have trade accounts;У пользователя нет торговых счетов;Kullan?c?n?n ticaret hesab? yok
+Offer condition will be changed, need activation;Условие оферты будет изменено, нужна активация;Teklif ko?ulu de?i?tirilecek, aktivasyon gerekli
+Offer will be deleted, need activation;Оферта будет удалена, нужна активация;Teklif silinecek, aktivasyon gerekli
+Activation not save;Ошибка при активации;Aktivasyon kaydedilmiyor
+Market now is close;Торги закрыты;Pazar ?imdi yak?n
+Checking connect investors accounts;Проверка подключения инвест-счетов;Yat?r?mc? hesaplar?n? ba?la kontrol ediliyor
+Info about user accounts;Информация о счетах пользователей;Kullan?c? hesaplar? hakk?nda bilgi
+Email was successfully send;Письмо отправлено;E-posta ba?ar?yla g?nderildi
+The account does not belong to the user or account type is not master;Счет не принадлежит пользователю или тип счета не является мастер-счетом;Hesap kullan?c?ya ait de?il veya hesap t?r? ana de?il
+Minimum investment period;Минимальный срок инвестирования;Minimum yat?r?m s?resi
+The minimum investment period during which the investor will not be able to withdraw funds. 12 months maximum.;Минимальный срок инвестирования, в течение которого инвестор не сможет вывести средства. Максимум 12 месяцев.;Yat?r?mc?n?n para ?ekemeyece?i minimum yat?r?m s?resi. Maksimum 12 ay.
+You can’t withdraw funds before the end of the minimum investment period;Вы не можете снять средства до окончания минимального срока инвестирования;Minimum yat?r?m s?resi sona ermeden para ?ekemezsiniz
+Impossible to close an account;Невозможно закрыть счет;Bir hesab? kapatmak imkans?z
+You can’t close an account before the end of the minimum investment period;Вы не можете закрыть счет до окончания минимального срока инвестирования;Minimum yat?r?m s?resi bitmeden bir hesab? kapatamazs?n?z
+Registration date can't exceed the current one;Дата регистрации не может быть больше, чем текущая;Kay?t tarihi mevcut olan? ge?emez
+An email with an activation link has been sent to your mailbox {mail}. Follow the link to confirm the creation of the master account.;На адрес {mail} отправлено письмо со ссылкой активации. Перейдите по ссылке для подтверждения создания мастер счета.;Posta kutunuza {mail} aktivasyon ba?lant?s? i?eren bir e-posta g?nderildi. Ana hesab?n olu?turulmas?n? onaylamak i?in ba?lant?y? izleyin.
+The creation of the master account is confirmed. After the approval of the administration, a master account will be created.;Создание мастер счета подтверждено. После одобрения администрации мастер счет будет создан.;Ana hesab?n olu?turulmas? onayland?. ?darenin onay?ndan sonra bir ana hesap olu?turulacakt?r.
+Request for registration of a master account;Запрос на регистрацию мастер-счета;Bir ana hesab?n kay?t talebi
+Master account registration on request;Регистрация мастер-счета по заявке;Talep ?zerine ana hesap kayd?
+An email with password from Master account has been sent to mailbox {mail}.;На адрес {mail} отправлено письмо с паролем от мастер счета.;Ana hesaptan ?ifreli bir e-posta, {mail} posta kutusuna g?nderildi.
+service;;servis
+Оригинал;Перевод;
+Request number: {claim_id} has already been performed.;Заявка номер: {claim_id} уже была выполнена.;Talep numaras?: {iddia_kimli?i} zaten ger?ekle?tirildi.
+Closed;Закрыто;Kapal?
+Access;Доступ;Giri?
+Account;Счет;Hesap
+Account not found;Счет не найден;Hesap bulunamad?
+Account or card number;Номер счета (карты);Hesap veya kart numaras?
+Account activation;Активация счета;Hesap Aktivasyonu
+Account activation link;Ссылка активации счета;Hesap aktivasyon ba?lant?s?
+Account number;Номер счета;Hesap numaras?
+Activity;Активность;Aktivite
+Addition;Добавление;?lave
+Available to withdraw;Доступно для вывода;?ekilebilir
+Authorization data;Данные для авторизации;Yetkilendirme verileri
+BIC;БИК;BIC
+Confirmation;Подтверждение;Onayla
+Admin's email {email} is coincident with email for sending letters;Email администратора {email} совпадает с email для отправки писем.;Y?neticinin e-posta adresi {email}, mektup g?nderme e-postas? ile ?ak???yor
+Admin's email {email} is coincident with email for email delivery;Email администратора {email} совпадает с email для рассылки.;Y?neticinin e-posta adresi {email}, e-posta teslimi i?in e-posta ile ?ak???yor
+The confirmation email is coincident with email for sending letters;Email для подтверждения совпадает с email для отправки писем.;Onay e-postas?, mektup g?ndermek i?in e-posta ile ?ak??maktad?r.
+The confirmation email is coincident with email for email delivery;Email для подтверждения совпадает с email для рассылки.;Onay e-postas?, e-posta teslimi i?in e-posta ile ?ak??maktad?r
+Back to homepage;Главная страница;ana sayfaya geri d?n
+Operation date;Дата операции;Operasyon tarihi
+Equity;Средства;E?itlik
+Specialist type;Тип специалиста;Uzman t?r?
+Central Bank rate;Курс Центрального Банка;Merkez Bankas? kuru
+"Request number {number} has changed its status to ""{status}"".";"Заявка номер {number} поменяла свой статус на ""{status}""";"{Number} numaral? iste?in durumu ""{status}"" olarak de?i?tirildi."
+"Request number {number} has changed its status to ""{status}"".Reason is: ""{reason}"".";"Заявка номер {number} поменяла свой статус на ""{status}"". Причина смены статуса: ""{reason}"".";"{Number} numaral? iste?in durumu ""{status}"" olarak de?i?tirildi. Nedeni: ""{neden}""."
+Request status has been changed;Статус заявки был изменен;?stek durumu de?i?tirildi
+Request status is changed (with reason);Статус заявки изменен (с указанием причины);?stek durumu de?i?tirildi (nedeni ile)
+Request status is changed (without reason);Статус заявки изменен (без указания причины);?stek durumu de?i?tirildi (sebepsiz)
+Reason for request change;Причина изменения статуса заявки;De?i?iklik talebinin nedeni
+Request status;Статус заявки;Istek durumu
+Request number;Номер заявки;Talep Numaras?
+Close date;Дата закрытия;Yak?n tarih
+Click the link;перейдите по ссылке;Linke t?klay?n?z
+Connect;Подключить;Ba?lan
+Central Bank of Exchange rate;Курс ЦБ/ бирж;D?viz kuru Merkez Bankas?
+Sum in the account currency that will be charged.;Сумма в валюте счета, которая будет списана.;?cretlendirilecek hesap para birimi cinsinden toplam.
+On your OrangePay account  there is not enough money for withdrawal.;На вашем счете OrangePay недостаточно средств для вывода.;OrangePay hesab?n?zda para ?ekmek i?in yeterli para yok.
+User rights are not installed.;Права пользователя не установлены.;Kullan?c? haklar? y?klenmez.
+Create;Создать;Olu?turmak
+Conversion from (currency);Конвертация из (валюта);(Para birimi) 'den d?n??t?rme
+Conversion to (currency);Конвертация в (валюта);(Para birimine) d?n??t?rme
+Confirmation of user registration;Подтверждение регистрации пользователя;Kullan?c? kayd?n?n onay?
+Confirmation of account registration;Подтверждение регистрации счета;Hesap kayd?n?n onay?
+Company name;Название компании;?irket Ad?
+Company logo;Логотип компании;?irket logosu
+You put incorrect data in field «End of period».;Вы ввели некорректную информацию в поле «Конец периода».;D?nem sonu alan?na yanl?? veriler girmi?siniz.
+You put incorrect data in field «Beginning of period».;Вы ввели некорректную информацию в поле «Начало периода».;«Periyodun ba?lang?c?» alan?na yanl?? veriler girmi?siniz.
+Create user;Создать пользователя;Kullan?c? olu?tur
+Account currency;Валюта счета;Hesap para birimi
+Withdrawal money from {payment system};Вывод средств через {payment system};{?deme sisteminden} para ?ekme
+Withdrawal to SorexPay;Вывод на SorexPay;SorexPay'e para ?ekme
+Withdrawal to OrangePay;Вывод на OrangePay;OrangePay'e Para ?ekme
+Withdrawal to {payment system};Вывод на {payment system};{Payment system} 'e para ?ekme
+Deposit currency;Валюта пополнения;Para yat?rma para birimi
+Date interval;Интервал дат;Tarih aral???
+Withdrawal through SorexPay;Вывод средств через SorexPay;SorexPay arac?l???yla para ?ekme
+Duplicate emails were found. Please change emails.;Обнаружены дублирующиеся почтовые адреса. Пожалуйста, измените адреса электронной почты.;Yinelenen e-postalar bulundu. L?tfen e-postalar? de?i?tirin.
+Incorrect data for connection to DengiOnline;Неправильные данные для подключения к ДеньгиOnline.;DengiOnline'a ba?lant? i?in yanl?? veri
+Deposit from WebOffice;;WebOffice'den para yat?rma
+Description;Описание;A??klama
+Detailed description;Подробное описание;Detayl? A??klama
+Dear;Уважаемый(ая);Say?n
+Document type;Тип документа;Belge T?r?
+You have successfully unsubscribed.;Вы успешно отписались от рассылки. ;Abonelikten ba?ar?yla ??kt?n?z.
+You have received this letter as were registered in WebOffice. If you want to cancel further subscriptions, {click_here}.;Вы получили это письмо, так как зарегистрировались в личном кабинете. Если вы хотите отказаться от дальнейших рассылок, {click_here}.;Bu mektubu WebOffice'e kay?tl? oldu?u gibi ald?n?z. Di?er abonelikleri iptal etmek istiyorsan?z, {click_here}.
+"You can not use email delivery until the ""email_subscribe"" module is not configured. Please, configure it in the ""local.php"" file.";"Вы не можете использовать рассылку, пока модуль ""email_subscribe"" не настроен. Пожалуйста, настройте его в файле ""local.php"".";"Email_subscribe mod?l? yap?land?r?lmadan e-posta teslimini kullanamazs?n?z. L?tfen bunu ""local.php"" dosyas?nda yap?land?r?n."
+You have not enough rights;У вас недостаточно прав;Yeterli haklara sahip de?ilsin
+Not enough money. Your balance is {balance}.;У вас недостаточно средств. Ваш баланс составляет {balance}.;Yetersiz para. Bakiyeniz {bakiye}.
+Email delivery;Email рассылка;E-posta teslimi
+Edit;Редактирование;D?zenle
+Email duplicates;Дубликаты почтовых адресов;E-posta kopyalar?
+Enter the reason for the status change of the request number;Введите причину изменения статуса заявки номер;Talep numaras?n?n durum de?i?ikli?inin nedenini girin
+Error password change;Ошибка замены пароля;Hata ?ifre de?i?ikli?i
+Error email sending;Ошибка отправки почты;E-posta g?nderme hatas?
+Example way to image {img};Пример пути к изображению {img};Resim i?in ?rnek yol {img}
+Expiration date (format MMYY);Срок действия (формат ММГГ);Son kullanma tarihi (MMYY bi?imi)
+Expiration date (format MM/YY);Срок действия (формат ММ/ГГ);Son kullanma tarihi (AA / YY bi?imi)
+Exchanges courses are applied only to cryptocurrencies;Курсы с бирж применяются только для криптовалют;De?i?im kurslar? yaln?zca kripto para birimlerine uygulan?r
+File;Файл;Dosya
+For this operation the email is missed;Для данной операции отсутствует email;Bu i?lem i?in e-posta ka??r?ld?
+Account type;Тип счета;Hesap tipi
+Account type is not found;Тип счета не найден;Hesap t?r? bulunamad?
+Image;Изображение;Resim
+In the code can be only digits and Latin letters;В коде могут быть только цифры и латинские буквы;Kodda sadece rakamlar ve Latin harfleri olabilir
+Information;Информация;Bilgi
+link;ссылка;ba?lant?
+Managers;Управляющие;Y?neticiler
+No rights;Нет прав;Haklar yok
+Management;Управление;Y?netim
+View;Просмотр;G?r?n?m
+User rights;Права пользователя;Kullan?c? haklar?
+Payment system;Платежная система;?deme sistemi
+Email;Сообщение;E-posta adresi
+Email will be sent;Сообщение будет отправлено;E-posta g?nderilecek
+Issued by;Кем выдан;Veren kurulu?
+Issue date;Дата выдачи;Verili? tarihi
+Email will be sent only to your mailbox;Сообщение будет отправлено только на вашу электронную почту {email};E-posta yaln?zca posta kutunuza g?nderilecek
+Email template is not found;Шаблон письма на найден;E-posta ?ablonu bulunamad?
+The more is currency rate - the less is deposit;Больше курс - меньше зачисление;D?viz kuru ne kadar fazlaysa depozito o kadar az olur
+The more is currency rate - the more is deposit;Больше курс - больше зачисление;D?viz kuru ne kadar fazlaysa, depozito o kadar fazla olur
+Name;Название;?sim Soyisim
+Name and Surname;ФИО;Ad? ve soyad?
+Name and Surname (Login);ФИО (Логин);Ad ve Soyad (Giri?)
+Name and surname (from your card);ФИО (как на карте);Ad?n?z ve soyad?n?z (kart?n?zdan)
+New password;Новый пароль;Yeni ?ifre
+Number;Номер;Numara
+Email with the activation link has been sent on your mailbox. To make transaction, click the link in the email.;На вашу электронную почту отправлено письмо со ссылкой активации. Чтобы осуществить перевод, перейдите по ссылке в письме.;Aktivasyon ba?lant?s?n? i?eren e-posta, posta kutunuza g?nderildi. ??lem yapmak i?in e-postadaki ba?lant?ya t?klay?n.
+Only active;Только активные;Sadece aktif
+Open date;Дата создания;A??k tarih
+Execution date;Дата исполнения;Ger?ekle?me tarihi
+Operations;Операции;Operasyonlar
+Out from WebOffice;;WebOffice'den
+Withdrawal on DengiOnline; Вывод на ДеньгиOnline;DengiOnline ?zerinden para ?ekme
+Page not found;Страница не найдена;sayfa bulunamad?
+Partner;Партнер;Ortak
+Partnership code;Партнерский код;Ortakl?k kodu
+Password has been changed;Пароль был изменен;?ifre de?i?tirildi
+Payment error;Ошибка платежа;?deme hatas?
+Payment error. Please, get in contact with developers.;Ошибка платежа. Пожалуйста, свяжитесь с разработчиками.;?deme hatas?. L?tfen geli?tiricilerle ileti?ime ge?in.
+Payments;Оплаты;?demeler
+Phone number (without +7);Номер телефона (без +7);Telefon numaras? (+7 olmadan)
+Place of Birth;Место рождения;Do?um yeri
+Purpose of payment;Назначение платежа;?demenin amac?
+Registration date;Дата регистрации;Kay?t Tarihi
+Recipient's name;ФИО получателя;Al?c?n?n ismi
+Request value for funds withdrawal;Сумма заявки на вывод средств;Para ?ekme i?lemi i?in de?er talep edin
+Self rate;Свой курс;?z oran
+Series;Серия;Dizi
+Short description;Краткое описание;K?sa A??klama
+Status;Статус;Durum
+Successful registration;Успешная регистрация;Ba?ar?l? kay?t
+Successful registration without password;Успешная регистрация без ввода пароля;?ifresiz ba?ar?l? kay?t
+The commission fee is {commission}% of input amount.;Комиссия составляет {commission}% от суммы ввода.;Komisyon ?creti, girdi miktar?n?n% {komisyon} kadar?d?r.
+The request for withdrawal the funds;Заявка на вывод средств;Para ?ekme talebi
+Test;Тест;?l?ek
+Test message has been sent to the mail;Тестовое сообщение отправлено на адрес;Test mesaj? postaya g?nderildi
+Text;Текст;Metin
+Template settings;Настройки шаблона;?ablon ayarlar?
+Client with this email has already been existed;Клиент с таким email уже существует;Bu e-postaya sahip m??teri zaten vard?
+The password has been successfully changed and sent to the user;Пароль был успешно изменен и отправлен пользователю;?ifre ba?ar?yla de?i?tirildi ve kullan?c?ya g?nderildi
+This manager has the connected investors. Please, disable them and try once again.;Этот управляющий имеет подключенных инвесторов. Пожалуйста, отключите их и попытайтесь еще раз.;Bu y?netici ba?lant?l? yat?r?mc?lara sahip. L?tfen bunlar? devre d??? b?rak?n ve bir kez daha deneyin.
+Title;Заголовок;Ba?l?k
+To withdraw your funds click {link}.;Чтобы вывести ваши средства, перейдите по {link}.;Paran?z? ?ekmek i?in {link} t?klay?n.
+To deposit the trader's account;Пополнить счет трейдера;T?ccar?n hesab?na para yat?rmak i?in
+To withdraw funds from the trader's account;Снять средства со счета трейдера;T?ccar?n hesab?ndan para ?ekmek i?in
+Type;Тип;T?r
+The commission fee is ${commission_number} + {commission_percent}% of withdrawal amount.;Комиссия составляет ${commission_number} + {commission_percent}% от суммы вывода.;Komisyon ?creti, ?ekilme miktar?n?n% {comm_number} +% {comm_percent} ’sidir.
+The commission fee is ${commission}.;Комиссия ${commission}.;Komisyon ?creti $ {komisyon}.
+The commission fee is {commission}% of withdrawal amount.;Комиссия составляет {commission}% от суммы вывода.;Komisyon ?creti, para ?ekme tutar?n?n% {komisyon} kadar?d?r.
+The payment system is unavailable.;Платежная система недоступна.;?deme sistemi kullan?lam?yor.
+Template;Шаблон;?ablon
+Template is successfully saved;Шаблон успешно сохранён;?ablon ba?ar?yla kaydedildi
+Title and text can not be empty;Тема и текст не могут быть пустыми;Ba?l?k ve metin bo? olamaz
+Trader's room registration confirmation;Подтверждение регистрации в личном кабинете;T?ccar?n oda kay?t onay?
+The request contains incorrect data;Заявка содержит некорректные данные;Talep yanl?? veri i?eriyor
+User not found;Пользователь не найден;Kullan?c? bulunamad?
+User type;Тип пользователя;Kullan?c? tipi
+Username;ФИО пользователя;Kullan?c? ad?
+Affiliate's full name;ФИО партнера;Orta??n tam ad?
+Affiliate's email;Email партнера;Ba?l? kurulu?un e-posta adresi
+User's login and password;Логин и пароль пользователя;Kullan?c?n?n kullan?c? ad? ve ?ifresi
+User activation link;Cсылка активации пользователя;Kullan?c? aktivasyon ba?lant?s?
+Unknown error of the payment system.;Неизвестная ошибка платежной системы.;?deme sisteminin bilinmeyen hatas?.
+Unknown error;Неизвестная ошибка;Bilinmeyen hata
+Unable to upload image, the image must be in jpg, png, gif, jpeg, pjpeg format and not to exceed 1280x768;Не удалось загрузить картинку, изображение должно иметь формат jpg, png, gif, jpeg, pjpeg и не превышать 1280x768;Resim y?klenemiyor, resim jpg, png, gif, jpeg, pjpeg format?nda olmal? ve 1280x768'i ge?memelidir.
+Unable to download file;Не удалось загрузить файл;Dosya indirilemiyor
+Withdrawal through DengiOnline;Вывод средств через ДеньгиOnline;DengiOnline ?zerinden para ?ekme
+Without any partner;Без партнера;Herhangi bir partner olmadan
+You can not change the group. There are opened positions on the account.;Вы не можете изменить группу. На счете есть открытые позиции.;Grubu de?i?tiremezsiniz. Hesapta a??k pozisyonlar var.
+You can not delete the user you have logged into the system;Нельзя удалять пользователя, под которым вы вошли в систему;Sisteme giri? yapt???n?z kullan?c?y? silemezsiniz
+You put incorrect card data.;Вы ввели неправильную информацию с карты;Yanl?? kart verisi koydunuz.
+You put incorrect sum. Max sum of payment is: {max} {cur}, min value is: {min} {cur}.;Вы ввели неправильную сумму. Максимальная сумма платежа составляет: {max} {cur}, минимальная сумма платежа: {min} {cur}.;Yanl?? mebla? koydunuz. Maksimum ?deme tutar?: {max} {cur}, minimum de?er: {min} {cur}.
+You put invalid account number for withdrawal.;Вы ввели неправильный номер счета для вывода средств.;Para ?ekmek i?in ge?ersiz hesap numaras? girmi?siniz.
+You have successfully withdrawn your funds. The withdrawal sum is {sum}.;Вы успешно вывели ваши средства. Сумма вывода составляет {sum}.;Paran?z? ba?ar?yla ?ektiniz. Para ?ekme tutar? {toplam}.
+You have successfully withdrawn the funds. The withdrawal sum is {sum}.;Вы успешно вывели средства. Сумма вывода составляет {sum}.;Paray? ba?ar?yla ?ektiniz. Para ?ekme tutar? {toplam}.
+Your account is not confirmed.;Ваша учетная запись не подтверждена.;Hesab?n?z onaylanmad?.
+Your account was confirmed, now you can open live trading accounts;Ваша учетная запись была подтверждена, теперь вы можете открывать реальные торговые счета.;Hesab?n?z onayland?, art?k canl? ticaret hesaplar? a?abilirsiniz
+Your account has been confirmed;Ваша учетная запись была подтверждена;Hesab?n?z onayland?
+You can not delete this trading account, because this account has the invest account.;Вы не можете удалить этот торговый счет, потому что за ним закреплен инвесторский счет.;Bu ticaret hesab?n? silemezsiniz ??nk? bu hesap yat?r?m hesab?na sahiptir.
+The administrator hasn't confirmed your account. You can add the new document or contact the administrator.;Администратор не подтвердил вашу учетную запись. Вы можете добавить новый документ или связаться с администратором.;Y?netici hesab?n?z? onaylamad?. Yeni belgeyi ekleyebilir veya y?neticiyle ileti?ime ge?ebilirsiniz.
+Promotion is not found;Акция не найдена;Promosyon bulunamad?
+Server group;Группа на сервере;Sunucu grubu
+WebOffice group;Группа в ЛК;WebOffice grubu
+Viewing deals;Просмотр результата сделок;Anla?malar? g?r?nt?leme
+Phone number must be without +7;Номер телефона должен быть без +7;Telefon numaras? +7 olmal?d?r
+Trading account balance;Баланс торгового счета;Ticaret hesap bakiyesi
+Deposit;Ввод;Depozito
+Not enough money on trader's account;Недостаточно средств на счете трейдера.;T?ccar?n hesab?nda yeterli para yok
+Not enough money on broker's account;Недостаточно средств на счете брокера.;Komisyoncunun hesab?nda yeterli para yok
+Withdrawal;Вывод;Para ?ekme
+Funds on trader's account (converted into rubles) where the withdrawal is carried out;Средства (конвертированные в рубли) на счете трейдера, с которого осуществляется вывод .;Para ?ekme i?leminin ger?ekle?tirildi?i t?ccar hesab?ndaki (rubleye d?n??t?r?len) fonlar
+Broker's balance in the account DengiOnline is rubles;Баланс брокера на счете DengiOnline в рублях.;Broker'?n DengiOnline hesab?ndaki bakiyesi ruble
+Request amount in rubles;Сумма заявки в рублях.;Ruble cinsinden miktar isteyin
+Request amount in rubles minus commision percentage;Сумма заявки в рублях минус процент комиссии.;Ruble cinsinden talep miktar? eksi komisyon y?zdesi
+Account information;Информация о счете;Hesap Bilgileri
+Request amount;Сумма заявки;Miktar talep et
+Withdrawal amount;Сумма вывода;Para ?ekme miktar?
+The net amount to withdraw in the account currency.;Чистая сумма вывода в валюте счета.;Hesap para biriminde ?ekilecek net tutar.
+Withdrawal amount in the currency of the payment system;Сумма вывода в валюте платежной системы;?deme sisteminin para birimi cinsinden para ?ekme tutar?
+Unable to connect the account, as there is no available server for connection.;Невозможно подключить счет, так как нет доступного для подключения сервера.;Ba?lant? i?in uygun bir sunucu olmad???ndan hesaba ba?lan?lam?yor.
+To withdraw funds click {link}.;Чтобы вывести средства, перейдите по {link}.;Para ?ekmek i?in {link} t?klay?n.
+Withdrawal confirmation link;Ссылка на подтверждения вывода средств;Para ?ekme onay? ba?lant?s?
+Gender;Пол;Cinsiyet
+Not indicated;Не указан;Belirtilmemi?
+Male;Мужской;Erkek
+Female;Женский;Kad?n
+{payment system} (Withdrawal);{payment system} (Вывод средств);{?deme sistemi} (Para ?ekme)
+Not confirmed;Не подтвержден;Onaylanmad?
+Confirmed;Подтвержден;Onaylanm??
+Awaiting confirmation;Ожидает подтверждения;Onay bekleniyor
+Verification;Верификация;Do?rulama
+Please specify the rejection reason for the confirmation of the {email} account ({language});Пожалуйста, укажите причину отклонения запроса на подтверждение аккаунта {email} ({language});L?tfen {email} hesab?n?n ({language}) onaylanmas? i?in reddedilme nedenini belirtin
+Send a message to the trader;Отправить сообщение трейдеру;T?ccara mesaj g?nder
+Сontinue;Продолжить;Devam et
+Cancel;Отмена;?ptal etmek
+Account confirmation in the Trader's Room;Подтверждение аккаунта в личном кабинете;??lemci Odas?nda hesap onay?
+Rejection reason;Причина отклонения;Reddetme nedeni
+Request rejection for account verification;Отказ в запросе на подтверждение аккаунта;Hesap do?rulamas? i?in ret iste?inde bulunun
+A request for account confirmation in the Trader's Room;Запрос на подтверждение аккаунта в личном кабинете;Yat?r?mc? Odas?nda hesap onay? talebi
+User {user_name} has sent a request for the account confirmation in the Trader's Room.;Пользователь {user_name} отправил запрос на подтверждение своего аккаунта в личном кабинете.;{User_name} kullan?c?s?, Trader'?n Odas?nda hesap onay? i?in bir istek g?nderdi.
+You cannot delete {number} trading account as this user has open master accounts.;Невозможно удалить торговый счет {number}, т. к. у данного пользователя есть открытые мастер счета.;Bu kullan?c?n?n a??k ana hesaplar? oldu?undan {number} i?lem hesab?n? silemezsiniz.
+Request has been already sent;Запрос уже был отправлен;?stek zaten g?nderildi
+Verification is not required;Верификация не требуется;Do?rulama gerekli de?ildir
+A request for funds withdrawal is made;Подана заявка на вывод средств;Para ?ekme talebi yap?ld?
+Information on the request for funds withdrawal;Данные о заявке на вывод средств;Para ?ekme talebi ile ilgili bilgiler
+Confirmation of a request for funds withdrawal;Подтверждение заявки на вывод средств;Para ?ekme talebinin onaylanmas?
+A request for funds withdrawal is executed;Заявка на вывод средств исполнена;Para ?ekme talebi y?r?t?l?r
+From account;Со счета;Hesaptan
+On the account;На счет;Hesapta
+A request for funds deposit is made;Подана заявка на ввод средств;Para yat?rma talebi yap?ld?
+Request amount for funds deposit;Сумма заявки на ввод средств;Para yat?rmak i?in miktar isteyin
+A request for funds deposit with commission is made;Подана заявка на ввод средств с комиссией;Komisyonlu para yat?rma talebi yap?ld?
+Request amount for funds deposit with commission;Сумма заявки на ввод средств с учетом комиссии;Komisyonlu para yat?rma tutar? talep edin
+A request for funds deposit by way of voucher is made;Подана заявка на ввод средств с помощью ваучера;Kupon yoluyla para yat?rma talebi yap?l?r
+Authorization notification {user} in CRM;Уведомление об авторизации {user} в CRM;CRM'de yetkilendirme bildirimi {user}
+{user} ({email}) at {time} logged in from {ip} IP address.;{user} ({email}) в {time} авторизовался с IP адреса – {ip}.;{user} ({email}), {time}, {ip} IP adresinden giri? yapt?.
+Request amount for funds transfer;Сумма заявки на перевод средств;Para transferi i?in miktar isteyin
+Ticket is closed and moved to archive;Обращение закрыто и перемещено в архив;Bilet kapat?ld? ve ar?ive ta??nd?
+Day Month Year;День Месяц Год;G?n ay y?l
+Trading account connection;Подключение торгового счета;Ticaret hesab? ba?lant?s?
+New message in the ticket;Новое сообщение в обращении;Biletteki yeni mesaj
+Reply to ticket;Ответ на обращение;Bilete cevap ver
+A request for funds depositing without specifying the amount has been submitted;Подана заявка на ввод средств без указания суммы;Tutar belirtilmeden para yat?rma talebi g?nderildi
+User is waiting for the documents confirmation;Пользователь ожидает подтверждения документов;Kullan?c? belgelerin onaylanmas?n? bekliyor
+User {user_name}, email {email}, has sent the documents for confirmation: {list_files}.;Пользователь {user_name}, email {email}, отправил документы на подтверждение: {list_files}.;{User_name} kullan?c?s?, e-posta {email}, onay i?in dok?manlar? g?nderdi: {list_files}.
+Account info is successfully updated;Информация учетной записи успешно обновлена;Hesap bilgileri ba?ar?yla g?ncellendi
+Documents have been sent to administrator;Документы отправлены администратору;Belgeler y?neticiye g?nderildi
+Registration confirmation;Подтверждение регистрации;Kay?t Onay?
+Successful account registration;Успешная регистрация аккаунта;Ba?ar?l? hesap kayd?
+Code;Код;Kod
+Registration data;Регистрационные данные;Kay?t verileri
+Account types is not found;Типы счетов не найдены;Hesap t?rleri bulunamad?
+Incorrect data;Некорректные данные;Yanl?? veri
+User does not exist;Пользователь не найден;Kullan?c? yok
+User is not active;Пользователь не активирован;Kullan?c? aktif de?il
+Access denied from this IP address;Доступ запрещен с этого IP-адреса;Bu IP adresinden eri?im reddedildi
+Activation Link;Ссылка для активации;Aktivasyon Ba?lant?s?
+Sum of funds withdrawal in the account currency;Сумма вывода средств в валюте счета;Hesap para biriminde para ?ekme toplam?
+Sum of funds withdrawal with commission;Сумма вывода средств с учетом комиссии;Komisyonlu para ?ekme toplam?
+Promotion name;Имя акции;Promosyon ad?
+Notification of change in the type of trading account;Уведомление об изменении типа торгового счета;Ticaret hesab? t?r?ndeki de?i?iklik bildirimi
+Notification of a new withdrawal request (with conversion);Уведомление о новой заявке на вывод средств (с конвертацией);Yeni bir para ?ekme talebinin bildirilmesi (d?n??t?rme ile)
+Notification of a new withdrawal request (in the currency of the account);Уведомление о новой заявке на вывод средств (в валюте счета);Yeni bir para ?ekme talebinin bildirilmesi (hesab?n para birimi cinsinden)
+Notification of the execution of a withdrawal request;Уведомление об исполнении заявки на вывод средств;Para ?ekme talebinin yerine getirildi?ine dair bildirim
+Investor account closing notification;Уведомление о закрытии счета инвестора;Yat?r?mc? hesab? kapatma bildirimi
+New investor notification;Уведомление о новом инвесторе;Yeni yat?r?mc? bildirimi
+List of documents;Список документов;Belgelerin listesi
+Authorization time;Время авторизации;Yetkilendirme zaman?
+Authorization IP;IP авторизации;Yetkilendirme IP'si
+Account Verification Request Notification;Уведомление о запросе на подтверждение учетной записи;Hesap Do?rulama ?ste?i Bildirimi
+Request to connect a trading account;Запрос на подключение торгового счета;Bir ticaret hesab? ba?lama talebi
+Request to change the terms of the offer;Запрос на изменение условий оферты;Teklifin ?artlar?n? de?i?tirme talebi
+Request to change a trading account to a master account;Запрос на изменение торгового счета на мастер-счет;Bir ticaret hesab?n? ana hesaba d?n??t?rme talebi
+Notification of a new promotion participant;Уведомление о новом участнике акции;Yeni bir promosyon kat?l?mc?s?na bildirim
+Master account registration;Регистрация мастер-счета;Ana hesap kayd?
+Request for deletion of the investor's account;Запрос удаления счета инвестора;Yat?r?mc?n?n hesab?n?n silinmesi talebi
+Investor account closing notification by request;Уведомлении о закрытии счета инвестора по заявке;Yat?r?mc? hesab?n?n istek ?zerine kapanma bildirimi
+Request to delete the master account;Запрос удаления мастер-счета;Ana hesab? silme talebi
+Notification of the creation of a request for account replenishment;Уведомление о создании заявки на пополнение счета;Hesap yenileme talebinin yarat?ld???na dair bildirim
+Notification of the creation of a request of account replenishment by voucher;Уведомление о создании заявки на пополнение счета ваучером;Kuponla bir hesap yenileme talebinin yarat?ld???na dair bildirim
+Interest charge notification;Уведомление о начислении процента;Faiz ?creti bildirimi
+Notification of the deletion of the investor’s account due to the closure of the master account;Уведомление об удалении счета инвестора из-за закрытия мастер-счета;Ana hesab?n kapat?lmas? nedeniyle yat?r?mc?n?n hesab?n?n silinmesine ili?kin bildirim
+Notice of a change in the public offer (off);Уведомление об изменении публичности оферты (выключена);Halka arzda de?i?iklik bildirimi (kapal?)
+Notice of a change in the public offer (on);Уведомление об изменении публичности оферты (включена);Halka arzda de?i?iklik bildirimi (a??k)
+Request to confirm the registration of the master account;Запрос подтверждения регистрации мастер-счета;Ana hesab?n kayd?n? onaylama talebi
+Notification of closing the ticket;Уведомление о закрытии обращения;Bilet kapama bildirimi
+Notification of a new inquiry;Уведомление о новом обращении;Yeni bir soru?turma bildirimi
+Notification of inquiry creation;Уведомление о создании обращения;Sorgu olu?turma bildirimi
+Notification of reopening a request;Уведомление о переоткрытии обращения;Bir talebin yeniden a??ld???na dair bildirim
+Notification of sending a message to the user;Уведомление об отправке сообщения пользователю;Kullan?c?ya mesaj g?nderme bildirimi
+The amount of request for account depositing;Сумма заявки на пополнение счета;Hesaba para yat?rma talebi miktar?
+Reward;Вознаграждение;?d?l
+Notification about sending a message in inquiry;Уведомление об отправке сообщения в обращении;Soru?turmada mesaj g?nderme ile ilgili bildirim
+Notification of receipt of a new message in inquiry;Уведомление о получении нового сообщения в обращении;Sorgulamada yeni bir mesaj?n al?nd???na dair bildirim
+Notification of request for the publication of the master account;Уведомление о запросе на публикацию мастер-счета;Ana hesab?n yay?nlanmas? i?in talep bildirimi
+Account Verification Notification;Уведомление о подтверждении аккаунта;Hesap Do?rulama Bildirimi
+Notification of rejection of account confirmation request;Уведомление об отклонении запроса на подтверждение аккаунта;Hesap onay? talebinin reddi bildirimi
+Notification of account replenishment (with commission);Уведомление о пополнении счета (с комиссией);Hesap yenileme bildirimi (komisyonlu)
+Notification of account replenishment with a change in the amount of crediting;Уведомление о пополнении счета с изменением суммы зачисления;Kredilendirme miktar?ndaki bir de?i?iklikle hesap yenileme bildirimi
+User Deposit Error Notification;Уведомление об ошибке зачисления средств пользователем;Kullan?c? Para Yat?rma Hata Bildirimi
+Notification of rejection of a withdrawal request;Уведомление об отклонении заявки на вывод средств;Para ?ekme talebinin reddi bildirimi
+Notification of account replenishment (no commission);Уведомление о пополнении счета (без комиссии);Hesap yenileme bildirimi (komisyon yok)
+Notice of the closing of the investor's account due to an unfavorable change in the terms of the offer;Уведомление о закрытии счета инвестора в связи с невыгодным изменением условий оферты;Yat?r?mc? hesab?n?n teklif ?artlar?ndaki olumsuz de?i?iklik nedeniyle kapat?ld???na dair ihbar
+Notification to investor about changes in the conditions of the master account offer;Уведомление инвестору об изменении условий оферты мастер-счета;Ana hesap teklifinin ko?ullar?ndaki de?i?iklikler hakk?nda yat?r?mc?ya bildirim
+Request to confirm the registration of the investor's account;Запрос подтверждения регистрации счета инвестора;Yat?r?mc?n?n hesab?n?n kayd?n? onaylama talebi
+Notification about the closure of the investor's account due to lack of funds in the account;Уведомление о закрытии счета инвестора из-за недостатка средств на счете;Hesapta para s?k?nt?s? nedeniyle yat?r?mc?n?n hesab?n?n kapat?ld???na dair bildirim
+Error notification - trading account is missing;Уведомление об ошибке - отсутствие торгового счета;Hata bildirimi - ticaret hesab? eksik
+Notification of a new withdrawal request via bank transfer (with conversion);Уведомление о новой заявке на вывод средств через банковский перевод (с конвертацией);Banka havalesi yoluyla yeni bir para ?ekme talebinin bildirilmesi (d?n??t?rme ile)
+Notification of a new withdrawal request via bank transfer (in the currency of the account);Уведомление о новой заявке на вывод средств через банковский перевод (в валюте счета);Banka havalesi yoluyla yeni bir para ?ekme talebinin bildirilmesi (hesab?n para biriminde)
+Request of verification confirmation;Запрос на подтверждение верификации;Do?rulama onay? talebi
+Notification of the creation of the request for the account replenishment without the specified amount;Уведомление о создании заявки на пополнение счета без указанной суммы;Belirtilen miktar olmadan hesap yenileme talebinin yarat?ld???na dair bildirim
+Notification of payment error by the customer upon request;Уведомление об ошибке платежа клиентом по заявке;M??teri taraf?ndan talep ?zerine ?deme hatas? bildirimi
+Notification of payment error by the customer upon request without the specified amount;Уведомление об ошибке платежа клиентом по заявке без указанной суммы;M??terinin talep etmesi halinde, belirtilen tutar olmadan ?deme hatas?n?n bildirilmesi
+The limit of unpaid bids in the Blockchain payment system has been exceeded;Превышен лимит неоплаченных заявок в платежной системе Blockchain;Blockchain ?deme sistemindeki ?denmemi? teklif limiti a??ld?
+Notification on withdrawal of broker's funds from the payment system;Уведомление о выводе средств брокера с платежной системы;Broker fonlar?n?n ?deme sisteminden ?ekilmesine ili?kin bildirim
+Notification of the user authorization in CRM;Уведомление об авторизации пользователя в CRM;CRM'de kullan?c? yetkisinin bildirilmesi
+Ticket for execution of withdrawal application;Запрос на исполнение заявки вывода средств;Para ?ekme ba?vurusunun y?r?t?lmesi i?in bilet
+Request for proprietary funds withdrawal;Запрос на вывод собственных средств;?zel fon ?ekme talebi
+Notification of proprietary funds withdrawal;Уведомление о выводе собственных средств;?zel m?lk para ?ekme bildirimi
+Not active;Не активен;Aktif de?il
+Active;Активен;Aktif
+Banned;Забанен;Yasakland?
+Fired;Уволен;??ten ??karmak
+Two-factor authentication is off;Двухфакторная аутентификация выключена;?ki fakt?rl? kimlik do?rulama kapal?
+Two-factor authentication is on;Двухфакторная аутентификация включена;?ki fakt?rl? kimlik do?rulama a??k
+Two-factor authentication disabled;Двухфакторная аутентификация отключена;?ki fakt?rl? kimlik do?rulama devre d??? b?rak?ld?
+Two-factor authentication is disabled automatically;Двухфакторная аутентификация отключена автоматически;?ki fakt?rl? kimlik do?rulama otomatik olarak devre d??? b?rak?l?r
+Trading accounts;Торговые счета;Ticaret hesaplar?
+Deposit/Withdraw funds;Ввод/Вывод средств;Para yat?r / ?ek
+Personal area;Личный кабинет;Ki?isel alan
+ProInvestor;ProInvestor;Yat?r?mc?
+Appeals;Обращения;?tirazlar
+Employee account;Личный кабинет сотрудника;?al??an hesab?
+Work with a trader;Работа с трейдером;Bir t?ccar ile ?al???n
+Two-factor authentication;Двухфакторная аутентификация;?ki fakt?rl? kimlik do?rulama
+Awaiting admin confirmation;Ожидает подтверждение администратора;Y?netici onay? bekleniyor
+Notice of closure;Уведомление о закрытии обращения;Kapatma bildirimi
+Password recovery via Trading Terminal;Восстановление пароля через терминал трейдера;??lem Terminali arac?l???yla ?ifre kurtarma
+Affiliate program;Партнерская программа;Ortakl?k Program?
+Account password restoring;Восстановление пароля счета;Hesap ?ifresi geri y?kleniyor
+Duplicate the letter to the responsible;Дублировать ответственному;Sorumluya mektubu ?o?alt?n
+Affiliate's room;Кабинет партнера;Ortak odas?
+settings;;ayarlar
+Оригинал;Перевод;
+Deposit/Withdrawal;Ввод/Вывод средств;Para Yat?rma / ?ekme
+Additional information;Дополнительная информация;Ek Bilgiler
+Note if the created account type designed for trust management service. The field can be disabled if the group has already established accounts.;Отметьте, если создаваемый тип счета предназначен для сервиса доверительного управления. Поле может быть неактивно, если по данной группе уже имеются созданные счета.;Olu?turulan hesap t?r?n?n g?ven y?netimi hizmeti i?in tasarlan?p tasarlanmad???na dikkat edin. Grup halihaz?rda hesaplar olu?turmu?sa alan devre d??? b?rak?labilir.
+Currency in which accounts of this type will be created.;Валюта, в которой будут создаваться счета этого типа.;Bu t?rdeki hesaplar?n olu?turulaca?? para birimi.
+0 - without limit;0 - без лимита;0 - s?n?rs?z
+Wallets;Кошельки;C?zdanlar
+Activity;Активность;Aktivite
+Unable to create the account type, as the other account type has been already existed with the same name in the database.;Не удается создать тип счета, т.к. в базе личного кабинета уже есть другой тип счета с таким названием.;Di?er hesap t?r? zaten veritaban?nda ayn? ada sahip oldu?undan, hesap t?r? olu?turulam?yor.
+Group with this name is already in use on the server;Группа с таким именем уже существует на сервере;Bu ada sahip grup zaten sunucuda kullan?l?yor
+{attribute} is too much;{attribute} слишком большая;{attribute} ?ok fazla
+{attribute} is too small;{attribute} слишком маленькая;{attribute} ?ok k???k
+Allow to change account type;Разрешить изменение типа счета;Hesap t?r?n? de?i?tirmeye izin ver
+Allow to open master accounts;Разрешить создание мастер счетов;Ana hesaplar?n a??lmas?na izin ver
+BEST transfers;Переводы БЭСТ;EN ?Y? transferler
+Minimum funds for the publication of the offer;Минимальные средства для публикации оферты;Teklifin yay?nlanmas? i?in asgari fon
+Minimum funds for the publication of the offer (USD);Минимальные средства для публикации оферты (USD);Teklifin yay?nlanmas? i?in minimum fon (USD)
+Automatically;Автоматически;Otomatik olarak
+API version;Версия API;API s?r?m?
+Bank transfer;Банковский перевод;banka transferi
+Bank transfers;Банковские переводы;Banka transferi
+System translation;Системный перевод;Sistem ?evirisi
+Stop out;Стоп-аут;Durmak
+The minimum level of funds, when reached, positions are automatically closed. For the opened accounts in this group.;Минимальный уровень средств, при достижении которого позиции автоматически закрываются. Для счетов, открытых в этой группе.;Minimum fon seviyesine ula??ld???nda, pozisyonlar otomatik olarak kapat?l?r. Bu gruptaki a??k hesaplar i?in.
+Extra field;Дополнительные поля;Ekstra alan
+Way to handler;Путь к обработчику;??leyiciye giden yol
+Wallet(WMR);Кошелёк(WMR);C?zdan (WMR)
+Wallet(WMZ);Кошелёк(WMZ);C?zdan (WMZ)
+Wallet(WME);Кошелёк(WME);C?zdan (WME)
+Merchant key;Ключ магазина;Sat?c? anahtar?
+Handler;Обработчик;??leyici
+Balance margin call;Margin call по балансу;Denge marj? ?a?r?s?
+Changes successfully saved;Изменения успешно сохранены;De?i?iklikler ba?ar?yla kaydedildi
+You can not delete statuses that are assigned to clients.;Нельзя удалить статусы, которые закреплены за клиентами.;?stemcilere atanm?? durumlar? silemezsiniz.
+Note if the created type of the account is intended for demo accounts.;Отметьте, если создаваемый тип счета предназначен для демо счетов.;Olu?turulan hesap t?r?n?n demo hesaplar i?in tasarlan?p tasarlanmad???n? not edin.
+Order Processing Status.;Статус обработки ордера.;Sipari? ??leme Durumu.
+Client Agreement;Клиентское соглашение;M??teri Anla?mas?
+Closed;Закрыто;Kapal?
+Min deposit;Минимальный депозит;Min depozito
+Minimum of funds for the account in this group. The trader will be able to open the deals on the account when his funds will be  exceed this value.;Минимум средств для счета в этой группе. Трейдер сможет открывать сделки на своем счете, когда его средства превысят это значение.;Bu gruptaki hesap i?in minimum fon. T?ccar, fonlar? bu de?eri a?t???nda hesaptaki anla?malar? a?abilecektir.
+Comment;Комментарий;Yorum Yap
+Commission;Комиссия;komisyon
+Commission, %; Комиссия, %;Komisyon, %
+Commission, $;Комиссия, $;Komisyon, $
+Company requisites;Реквизиты компании;?irket gereksinimleri
+Connect;Подключить;Ba?lan
+Copyrights;Копирайты;Telif haklar?
+Company name;Название компании;?irket Ad?
+"You should select the allowed currencies for the payment system ""{payment_system}"".";"Необходимо выбрать разрешенные валюты для платежной системы ""{payment_system}"".";"?deme sistemi ""{payment_system}"" i?in izin verilen para birimlerini se?melisiniz."
+"You should select the allowed currency for the payment system ""{payment_system}"".";"Необходимо выбрать разрешенную валюту для платежной системы ""{payment_system}"".";"?deme sistemi ""{payment_system}"" i?in izin verilen para birimini se?melisiniz."
+You should select the allowed currencies for the payment system;Необходимо выбрать разрешенные валюты для платежной системы;?deme sistemi i?in izin verilen para birimlerini se?melisiniz
+"You should select the allowed currency for the payment method ""{name}""";"Вы должны выбрать допустимую валюту для способа оплаты ""{name}""";{Name} ?deme y?ntemi i?in izin verilen para birimini se?melisiniz
+Create;Создать;Olu?turmak
+Creation date;Дата создания;Olu?turulma tarihi
+{file} has invalid extension. Only {extensions} files are allowed.;{file} имеет неправильное расширение. Разрешены файлы с расширением: {extensions}.;{file} ge?ersiz uzant?ya sahip. Yaln?zca {extension} dosyalar?na izin verilir.
+{file} The file is too large, maximum file size is {sizeLimit}.;{file} слишком большой, максимально допустимый размер файла: {sizeLimit}.;{file} Dosya ?ok b?y?k, maksimum dosya boyutu {sizeLimit}.
+Create a document;Создать документ;Bir belge olu?turun
+Currencies;Валюты;Para birimleri
+Currency;Валюта;Para birimi
+You need to upload document file.;Вам необходимо загрузить документ.;Belge dosyas? y?klemeniz gerekiyor.
+You should enable at least one payment method;Необходимо включить хотя бы один платежный метод;En az bir ?deme y?ntemi etkinle?tirmelisiniz
+Currency selection;Выбор валюты;Para birimi se?imi
+Database path;Путь к БД;Veritaban? yolu
+Date;Дата;Tarih (de?i?tir | kayna?? de?i?tir)
+Default leverage. If default leverage is not selected, trader will be able to see the required value.;Плечо по умолчанию. Если плечо по умолчанию не выбрано, то трейдер сможет выбрать нужное значение.;Varsay?lan kald?ra?. Varsay?lan kald?ra? se?ilmezse, t?ccar gerekli de?eri g?rebilir.
+Delay in opening market orders in milliseconds.;Задержка открытия рыночных ордеров в миллисекундах.;Milisaniye cinsinden piyasa emirlerinin a??lmas?nda gecikme.
+Delete;Удалить;Silme
+Move down;Переместить вниз;A?a?? inmek
+Move up;Переместить вверх;Yukar? ta??
+Demo account deposit;Пополнение демо счета;Demo hesap mevduat?
+Demo;Демо;Demo
+DengiOnline;ДеньгиOnline;DengiOnline
+Description;Описание;A??klama
+Description:;Описание:;A??klama:
+Redirection;Перенаправление;Y?nlendirme
+Note if you need to active balance margin call when creating an account.;Отметьте, если при создании счета хотите устанавливать ему margin call по балансу.;Bir hesap olu?tururken bakiye marj ?a?r?s?n? etkinle?tirmeniz gerekip gerekmedi?ini unutmay?n.
+Documents;Документы;Belgeler
+Document’s serial number in the general list of documents. Used at account registration and opening of a trading account.;Порядковый номер документа в общем списке документов. Используется при регистрации учетной записи, открытии торгового счета.;Genel belge listesindeki belgenin seri numaras?. Hesap kayd?nda ve bir ticaret hesab?n?n a??l???nda kullan?l?r.
+Edit;Редактировать;D?zenle
+Enable;Включить;etkinle?tirme
+To include the payment currency, enter the wallet number;Для включения платежа по валюте введите номер кошелька;?deme para birimini eklemek i?in c?zdan numaras?n? girin
+English version;Английская версия;ingilizce versiyon
+Enter shop ID;Введите ID магазина;Ma?aza kimli?ini girin
+Enter file name;Введите имя файла;Dosya ad?n? girin
+Enter a numeric value less than {value} for {custom field}.;Введите числовое значение меньше {value}, для {custom field}.;{?zel alan} i?in {de?er} de?erinden k???k bir say?sal de?er girin.
+Enter a numeric value more than {value} for {custom field}.;Введите числовое значение больше {value}, для {custom field}.;{?zel alan} i?in {de?er} 'den b?y?k bir say?sal de?er girin.
+Enter a numeric value not less than {value} for {custom field}.;Введите числовое значение не меньше {value}, для {custom field}.;{?zel alan} i?in {de?er} 'den k???k olmayan bir say?sal de?er girin.
+For Translators;Переводчикам;?evirmenler i?in
+"For the payment method ""{payment_system}"", only one currency can be used";"Для платежного метода ""{payment_system}"" возможно использовать только одну валюту оплаты";{Payment_system} ?deme y?ntemi i?in yaln?zca bir para birimi kullan?labilir
+Account type on server;Тип счета на сервере;Sunucudaki hesap t?r?
+Group type;Тип группы;Grup t?r?
+Commercial block;Рекламный блок;Ticari blok
+Manually;Вручную;El ile
+Hidden;Скрытый;Gizli
+Host;Хост;Ev sahibi
+ID;;?D
+Uploaded logo doesn`t meet the requirements;Загруженный логотип не соответствует требованиям;Y?klenen logo gereksinimleri kar??lam?yor
+Payment system image;Изображение платежной системы;?deme sistemi resmi
+Information about transfer;Информация о переводе;Transfer ile ilgili bilgiler
+Information block situated at the bottom of the website pages above the Copyrights block (HTML format).;Информационный блок, расположенный в нижней части страницы сайта, над блоком Копирайты (формат HTML).;Telif haklar? blo?unun (HTML format?) ?zerindeki web sitesi sayfalar?n?n alt?nda yer alan bilgi blo?u.
+Information block situated at the bottom of the website pages.;Информационный блок, расположенный в нижней части страниц сайта.;Web sitesi sayfalar?n?n alt?nda yer alan bilgi blo?u.
+System document;Системный документ;Sistem belgesi
+Is the document being used when registering an account or opening a trading account;Используется ли документ при регистрации учетной записи или при открытии торгового счета;Belge bir hesap a?arken veya bir ticaret hesab? a?arken kullan?l?yor mu
+Language code;Идентификатор языка;Dil kodu
+Language;Язык;Dil
+"You should fill in ""{custom field}""";"Необходимо заполнить поле ""{custom field}""";{?zel alan} doldurmal?s?n?z
+Valid values for commission, % from 0 to 99.;Допустимые значения для комиссии, % от 0 до 99.;Komisyon i?in ge?erli de?erler,% 0'dan 99'a.
+Valid values for commission ({attribute}), % from 0 to 99.;Допустимые значения для комиссии ({attribute}), % от 0 до 99.;Komisyon i?in ge?erli de?erler ({?znitelik}),% 0 ile 99 aras?.
+Commission ($) must be not less than 0;Комиссия ($) должна быть не меньше 0.;Komisyon ($) 0'dan az olmamal?d?r
+Commission (%);Комиссия (%);Komisyon (%)
+Legal company address;Фактический адрес компании;Yasal ?irket adresi
+Limit for submission of requests by one trader.;Ограничение на подачу заявок одним трейдером.;Bir t?ccar taraf?ndan taleplerin sunulmas? i?in s?n?r.
+Limit for opening of orders by one trader.;Ограничение на открытие ордеров одним трейдером.;Bir t?ccar taraf?ndan emir a?ma limiti.
+Limit for opening of trading accounts by one trader.;Ограничение на открытие торговых счетов одним трейдером.;Bir t?ccar taraf?ndan ticaret hesaplar?n?n a??lmas? i?in limit.
+Link to a document;Ссылка на документ;Bir belgeye ba?lant?
+Logo;Логотип;Logo
+Logo for emails;Логотип для писем;E-postalar i?in logo
+Management;Управление;Y?netim
+Manager's payments;Платежи менеджера;Y?neticinin ?demeleri
+Max. amount ({currency});Макс. сумма ({currency});Maks. Alan say?s? Para birimi tutar?})
+Manager’s funds, necessary to publish the offer (master account).;Средства Управляющего, необходимые для публикации оферты (мастер счета).;Teklifi yay?nlamak i?in gerekli olan y?neticinin fonlar? (ana hesap).
+Maximum number of orders;Максимальное количество ордеров;Maksimum sipari? say?s?
+Min. amount ({currency});Мин. сумма ({currency});Min. Para birimi tutar?})
+Minimum deposit amount.;Минимальная сумма для инвестирования.;Minimum para yat?rma miktar?.
+Changed translation;Измененный перевод;?eviri de?i?tirildi
+Maximum number of groups is exceeded.;Превышено максимальное количество групп.;Maksimum grup say?s? a??ld?.
+Main settings;Общие настройки;Ana ayarlar
+Mobile transfers;Переводы на мобильный;Mobil aktar?mlar
+Module;Модуль;Mod?l
+Name;Название;?sim Soyisim
+Name of account type that will be displayed in the WebOffice;Название типа счета, которое будет отображаться в личном кабинете.;WebOffice'te g?r?nt?lenecek hesap t?r?n?n ad?
+Name of the payment system;Название платежной системы;?deme sisteminin ad?
+New request number;Номер новой заявки;Yeni istek numaras?
+Not translated;Непереведенные;?evrilmedi
+Note;Примечание;Not
+Notice of risks;Уведомление о рисках;Risk bildirimi
+Accounts / archive;Счета / архив;Hesaplar / ar?iv
+Off;Отключена;Kapal?
+On;Включена;A??k
+If active it will be possible to spend bonuses in the deals;Если активно, то на торговых счетах можно будет тратить бонусы в сделках;Etkinse, f?rsatlarda bonus harcamak m?mk?n olacak
+Display account types which are relevant to selected currency when opening an account;Отображать только те типы счетов, которые соответствуют выбранной валюте при открытии счета.;Bir hesap a?arken se?ilen para birimiyle alakal? hesap t?rlerini g?r?nt?leyin
+Options;Параметры;Se?enekler
+Options for withdrawal;Настройки для вывода средств;Para ?ekme se?enekleri
+Page not found;Страница не найдена;sayfa bulunamad?
+Passport download;Загрузка паспорта;Pasaport indirme
+Please, enter the way to the handler;Пожалуйста, введите путь к обработчику;L?tfen i?leyiciye giden yolu girin
+Please, enter description;Пожалуйста, введите описание;L?tfen a??klama girin
+Password;Пароль;Parola
+Password generation;Генерировать пароль;Parola olu?turma
+When registering traders, a password will be generated automatically and sent to them by mail.;При регистрации трейдеров пароль будет генерироваться автоматически и отсылаться им на почту.;Yat?r?mc?lar? kaydederken, otomatik olarak bir ?ifre olu?turulacak ve onlara posta ile g?nderilecektir.
+Payment method;Метод оплаты;?deme ?ekli
+Payment password;Платежный пароль;?deme ?ifresi
+Bank cards;Банковские карты;Banka kartlar?
+Port;Порт;Liman
+Possibility to create master accounts by traders;Возможность создания мастер счетов трейдерами.;T?ccarlar taraf?ndan ana hesap olu?turma imkan?
+Possibility to trasfer the existing trading account into master account, saving trading account history.;Возможность переводить существующий торговый счет в мастер счет, сохранив торговую историю счета.;Ticaret hesab? ge?mi?ini kaydederek mevcut ticaret hesab?n? ana hesaba aktarma imkan?.
+Privacy policy;Политика конфиденциальности;Gizlilik Politikas?
+ProInvestor;;Yat?r?mc?
+QiWi;;QiWi
+Quote server;Сервер котировок;Teklif sunucusu
+Save;Сохранить;Kay?t etmek
+Secret key;Секретный ключ;Gizli anahtar
+Secret Code;Секретный ключ;Gizli kod
+Separator;Разделитель;Ay?r?c?
+To limit session time;Ограничить время сессии;Oturum s?resini s?n?rlamak i?in
+Secret key for withdrawal;Секретный ключ для вывода;Para ?ekme i?in gizli anahtar
+Secret password;Секретный пароль;Gizli ?ifre
+Stop out value is too large. Max value is 100.;Значение Стоп-аут слишком большое. Максимальное значение 100.;Durdurma de?eri ?ok b?y?k. Maksimum de?er 100'd?r.
+Stop out value is too small. Min value is 1.;Значение Стоп-аут слишком маленькое. Минимальное значение 1.;Durdurma de?eri ?ok k???k. Minimum de?er 1'dir.
+The serial number of an existing server group. Group currency on the server must match the specified account type currency. For groups of MT4 and T4B, it is required to put name of group.;Порядковый номер существующей на сервере группы. Валюта группы на сервере должна совпадать с указанной валютой типа счета. Для групп из MT4 необходимо указать их название.;Mevcut bir sunucu grubunun seri numaras?. Sunucudaki grup para birimi, belirtilen hesap t?r? para birimiyle e?le?melidir. MT4 ve T4B gruplar? i?in, grup ad?n?n girilmesi gerekir.
+Serial number of the next request. Do not use a value smaller than the current one.;Порядковый номер следующей заявки. Не указывайте значение меньше текущего.;Sonraki talebin seri numaras?. Mevcut de?erden daha k???k bir de?er kullanmay?n.
+Server;Сервер;Sunucu
+Supported files type: .png;Поддерживаемый тип файлов: .png;Desteklenen dosya t?r?: .png
+Server where account type will be opened.;Сервер, на котором тип счета будет создан.;Hesap t?r?n?n a??laca?? sunucu.
+Settings;Настройки;Ayarlar
+Shop id;Id магазина;Ma?aza kimli?i
+Show bonuses;Показывать бонусы;Bonuslar? g?ster
+Supported files type: .pdf.;Поддерживаемый тип файлов: .pdf;Desteklenen dosya t?r?: .pdf.
+The file must not exceed 10 MB.;Файл не должен превышать 10 MB.;Dosya 10 MB'? ge?memelidir.
+The session will be closed when closing the browser. Also if there are no active actions during restriction time. The default time limit is set to 30 minutes.;Сессия будет закрываться при закрытии браузера, а так же, если не будет активных действий в течение времени ограничения. По умолчанию время ограничения устанавливается 30 минут.;Taray?c? kapat?l?rken oturum kapat?lacakt?r. Ayr?ca k?s?tlama s?resi boyunca aktif eylem yoksa. Varsay?lan zaman s?n?r? 30 dakikad?r.
+To prohibit funds withdrawal from investor accounts;Запретить вывод средств с инвесторских счетов;Yat?r?mc? hesaplar?ndan para ?ekilmesini yasaklamak i?in
+The prohibition possibility for traders to withdraw funds from investor's accounts;Возможность запрета трейдерам выводить средства с инвесторских счетов;T?ccarlar?n yat?r?mc? hesaplar?ndan para ?ekme yasa?? imkan?
+Shop ID withdrawal;id магазина для вывода;Ma?aza kimli?ini geri ?ekme
+Sort order;Порядок сортировки;S?ralama d?zeni
+Shop ID ({currency});ID Магазина ({currency});Ma?aza Kimli?i ({currency})
+Spend bonuses;Тратить бонусы;Bonus harcay?n
+Status;Статус;Durum
+Status Prof;Статус Prof;Durum Prof
+TM;ДУ;TM
+Test mode?;Тестовый режим?;Test modu?
+Content;Содержание;??erik
+The Commission must have numeric value;Комиссия должна иметь числовое значение;Komisyon say?sal de?ere sahip olmal?d?r
+To enable restrictions, you should add at least one range of allowed addresses;Для включения ограничений необходимо создать хотя бы один диапазон разрешенных адресов;K?s?tlamalar? etkinle?tirmek i?in en az bir izin verilen adres aral??? eklemelisiniz
+To display the field when creaing a request;Отображать поле при создании заявки;Bir talep olu?tururken alan? g?r?nt?lemek i?in
+The logo size should not exceed 38x38 pixels.;Размер логотипа не должен превышать 38x38 пикселей.;Logo boyutu 38x38 pikseli ge?memelidir.
+The logo for emails size should not exceed 115x115 pixels.;Размер логотипа не должен превышать 115x115 пикселей.;E-postalar?n logosu 115x115 pikseli ge?memelidir.
+The document has been successfully created;Документ был успешно создан;Belge ba?ar?yla olu?turuldu
+The document has been successfully deleted;Документ был успешно удален;Belge ba?ar?yla silindi
+The file is more than 5 MB. Please, upload a smaller one.;Файл весит более 5 мегабайт. Пожалуйста, загрузите файл меньших размеров.;Dosya 5 MB'den b?y?k. L?tfen daha k???k bir tane y?kleyin.
+Account type is not registered in the terminal;Тип счета не зарегистрирован в терминале;Hesap t?r? terminale kay?tl? de?il
+The account type in the terminal has a different currency;У типа счета в терминале другая валюта;Terminaldeki hesap t?r?n?n farkl? bir para birimi var
+The account type in the terminal is intended for demo accounts;Тип счета в терминале предназначен для демо-счетов;Terminaldeki hesap t?r?, demo hesaplar? i?in tasarlanm??t?r
+The account type in the terminal is not intended for demo accounts;Тип счета в терминале не предназначен для демо-счетов;Terminaldeki hesap t?r?, demo hesaplar? i?in tasarlanmam??t?r
+The maximum number of accounts;Максимальное количество счетов;Maksimum hesap say?s?
+The maximum number of requests;Максимальное количество заявок;Maksimum istek say?s?
+The payment system is not found;Платежная система не найдена;?deme sistemi bulunamad?
+This account type has been already registered in the system;Этот тип счета уже зарегистрирован в системе;Bu hesap t?r? sisteme zaten kay?tl?
+Terms of transfer;Сроки перевода;Transfer ?artlar?
+Prohibition trading;Запрет торговли;Yasak ticareti
+Trading permission on new accounts;Разрешение торговли на новых счетах;Yeni hesaplarda ticaret izni
+Trade server;Торговый сервер;Ticaret sunucusu
+Trading;Торговая;Ticaret
+Trading will be prohibited when opening ancount of this type. The restriction can be removed by the broker in the account settings in the manager terminal.;При открытии счета данного типа будет выставлен запрет на торговлю. Снять ограничение сможет брокер в настройках данного счета в менеджерском терминале.;Bu t?r bir hesap a?arken ticaret yapmak yasaklanacakt?r. K?s?tlama, y?netici terminalindeki hesap ayarlar?nda arac? taraf?ndan kald?r?labilir.
+Translated;Переведенные;?evrildi
+Trust management;Доверительное управление;G?ven y?netimi
+Type;Тип;T?r
+Upload;Загрузить;Y?kle
+Upload logo for emails;Загрузить логотип для писем;E-postalar i?in logo y?kleyin
+Use secure thirty-minute session.;Использовать тридцатиминутную защищенную сессию.;Otuz dakikal?k g?venli oturum kullan?n.
+Upload logo;Загрузить логотип;Logo y?kle
+User;Пользователь;Kullan?c?
+User name;Имя пользователя;Kullan?c? ad?
+WebOffice version;Версия личного кабинета;WebOffice s?r?m?
+WME;;WME
+WMR;;WMR
+WMZ;;WMZ
+Delay;Обработка;Gecikme
+Without default leverage;Нет плеча по умолчанию;Varsay?lan kald?ra? olmadan
+Work mode;Режим работы;?al??ma modu
+One can not delete accounts types that have linked accounts;Нельзя удалять типы счетов, у которых есть привязанные счета;Ba?l? hesaplar? olan hesap t?rleri silinemez
+One can not delete servers that have linked accounts types;Нельзя удалять серверы, у которых есть прикрепленные типы счетов;Ba?l? hesap t?rlerine sahip sunucular silinemez
+You entered incorrect data for connection to the server;Вы ввели неправильные данные для подключения к серверу;Sunucuyla ba?lant? i?in yanl?? veri girdiniz
+The logo you loaded is too large;Загруженный вами логотип слишком большой;Y?kledi?iniz logo ?ok b?y?k
+link;ссылке;ba?lant?
+ProInvestor activation;Активация ProInvestor.;ProInvestor aktivasyonu
+Partners program synchronization;Синхронизация с партнерской программой;Partner program? senkronizasyonu
+CRM active;Включить CRM;CRM etkin
+File is loaded;Файл загружен;Dosya y?klendi
+You can not delete system document;Вы не можете удалить системный документ;Sistem belgesini silemezsiniz
+If this option is active, the group will be hidden, and traders will not be able to see it.;Если этот параметр активен, группа будет скрыта от трейдеров.;Bu se?enek aktifse, grup gizlenecek ve t?ccarlar bunu g?remeyecek.
+You can not disconnect the language because you have to have at least one active language;Вы не можете отключить данный язык, потому что должен быть хотя бы один активный язык.;En az bir aktif dile sahip olman?z gerekti?inden dilin ba?lant?s?n? kesemezsiniz
+Closing of Investor accounts on the request;Закрытие инвесторских счетов по заявке;Yat?r?mc? hesaplar?n?n talep ?zerine kapat?lmas?
+The ability to close investor accounts on request;Возможность закрытия инвесторских счетов по заявке;Talep ?zerine yat?r?mc? hesaplar?n? kapatma imkan?
+Company website;Сайт компании;?irket Web Sitesi
+Link to your website, which will be displayed in the Trader's Room left menu. You can also go to the site by clicking on the logo on the authorization page. The URL must start with http:// or https://;Ссылка на ваш сайт, которая будет отображаться в левом меню Trader's Room. Также, на сайт можно перейти, щелкнув по логотипу на странице авторизации. URL должен начинаться с http:// или с https://;Yat?r?mc? Odas? sol men?s?nde g?r?nt?lenecek olan web sitenize ba?lant?. Yetkilendirme sayfas?ndaki logoya t?klayarak da siteye gidebilirsiniz. URL, http: // veya https: // ile ba?lamal?d?r
+Trader's Room settings;Настройки Trader's Room;Trader'?n Odas? ayarlar?
+Proceeding to terminal;Переход в терминал;Terminale ilerliyor
+Information block;Информационный блок;Bilgi blo?u
+Information block situated at the left menu of the Trader's Room. The block limit is 299x200 px;Информационный блок, расположенный в левом меню Trader's Room. Ограничение блока составляет 299x200 пикс.;??lemci Odas?n?n sol men?s?nde bulunan bilgi blo?u. Blok s?n?r? 299x200 pikseldir
+The button of proceeding from Trader's Room to terminal. The URL must start with http:// or https://;Укажите ссылку для кнопки перехода в терминал. Если поле оставить пустым, то кнопка перехода отображаться не будет. URL должен начинаться с http:// или https://;??lemci Odas?ndan terminale ilerleme d??mesi. URL, http: // veya https: // ile ba?lamal?d?r
+Personal manager;Личный менеджер;Personel M?d?r?
+Do not show;Не отображать;G?sterme
+Use CRM data;Использовать данные CRM;CRM verilerini kullan
+Fill in by hand;Заполнить вручную;El ile doldurun
+Block in the left Trader's Room menu, which contains the information about responsible manager;Блок в левом меню Trader's Room, содержащий информацию об ответственном менеджере;Sorumlu y?netici ile ilgili bilgileri i?eren sol Trader'?n Odas? men?s?nde blok
+Telephone;Номер телефона;Telefon
+Last name;Фамилия;Soyad?
+Job position;Должность;?? pozisyonu
+The avatar size should not exceed {size} pixels.;Размер аватара не должен превышать {size} пикселей.;Avatar boyutu {size} pikseli ge?memelidir.
+The avatar you loaded is too large;Загруженный вами аватар слишком большой;Y?kledi?iniz avatar ?ok b?y?k
+Upload avatar;Загрузить аватар;Avatar y?kle
+Avatar;Аватар;Avatar
+"For the method of payment ""{payment method}"" in the ""{custom field}"" enter a numeric value not less than {value}";"Для способа оплаты ""{payment method}"" в поле ""{custom field}"" введите числовое значение не менее {value}";"{?zel alan} alan?na ""{?deme y?ntemi}"" ?deme y?ntemi i?in {de?er} 'den k???k olmayan bir say?sal de?er girin"
+To use English documents;Использовать документы английского языка;?ngilizce belgeleri kullanmak i?in
+Logo of the payment system;Логотип платежной системы;?deme sisteminin logosu
+Supported files type: {type}.;Поддерживаемый тип файлов: {type}.;Desteklenen dosya t?r?: {type}.
+Minimal amount ({currency});Минимальная сумма ({currency});Minimum miktar ({currency})
+The file must not exceed {size}.;Файл не должен превышать {size}.;Dosya, {size} 'yi ge?memelidir.
+The logo size should not exceed 124x32 pixels.;Размер логотипа не должен превышать 124x32 пикселя.;Logo boyutu 124x32 pikseli ge?memelidir.
+Merchant ID;ID Магазина;T?ccar kimli?i
+If the parameter is active, the documents are used in English for this language.;Если параметр активен, то для данного языка используются документы английского языка.;Parametre etkinse, belgeler bu dil i?in ?ngilizce olarak kullan?l?r.
+Document replacement without removal;Замена документа без удаления;??karmadan belge de?i?tirme
+Minimal amount;Минимальная сумма;Minimum miktar
+Minimal transfer;Минимальная сумма перевода;Minimum transfer
+Minimal transfer ({currency});Минимальная сумма перевода ({currency});Minimum transfer ({currency})
+The image weight exceeds 10 MB.;Вес изображения превышает 10 MB.;G?r?nt? a??rl??? 10 MB'? a??yor.
+The image size exceeds 124x32 pixel;Размер изображения превышает 124x32 пикселя;G?r?nt? boyutu 124x32 pikseli a??yor
+The file has an invalid extension;Файл имеет недопустимое расширение;Dosyan?n ge?ersiz bir uzant?s? var
+The file weight exceeds 10 MB.;Вес файла превышает 10 MB.;Dosya a??rl??? 10 MB'? a??yor.
+The banner size should not exceed 890x156 pixels.;Размер баннера не должен превышать 890x156 пикселей.;Banner boyutu 890x156 pikseli ge?memelidir.
+Upload a banner;Загрузить баннер;Bir afi? y?kleyin
+Advertising banner for Trader's Room 2.0;Рекламный баннер для Trader’s Room 2.0;Trader's Room 2.0 i?in reklam afi?i
+Supported files type: jpg, jpeg, png, gif, svg.;Поддерживаемый тип файлов: jpg, jpeg, png, gif, svg.;Desteklenen dosya t?rleri: jpg, jpeg, png, gif, svg.
+Banner;Баннер;Afi?
+The image size exceeds 890x156 pixel;Размер изображения превышает 890x156 пикселя;G?r?nt? boyutu 890x156 pikseli a??yor
+You are trying to upload an invalid image format;Вы пытаетесь загрузить недопустимый формат изображения;Ge?ersiz bir resim format? y?klemeye ?al???yorsunuz
+Are you sure you want to delete this file?;Вы действительно хотите удалить этот файл?;Bu dosyay? silmek istedi?inizden emin misiniz?
+Something went wrong, please try again;Что-то пошло не так, попробуйте еще раз;Bir ?eyler ters gitti l?tfen tekrar deneyin
+The file was deleted successfully;Файл успешно удален;Dosya ba?ar?yla silindi
+SSL Private Key;Приватный ключ SSL;SSL ?zel Anahtar?
+SSL Public Key;Открытый ключ SSL;SSL Genel Anahtar?
+Status of the requests checking;Проверка статуса заявок;Taleplerin durumu kontrol ediliyor
+The adjustment is responsible for the planner launch. You need to point out in what period of time (hours) it's needed to check the status of requests. If the value is equal 0, there is no time limit.;Настройка отвечает за запуск планировщика. Необходимо указывать, за какой период времени (в часах) необходимо проверить статус заявок. При значении равном 0 ограничений по времени нет.;Ayarlama, planlay?c?n?n ba?lat?lmas?ndan sorumludur. ?steklerin durumunu kontrol etmek i?in hangi zaman diliminde (saat) gerekli oldu?unu belirtmeniz gerekir. De?er 0'a e?itse, zaman s?n?r? yoktur.
+"The values in the ""{attribute}"" field should not be negative and non integral.";"Значения в поле ""{attribute}"" не могут быть отрицательными и нецелыми числами.";{?znitelik} alan?ndaki de?erler negatif olmamal? ve integral olmamal?d?r.
+Without confirmation;Без подтверждения;Onay olmadan
+Account opening are disabled;Запрет на открытие счета;Hesap a?ma devre d??? b?rak?ld?
+Trading and funds withdrawal is disabled;Запрет на торговлю и вывод средств;Ticaret ve para ?ekme devre d??? b?rak?ld?
+If you select 'Without confirmation', the user confirmation is not required. The user is not able to open a live account until confirmation, or trading and funds withdrawal are not available depending on the selected option.;Если выбран параметр 'Без подтверждения', то подтверждение пользователя не требуется. В зависимости от выбранного параметра, пользователю до подтверждения недоступно открытие реального счета или недоступна только торговля и вывод средств.;'Onays?z'? se?erseniz, kullan?c? onay? gerekmez. Kullan?c?, onaylanana kadar ger?ek hesap a?amaz veya se?ilen se?ene?e ba?l? olarak al?m sat?m ve para ?ekme i?lemi yap?lamaz.
+User verification;Верификация пользователя;Kullan?c? do?rulama
+Internal operation;Внутренняя операция;Dahili operasyon
+Active;Активен;Aktif
+Inactive;Неактивен;Etkin de?il
+The file size exceeds {sizeLimit}.;Размер файла превышает {sizeLimit}.;Dosya boyutu {sizeLimit} de?erini a??yor.
+"""{field}"" must be a integer";"""{field}"" должен быть целым числом";{field} bir tam say? olmal?d?r
+A group of documents which requires the consent when registering the users;Группа документов, согласие с которыми требуется при регистрации пользователей;Kullan?c?lar? kaydederken onay gerektiren bir grup belge
+Account opening;Открытие счета;Hesap a?ma
+A group of documents which requires the consent when opening the accounts;Группа документов, согласие с которыми требуется при открытии счетов;Hesaplar? a?arken onay gerektiren bir grup belge
+At the bottom on all the pages;Внизу на всех страницах;T?m sayfalar?n en alt?nda
+Documents which are displayed at the bottom (footer) of each page. 2 documents is maximum.;Документы, которые отображаются в нижней части (футере) каждой страницы. Максимум 2 документа.;Her sayfan?n alt?nda (altbilgi) g?r?nt?lenen belgeler. 2 belge maksimumdur.
+Creation and connection of master account;Создание и подключение мастер-счета;Ana hesab?n olu?turulmas? ve ba?lanmas?
+A group of documents which requires the consent when creating and connecting master accounts;Группа документов, согласие с которыми требуется при создании и подключении мастер-счетов;Ana hesaplar? olu?tururken ve ba?larken onay gerektiren bir grup belge
+Investing in master account;Инвестирование в мастер-счет;Ana hesaba yat?r?m yapmak
+A group of documents which requires the consent when Investing in master account;Группа документов, согласие с которыми требуется при инвестировании в мастер-счета;Ana hesaba yat?r?m yaparken onay gerektiren bir grup belge
+Investing in fund account;Инвестирование в фондовый счет;Fon hesab?na yat?r?m yapmak
+A group of documents which requires the consent when Investing in fund account;Группа документов, согласие с которыми требуется при инвестировании в фондовые счета;Fon hesab?na yat?r?m yap?l?rken onay gerektiren bir grup belge
+The sequence number of the document;Порядковый номер документа;Belgenin s?ra numaras?
+"The parameter ""At the bottom on all the pages"" can be selected not more than two documents";"Параметр ""Внизу на всех страницах"" можно отметить не более чем у двух документов";T?m sayfalarda altta parametresi ikiden fazla belge se?ilemez
+The sort order can not be the same for the documents;"Параметр ""Порядок сортировки"" не может повторяться у документов";Belgeler i?in s?ralama d?zeni ayn? olamaz
+The sort order must be a positive integer;"Параметр ""Порядок сортировки"" должен быть положительным целым числом";S?ralama d?zeni, pozitif bir tam say? olmal?d?r
+If the document is active, it will be displayed in the list of documents for traders, as well as on the selected pages.;Если документ активен, то он будет отображаться в списке документов для трейдеров, а также на выбранных страницах.;Belge aktifse, t?ccarlar i?in belgeler listesinde ve se?ilen sayfalarda g?r?nt?lenecektir.
+To show all the banks;Показывать все банки;T?m bankalar? g?stermek i?in
+Agent code;Агентский код;Temsilci kodu
+Select method;Выберите метод;Y?ntem se?in
+Use English language settings;Использовать настройки английского языка;?ngilizce dil ayarlar?n? kullan
+If this option is active, the English language settings are used for this language.;Если параметр активен, то для данного языка используются настройки английского языка.;Bu se?enek etkinse, bu dil i?in ?ngilizce dil ayarlar? kullan?l?r.
+Payments group;Группа платежей;?demeler grubu
+Enter the name;Введите название;Ad? girin
+A group that combines several payment methods in the Trader`s Room.;Группа, которая объединяет несколько платежных методов в личном кабинете трейдера.;T?ccar Odas?nda ?e?itli ?deme y?ntemlerini birle?tiren bir grup.
+The name of the payment method that will be displayed to the trader.;Название метода оплаты, который будет отображаться для трейдера.;T?ccara g?sterilecek ?deme y?nteminin ad?.
+Method description;Описание метода;Y?ntem a??klamas?
+Enter description;Введите описание;A??klama girin
+A payment method description which trader will see in the Trader`s Room.;Описание метода оплаты, которое будет видеть трейдер в личном кабинете.;Yat?r?mc?n?n T?ccar?n Odas?nda g?rece?i bir ?deme y?ntemi a??klamas?.
+Group name;Название группы;Grup ismi
+Connected payment system for depositing and withdrawal of funds.;Подключенная платежная система, с помощью которой будет осуществляться ввод/вывод средств.;Para yat?rmak ve ?ekmek i?in ba?lant?l? ?deme sistemi.
+New group;Новая группа;Yeni Grup
+Are you sure you want to delete the payments group?;Вы действительно хотите удалить группу платежей?;?deme grubunu silmek istedi?inizden emin misiniz?
+Are you sure you want to delete the payment method?;Вы действительно хотите удалить платежный метод?;?deme y?ntemini silmek istedi?inizden emin misiniz?
+Payment system selection;Выбор платежной системы;?deme sistemi se?imi
+To add a new method;Добавить новый метод;Yeni bir y?ntem eklemek i?in
+Changes have been successfully saved;Изменения успешно сохранены;De?i?iklikler ba?ar?yla kaydedildi
+The file cannot be loaded. The image format must match the aspect ratio of 890x156 pixels.;Файл не может быть загружен. Формат изображения должен соответствовать соотношению сторон 890х156 пикселей.;Dosya y?klenemiyor. G?r?nt? format?, 890x156 piksellik en boy oran?yla e?le?melidir.
+The image exceeds the allowable size is {size} MB. Please upload a smaller image.;Изображение превышает допустимый размер {size} MB. Пожалуйста, загрузите изображение меньшего размера.;Resim, izin verilen boyutu a??yor: {size} MB. L?tfen daha k???k bir resim y?kleyin.
+Incorrect value of the payment system type. Possible values: in, out.;Неверное значение типа платежной системы. Возможные значения: in, out.;?deme sistemi t?r?n?n yanl?? de?eri. Olas? de?erler: giri?, ??k??.
+Do you want to save the changes?;Сохранить изменения?;De?i?iklikleri kaydetmek istiyor musunuz?
+Not save;Не сохранять;Koruyamamak
+File {exp}, no more than {mb};Файл {exp}, не более {mb};{Exp} dosyas?, en fazla {mb}
+Add payment system?;Добавить платежную систему?;?deme sistemi eklensin mi?
+Incorrect value of parameter;Некорректное значение параметра;Yanl?? parametre de?eri
+Confirmation of acceptance of each document;Подтверждение согласия с каждым документом;Her belgenin kabul edildi?inin teyidi
+Display the document consent checkbox next to each document when creating an account;Отображать чекбокс о согласии с документами рядом с каждым документом при создании учетной записи;Bir hesap olu?tururken her belgenin yan?ndaki belge izni onay kutusunu g?r?nt?leyin
+Link for banner;Ссылка для баннера;Banner ba?lant?s?
+Indicate a link for transfer while clicking on a banner. URL should be started from http:// or https://;Укажите ссылку для перехода при клике на баннер. URL должен начинаться с http:// или https://;Bir ba?l??a t?klarken aktar?m i?in bir ba?lant? belirtin. URL, http: // veya https: // ile ba?lat?lmal?d?r
+Name of company website;Название сайта компании;?irketin web sitesinin ad?
+Name of the link, that is indicated in the «Company’s website» adjustment to be displayed in the Trader’s Room left menu.;Название для ссылки, указанной в настройке «Сайт компании», которое будет отображаться в левом меню Trader's Room.;??lemcinin Odas? sol men?s?nde g?r?nt?lenecek «?irketin web sitesi» ayar?nda belirtilen ba?lant?n?n ad?.
+If this parameter is active, the account type will be hidden from traders.;Если этот параметр активен, тип счета будет скрыт от трейдеров;Bu parametre aktifse, hesap t?r? t?ccarlardan gizlenecektir.
+Continue;Продолжить;Devam et
+"After saving these changes, you will need to re-select the payment system for this payment method on the ""payment Methods"" settings page.";После сохранения данных изменений вам необходимо будет заново выбрать платежную систему для данного метода оплаты на странице настроек «Методы оплаты». ;"Bu de?i?iklikleri kaydettikten sonra, ""?deme Y?ntemleri"" ayarlar? sayfas?nda bu ?deme y?ntemi i?in ?deme sistemini yeniden se?meniz gerekecektir."
+"Incorrect ""{custom field}"" value";"Некорретное значение ""{custom field}""";"Yanl?? ""{?zel alan}"" de?eri"
+Specify letter state code;Укажите буквенный код штата;Harf durum kodunu belirtin
+Yandex Money;Яндекс Деньги;Yandex Money
+Wallet id;ID кошелька;C?zdan kimli?i
+Person id;ID личности;Ki?i kimli?i
+"Incorrect field ""{custom field}""";"Некорретное поле ""{custom field}""";"Yanl?? alan ""{?zel alan}"""
+"""{custom field}"" contains invalid characters";"""{custom field}"" содержит недопустимые символы";{?zel alan} ge?ersiz karakterler i?eriyor
+"For the method of payment ""{payment method}"" in the ""{custom field}"" enter a numeric value not less than {value}""";"Для способа оплаты ""{payment method}"" в поле ""{custom field}"" введите числовое значение не менее {value}";"{?zel alan} alan?na ""{?deme y?ntemi}"" ?deme y?ntemi i?in {de?er} 'den k???k olmayan bir say?sal de?er girin """
+First name;Имя;?sim
+Before adding a logo, one must save the payment method;Перед добавлением логотипа необходимо сохранить платежный метод;Bir logo eklemeden ?nce, ?deme y?ntemi kaydedilmelidir
+The file cannot be loaded. The image format must match the aspect ratio of {size} pixels;Файл не может быть загружен. Формат изображения должен соответствовать соотношению сторон {size} пикселей;Dosya y?klenemiyor. G?r?nt? bi?imi, {size} pikselin en boy oran?yla e?le?melidir
+Wallet address;Адрес кошелька;C?zdan adresi
+Wallet address {currency};Адрес кошелька {currency};C?zdan adresi {currency}
+API key;API ключ;API anahtar?
+Public key;Открытый ключ;Genel anahtar
+Withdrawal is disabled;Запрет на вывод средств;Para ?ekme devre d??? b?rak?ld?
+"The ""{custom_field}"" field can contain only Latin letters and numbers";"Поле ""{custom_field}"" может содержать только латинские буквы и цифры";{Custom_field} alan? yaln?zca Latin harfleri ve rakamlar? i?erebilir
+Checkout ID;ID кассы;?deme Kimli?i
+"You should select the allowed currencies for the ""{payment_system}"".";"Необходимо выбрать валюту для ""{payment_system}"".";{Payment_system} i?in izin verilen para birimlerini se?melisiniz.
+Enable master accounts;Включить мастер-счета;Ana hesaplar? etkinle?tirin
+Enable funds accounts;Включить фондовые счета;Fon hesaplar?n? etkinle?tirin
+Default currency;Валюта по умолчанию;Varsay?lan Para Birimi
+Currency to calculate the total data in the payment history (for new traders);Валюта для расчета итоговых данных в истории платежей (для новых трейдеров);?deme ge?mi?indeki toplam verileri hesaplamak i?in para birimi (yeni t?ccarlar i?in)
+Connection settings;Настройки подключения;Ba?lant? ayarlar?
+Mailing Service;Сервис рассылок;Posta Hizmeti
+Service responsible for sending text messages;Сервис, отвечающий за рассылку SMS сообщений;Metin mesajlar?n?n g?nderilmesinden sorumlu servis
+Unique code identifying you as a user of the mailing list service;Уникальный код, идентифицирующий вас как пользователя сервиса рассылок;Sizi posta listesi hizmetinin bir kullan?c?s? olarak tan?mlayan benzersiz kod
+Sender's name;Имя отправителя;G?nderenin ad?
+Value, mentioned in the request while registering sender's name;Значение, указанное в заявке при регистрации имени отправителя;G?nderenin ad? kaydedilirken talepte belirtilen de?er
+Enabled;Включено;Etkin
+Administrators - Login;Администраторы - Вход;Y?neticiler - Giri?
+Staff - Login;Персонал - Вход;Personel - Giri?
+Broker's web office;Кабинет брокера;Komisyoncunun web ofisi
+Administrative staff - Login;Сотрудники администрации - Вход;?dari personel - Giri?
+Sales manager - Login;Менеджеры по продажам - Вход;Sat?? m?d?r? - Giri?
+Activation of two-factor authentication;Активация двухфакторной аутентификации;?ki fakt?rl? kimlik do?rulaman?n etkinle?tirilmesi
+Disable automatically;Отключать автоматически;Otomatik olarak devre d??? b?rak
+If errors occur that prevent the confirmation code from being sent, authentication will be disabled after 5 minutes;При возникновении ошибок, препятствующих отправке кода подтверждения, аутентификация будет отключена через 5 минут;Onay kodunun g?nderilmesini engelleyen hatalar olu?ursa, kimlik do?rulama 5 dakika sonra devre d??? b?rak?l?r.
+Additionally;Дополнительно;bunlara ek olarak
+Text message template;Шаблон SMS;Metin mesaj? ?ablonu
+Text message with code. Formulate the message briefly to avoid creating additional messages;Текст SMS с кодом. Формулируйте сообщение кратко, чтобы избежать создания дополнительных SMS;Kodlu k?sa mesaj. Ek mesajlar olu?turmamak i?in mesaj? k?saca form?le edin
+Code number;Номер кода;Kod numaras?
+Help;Справка;Yard?m
+Information for users to solve confirmation problems;Информация пользователям по решению проблем с подтверждением;Kullan?c?lar?n onay problemlerini ??zmeleri i?in bilgiler
+"Invalid value. Check for ""confirmation Code"", ""code Number"" variables";Некорректное значение. Проверьте наличие переменных «Код подтверждения», «Номер кода»;"Ge?ersiz de?er. ""Onay Kodu"", ""Kod Numaras?"" de?i?kenlerini kontrol edin"
+Codes;Коды;Kodlar
+Commission (currency);Комиссия (валюта);Komisyon (para birimi)
+Domain API;API домена;Domain API
+Error with save plugin;Ошибка при сохранении сервиса расылок;Eklentiyi kaydetmede hata
+Incorrect api data;Некорретные данные api;Yanl?? api verileri
+Account depositing;Пополнение счета;Hesap yat?rma
+A group of documents which requires the consent when depositing the account;Группа документов, согласие с которыми требуется при пополнении счета;Hesab? yat?r?rken onay gerektiren bir grup belge
+A group of documents which requires the consent when withdrawing the funds;Группа документов, согласие с которыми требуется при снятии средств со счета;Para ?ekilirken onay gerektiren bir grup belge
+Currency conversion;Конвертация в валюту;Para birimi d?n??t?rme
+Recurrent payments;Рекуррентные платежи;Tekrarlayan ?demeler
+Bank cards (Yandex provider);Банковские карты (провайдер Яндекс);Banka kartlar? (Yandex sa?lay?c?s?)
+Bank cards (Qiwi provider);Банковские карты (провайдер Qiwi);Banka kartlar? (Qiwi sa?lay?c?)
+Payment method will be available in Mobile Web Terminal;Платежный метод будет доступен в Mobile Web Terminal;?deme y?ntemi Mobil Web Terminalinde sat??a sunulacak
+Hide leverage;Скрыть плечо;Kald?rac? gizle
+The account leverage information will not be displayed to the trader;Информация о кредитном плече счета не будет отображаться трейдеру;Hesap kald?ra? bilgileri t?ccar i?in g?sterilmeyecek
+Opening Master accounts on the request;Создание мастер-счетов по заявке;Talep ?zerine Ana hesaplar?n a??lmas?
+Disable automatic invoice creation;Отключить автоматическое создания счета;Otomatik fatura olu?turmay? devre d??? b?rak?n
+Payment system is off. Go to «Settings» to turn it on.;Платежная система выключена. Перейдите в «Настройки», чтобы ее включить.;?deme sistemi kapal?. A?mak i?in «Ayarlar» a gidin.
+Domain;Домен;Alan ad?
+A confirmation email of the opening of the master-account will be sent to the administrator’s email;Письмо с подтверждением создания мастер-счета будет приходить на почту администратора личного кабинета;Ana hesab?n a??ld???na dair bir onay e-postas? y?neticinin e-postas?na g?nderilecektir.
+Accounts will be automatically created after the client signs up in the Trader's Room;При регистрации пользователя в Trader's Room счета будут создаваться автоматически;M??teri Yat?r?mc? Odas?na kaydolduktan sonra hesaplar otomatik olarak olu?turulacakt?r.
+Create accounts while performing a registration;Создавать счета при регистрации;Kay?t yaparken hesap olu?turun
+Required documents;Необходимые документы;Gerekli belgeler
+Specify in the block the documents required for trader verification. This information will be displayed in the Trader's Room 'Verification' section.;Укажите в блоке документы необходимые для верификации трейдера. Эта информация отобразится в кабинете трейдера в разделе 'Верификация';T?ccar do?rulamas? i?in gerekli belgeleri blokta belirtin. Bu bilgi Yat?r?mc? Odas? 'Do?rulama' b?l?m?nde g?sterilecektir.
+Registration URL;URL регистрации;Kay?t URL'si
+Registration URL in Trader's Room. If specified, it will replace the standard URL.;URL для регистрации в кабинете трейдера. При указании заменит стандартный URL.;T?ccar?n Odas?ndaki Kay?t URL'si. Belirtilirse, standart URL'nin yerini alacakt?r.
+URL must be started with http:// or https://;URL должен начинаться с http:// или https://;URL, http: // veya https: // ile ba?lamal?d?r
+The size of the attached document exceeds {sizeLimit} MB;Размер прикрепляемого документа превышает {sizeLimit} Мб;Ekli dok?man?n boyutu {sizeLimit} MB'? a??yor
+Uploading files must not exceed {sizeLimit} MB;Загружаемые файлы не должны превышать {sizeLimit} Мб;Dosyalar?n y?klenmesi {sizeLimit} MB'yi ge?memelidir
+MarketCheese widgets;Виджеты MarketCheese;MarketCheese widget'lar?
+Display MarketCheese widgets in Trader's Room;Отображать виджеты MarketCheese в Trader's Room;T?ccar Odas?nda Peynir widget'lar?n? g?r?nt?le
+Main page and analytics;Главная и аналитика;Ana sayfa ve analiz
+Analytics;Аналитика;Analitik
+Main page;Главная;Ana Sayfa
+Display MarketCheese analytics in Trader’s Room ;Отображать аналитику MarketCheese в Trader's Room;Trader's Room'da peynir analizlerini sergileyin
+Enable analytics;Включить аналитику;Analiti?i etkinle?tirin
+Chart by symbol;График по символу;Sembole g?re grafik
+Symbol screener;Скринер символов;Sembol ay?r?c?
+Market watch;Состояние рынка;Piyasa izle
+Economic calendar;Экономический календарь;Ekonomik takvim
+Display MarketCheese analytics in Trader’s Room;Отображать аналитику MarketCheese в Trader's Room ;Trader's Room'da peynir analizlerini sergileyin
+Terminal operation mode;Режим работы терминала;Terminal ?al??ma modu
+Web Application;Веб-приложение;Web Uygulamas?
+On top of the page;Вверху страницы;Sayfan?n ?st?nde
+Go-to-the-terminal button;Кнопка перехода в терминал;Terminale git d??mesi
+Main menu;Главное меню;Ana men?
+Page in the Trader’s Room;Страница в Trader’s Room;T?ccar?n Odas?ndaki Sayfa
+Depending on the selected value, the button will be displayed in the header of the page or in the main menu of the Trader's Room.;В зависимости от выбранного значения кнопка будет отображаться в хедере страницы или в главном меню Trader’s Room.;Se?ilen de?ere ba?l? olarak, d??me sayfan?n ba?l???nda veya ??lemci Odas?'n?n ana men?s?nde g?r?nt?lenecektir.
+If Web application is selected, then the go-to-the- trading-terminal button will open the terminal outside the Trader’s Room. If Page in the Trader’s Room is selected, then the go-to-the- trading-terminal button will open the terminal inside the Trader’s Room.;Если выбрано “Веб-приложение”, то кнопка перехода в торговый терминал будет открывать терминал вне Trader’s Room. Если выбрано “Страница в Trader’s Room”, то кнопка перехода в торговый терминал будет открывать терминал внутри Trader’s Room.;Web uygulamas? se?ilirse, i?lem terminaline git d??mesi, Terminali ??lemcinin Odas?'n?n d???nda a?acakt?r. ??lemcinin Odas?ndaki Sayfa se?ilirse, i?lem terminaline git d??mesi, ??lemcinin Odas? i?indeki terminali a?ar.
+subject;;konu
+Оригинал;Перевод;
+You have no demo account, so the functionality is not available. You can register a new account or connect the existing one.;У вас нет демо счета, поэтому данный функционал пока не доступен. Вы можете {register} новый или {connect} существующий.;Demo hesab?n?z yok, bu nedenle i?levsellik mevcut de?il. Yeni bir hesap a?abilir veya mevcut olan? ba?layabilirsiniz.
+Currently functionality is not available;В данный момент функционал не доступен.;?u anda i?levsellik mevcut de?il
+Back to homepage;Вернуться на главную;ana sayfaya geri d?n
+Registration takes a few minutes and allow you to access your web office. The fields, marked*, are required.;Регистрация займет всего несколько минут и позволит вам получить доступ к личному кабинету. Поля, отмеченные *, обязательны для заполнения.;Kay?t birka? dakika s?rer ve web ofisinize eri?menizi sa?lar. * ?le i?aretli alanlar zorunludur.
+You have no opened accounts. You can {register} a new account or {connect} the existing one.;У вас нет открытых счетов. Вы можете {register} новый или {connect} существующий.;A??k hesab?n?z yok. Yeni bir hesap {kaydolabilir} veya mevcut olan? {ba?layabilirsiniz}.
+You need at least two accounts of one type on one of the connected servers. You can register a new account or connect the existing one.;Вам нужно как минимум два счета одного типа на одном из подключенных серверов. Вы можете {register} новый или {connect} существующий.;Ba?l? sunuculardan birinde tek t?rden en az iki hesaba ihtiyac?n?z var. Yeni bir hesap a?abilir veya mevcut olan? ba?layabilirsiniz.
+connect;подключить;ba?lanmak
+create;создать;olu?turmak
+register;зарегистрировать;Kay?t ol
+sysmess;;sysmess
+Оригинал;Перевод;
+Update available;;G?ncelleme uygun
+system;;sistem
+Оригинал;Перевод;
+Database requests;Запросов к базе данных;Veritaban? istekleri
+Requests execution time;Время выполнения запросов;Y?r?tme s?resi talep eder
+trading;;yat?r?m
+Оригинал;Перевод;
+Account;Счет;Hesap
+Account is not confirmed;Счет не подтвержден;Hesap onaylanmad?
+Attention!;Внимание!;Dikkat!
+Back to homepage;На главную;ana sayfaya geri d?n
+Equity;Средства;E?itlik
+Bonus balance;Бонусный баланс;Bonus bakiyesi
+Client agreement;Клиентское соглашение;M??teri s?zle?mesi
+Comments;Комментарии;Yorumlar (de?i?tir | kayna?? de?i?tir)
+Commission;Комиссия;komisyon
+Connect;Подключить;Ba?lan
+Open an account;Создать счет;Hesap a?
+Current price;Текущая цена;Mevcut fiyat
+Operation date;Дата операции;Operasyon tarihi
+Data is being updated;Данные обновляются;Veriler g?ncelleniyor
+Deals;Сделки;F?rsatlar
+Deposit operations;Депозитные операции;Para yat?rma i?lemleri
+Accounts limit is exceeded;Превышен лимит счетов;Hesap limiti a??ld?
+Free;Свободные;Bedava
+Can be withdrawn;Можно вывести;Geri ?ekilebilir
+Withdrawal on this currency is impossible;Вывод по данной валюте невозможен;Bu para biriminden para ?ekmek imkans?z
+Account type;Тип счета;Hesap tipi
+Pledge;Залог;Rehin
+I agree;Я согласен;kat?l?yorum
+Option deals {usd};Сделки по опционам: {usd};Se?enek anla?malar? {usd}
+Name;Название;?sim Soyisim
+Direction;Направление;Y?n
+Open date;Дата открытия;A??k tarih
+Close date;Дата закрытия;Yak?n tarih
+Payout;Выплаты;?deme
+Expiration date;Дата истечения;Son kullanma tarihi
+Maximum number of accounts is exceeded.;Превышено максимальное количество счетов.;Maksimum hesap say?s? a??ld?.
+Options {usd};Опционы: {usd};Se?enekler {usd}
+Options;Опционы;Se?enekler
+Open options;Открытые опционы;Se?enekleri a?
+Information;Информация;Bilgi
+Leverage;Плечо;Kald?ra?
+Leverage not found;Плечо не найдено;Kald?ra? bulunamad?
+No accounts available. Please, select another account.;Нет доступных счетов. Пожалуйста, выберите другой счет.;Kullan?labilir hesap yok. L?tfen ba?ka bir hesap se?in.
+No currency available. Please, select another currency.;Нет доступных валют. Пожалуйста, выберите другую валюту.;Para birimi yok. L?tfen ba?ka bir para birimi se?in.
+Notice of risks;Уведомление о рисках;Risk bildirimi
+Number;Номер;Numara
+On your mailbox;На ваш почтовый ящик;Posta kutunuzda
+A letter with an activation link has been sent to your email. To create the request click the link in the email.;На ваш почтовый ящик {mail} было отправлено письмо со ссылкой активации. Чтобы сформировать заявку, перейдите по ссылке, указанной в письме.;E-postan?za aktivasyon ba?lant?s? i?eren bir mektup g?nderildi. ?ste?i olu?turmak i?in e-postadaki ba?lant?ya t?klay?n.
+A letter with a password from your account has been sent to your email;На ваш почтовый ящик {mail} было отправлено письмо с паролем от вашего счета.;E-postan?za hesab?n?zdan ?ifre i?eren bir mektup g?nderildi
+Password;Пароль;Parola
+Pending orders;Отложенные ордера;Bekleyen sipari?ler
+Positions and options;Позиции и опционы;Pozisyonlar ve se?enekler
+Positions;Позиции;Pozisyonlar
+Close price;Цена закрытия;Kapan?? fiyat?
+Open price;Цена открытия;A??k fiyat
+Profit {usd};Прибыль: {usd};K?r {usd}
+Profit;Прибыль;Kar
+Select an account;Выберите счет;Bir hesap se?in
+Select currency;Выберите валюту;Para birimini se?in
+Sum;Сумма;Toplam
+Swap;Своп;Takas
+Symbol;Символ;Sembol
+The account has been already activated in the system;Счет уже подключен к системе;Hesap, sistemde zaten etkinle?tirildi
+The account is not registered in the terminal;Счет не зарегистрирован в терминале;Hesap terminale kay?tl? de?il
+The account is successfully registered in the system;Счет успешно зарегистрирован в системе.;Hesap ba?ar?yla sisteme kaydedildi
+This user is not trader;Данный пользователь не является трейдером;Bu kullan?c? t?ccar de?il
+To activate an account, click the {link};Для подключения счета перейдите по {link};Bir hesab? etkinle?tirmek i?in {link} t?klay?n
+To open an account you have to agree with Client Agreement;Для открытия счета вы должны согласиться с Клиентским Соглашением ;Bir hesap a?mak i?in M??teri S?zle?mesini kabul etmelisiniz
+To open an account you have to agree with Terms of Service;Для открытия счета вы должны согласиться с Условиями предоставления услуг;Bir hesap a?mak i?in Hizmet ?artlar?'n? kabul etmelisiniz
+To register an account, click {link};Для регистрации счета перейдите по {link};Bir hesap kaydetmek i?in {link} t?klay?n
+Type;Тип;T?r
+Volume;Объем;Ses
+Incorrect password;Неправильный пароль;yanl?? parola
+It is impossible to withdraw funds from the investor account;Невозможно вывести средства со счета инвестора;Yat?r?mc? hesab?ndan para ?ekmek imkans?zd?r
+You can not change your user type;Нельзя изменять свой тип пользователя;Kullan?c? tipinizi de?i?tiremezsiniz
+Your account is not confirmed. To confirm your account, please, enter full data and send your passport data. To enter the data click {link}.;Ваша учетная запись не подтверждена. Для подтверждения вашей учетной записи, пожалуйста, введите полную информацию и отправьте паспортные данные. Для ввода информации проследуйте по {link}.;Hesab?n?z onaylanmad?. Hesab?n?z? onaylamak i?in l?tfen t?m verileri girin ve pasaport bilgilerinizi g?nderin. Verileri girmek i?in {link} t?klay?n.
+Your passport data have been sent. Please, wait for confirmation.;Ваши паспортные данные отправлены. Пожалуйста, ждите подтверждения.;Pasaport verileriniz g?nderildi. L?tfen onay i?in bekleyin.
+a letter with an activation link has been sent. To complete the registration click the link in the email.;было отправлено письмо со ссылкой активации. Для завершения регистрации необходимо перейти по ссылке, указанной в письме.;aktivasyon ba?lant?s? i?eren bir mektup g?nderildi. Kayd? tamamlamak i?in e-postadaki ba?lant?ya t?klay?n.
+a letter with an activation link has been sent. To form the request click the link in the email.;было отправлено письмо со ссылкой активации. Чтобы сформировать заявку, перейдите по ссылке, указанной в письме.;aktivasyon ba?lant?s? i?eren bir mektup g?nderildi. Talebi olu?turmak i?in e-postadaki ba?lant?ya t?klay?n.
+a letter with an activation link has been sent. To activate the account click the link in the email.;было отправлено письмо со ссылкой активации. Для подключения счета необходимо перейти по ссылке, указанной в письме.;aktivasyon ba?lant?s? i?eren bir mektup g?nderildi. Hesab? etkinle?tirmek i?in e-postadaki ba?lant?ya t?klay?n.
+a letter with a password from your account has been sent;было отправлено письмо с паролем от вашего счета.;hesab?n?zdan ?ifre i?eren bir mektup g?nderildi
+Account does not exist;Счет не существует;Hesap mevcut de?il
+Incorrect account number selected;Выбран некорректный номер счета;Yanl?? hesap numaras? se?ildi
+users;;kullan?c?lar
+Оригинал;Перевод;
+Login;Логин;Oturum a?

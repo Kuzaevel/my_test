@@ -1,0 +1,130 @@
+partner;;ortak
+Оригинал;Перевод;
+Access;Доступ;Giri?
+Account number;Номер счета;Hesap numaras?
+Account type;Тип счета;Hesap tipi
+Accounts {usd};Счета: {usd};Hesaplar {usd}
+Added files;Добавленные файлы;Eklenen dosyalar
+Administration;Администрация;Y?netim (de?i?tir | kayna?? de?i?tir)
+All accounts;Все счета;B?t?n hesaplar
+All intervals;Все интервалы;T?m aral?klar
+Account approval;Подтверждение счета;Hesap onay?
+April;Апрель;Nisan
+Last message;Последнее сообщение;Son Mesaj
+August;Август;A?ustos
+Waiting for a response;Ожидание ответа;Cevap i?in bekleniyor
+Bonuses;Бонусы;Bonuslar
+All;Все;Her?ey
+Payment systems;Платежная система;?deme sistemleri
+Request type;Тип заявки;?stek T?r?
+Transaction date;Дата перевода;??lem Tarihi
+All systems;Все платежные системы;T?m sistemler
+Login;Логин;Oturum a?
+Consolid;Общий;Konsolidasyon
+With archive accounts;Вместе с архивными счетами;Ar?iv hesaplar? ile
+Key word;Ключевое слово;Anahtar kelime
+Search;Поиск;Arama
+Check to send the ticket to the archive.;Отметьте для отправки задачи в архив.;Bileti ar?ive g?ndermek i?in i?aretleyin.
+Close ticket;Закрыть обращение;Bileti kapat
+Closed by;Закрыто;Taraf?ndan kapat?ld?
+Create ticket;Создать обращение;Bilet olu?tur
+Theme of ticket;Тема обращения;Bilet temas?
+Current month;Текущий месяц;??inde bulundu?umuz ay
+Interval;Интервал;Aral?k
+New ticket;Новое обращение;Yeni bilet
+Start date;Дата открытия;Ba?lang?? ??tarihi
+Close Date;Дата закрытия;Yak?n tarih
+Deals;Сделки;F?rsatlar
+December;Декабрь;Aral?k
+Add reply;Введите ответ;Cevap ekle
+February;Февраль;?ubat
+Files;Файлы;Dosyalar
+Deposits {usd};Вводы: {usd};Mevduat {usd}
+Deposits;Вводы;Mevduat
+Date of adding;Дата добавления;Eklenme tarihi
+January;Январь;Ocak
+July;Июль;Temmuz
+June;Июнь;Haziran
+Lots {usd};Лоты: {usd};?ok {usd}
+Lots;Лоты;?ok
+None;Нет;Yok
+Manager;Менеджер;Y?netici
+March;Март;Mart
+May;Май;May?s
+Ticket;Обращение;Bilet
+Tickets archive;Архив обращений;Bilet ar?ivi
+Created;Создано;Olu?turuldu
+A year|years|years ago;год назад|года назад|лет назад;Bir y?l | y?l | y?l ?nce
+A month|months|months ago;месяц назад|месяца назад|месяцев назад;Bir ay | ay | ay ?nce
+A day|days|days ago;день назад|дня назад|дней назад;Bir g?n | g?n | g?n ?nce
+Today;Сегодня;Bug?n
+Today at;Сегодня в;Bug?nde
+Yesterday at;Вчера в;?nceki g?nde
+Ticket theme;Тема обращения;Bilet temas?
+My tickets;Мои обращения;Biletlerim
+Name;Имя;?sim Soyisim
+November;Ноябрь;Kas?m
+October;Октябрь;Ekim
+Only active;Только активные;Sadece aktif
+Opened tickets;Открытые обращения;A??lan biletler
+Withdrawals {usd};Выводы: {usd};Para ?ekme {usd}
+Withdrawals;Выводы;Para ?ekme
+Page not found;Страница не найдена;sayfa bulunamad?
+Affiliate;Партнер;Affiliate
+"A reply has been received  from the user ""{user}"" on the subject ""{subject}"".";"Получен ответ от пользователя ""{user}"" на тему ""{subject}"".";"{User} kullan?c?s?ndan ""{subject}"" konusunda bir yan?t al?nd?."
+"A reply has been received in the task ""{subject}"".";"Получен ответ в задаче ""{subject}"".";{Subject} g?revinde bir yan?t al?nd?.
+Registration date;Дата регистрации;Kay?t Tarihi
+A reply has been received;Ответ получен;Bir cevap al?nd?
+Report type;Тип отчета;Rapor tipi
+Role;Роль;Rol
+September;Сентябрь;Eyl?l
+Service desk;Сервис деск;Servis masas?
+Show;Показать;G?stermek
+"Subject of your ticket: ""{subject}"". Text: ""{message_text}"".";"Тема вашего обращения: ""{subject}"". Текст обращения: ""{message_text}"".";"Biletinizin konusu: ""{subject}"". Metin: ""{message_text}""."
+Summary;Сумма;?zet
+Text;Текст;Metin
+Period;Период;Periyot
+Make a report;Сформировать отчет;Bir rapor haz?rlay?n
+Date of last change;Дата последнего изменения;Son de?i?iklik tarihi
+Status;Статус;Durum
+Cancel;Отменить;?ptal etmek
+Formed;Сформирован;Olu?turulan
+In process;В обработке;??lemde
+Report generation;Формирование отчета;Rapor olu?turma
+"For re-count you should select the desired period and click ""Generate report"". When the report was formed, the status will be changed to ""Formed"". In one period report may be formed for 1-2 hours.";"Для пересчета данных выберете нужный период и нажмите ""Сформировать отчет"". По завершении формирования отчета статус сменится на ""Сформирован"". Отчет за один период может формироваться 1-2 часа.";"Yeniden say?m i?in istenen d?nemi se?meli ve ""Rapor olu?tur"" a t?klamal?s?n?z. Rapor olu?turuldu?unda, durum ""Olu?turuldu"" olarak de?i?tirilecektir. Bir d?nemde 1-2 saat rapor olu?turulabilir."
+The report may not have relevant data in connection with a feature of its work. Time delay is 1-2 hours.;Отчет может иметь неактуальные данные, в связи с особенностью его работы. Задержка по времени составляет 1-2 часа.;Rapor, ?al??mas?n?n bir ?zelli?i ile ba?lant?l? olarak ilgili verilere sahip olmayabilir. Zaman gecikmesi 1-2 saattir.
+Total;Общее;Toplam
+Trading accounts;Торговые счета;Ticaret hesaplar?
+Traders;Трейдеры;T?ccarlar
+User role;;Kullan?c? rol?
+User type;Тип пользователя;Kullan?c? tipi
+Without affiliate;Без партнера;Affiliate olmadan
+Year;Год;Y?l
+"You have received a reply from manager on the ticket ""{subject}"".";"Вы получили ответ от менеджера на обращение ""{subject}"".";{Subject} biletiyle ilgili y?neticiden bir yan?t ald?n?z.
+"You have sent a new message on the task ""{subject}"".";"Вы отправили новое сообщение по задаче ""{subject}"".";{Subject} g?reviyle ilgili yeni bir mesaj g?nderdiniz.
+Your account was not approved;Ваша учетная запись не подтверждена;Hesab?n?z onaylanmad?
+Your account was approved, now you can create live trading account.;Ваша учетная запись была подтверждена, теперь вы можете создать реальный торговый счет;Hesab?n?z onayland?, ?imdi canl? ticaret hesab? olu?turabilirsiniz.
+Your account was approved;Ваша учетная запись была подтверждена;Hesab?n?z onayland?
+Administrator didn't confirm your account. You can add new documents, or contact Administrator;Администратор не подтвердил вашу учетную запись. Вы можете добавить новые документы или связаться с администратором;Y?netici hesab?n?z? onaylamad?. Yeni belgeler ekleyebilir veya Y?netici ile ileti?ime ge?ebilirsiniz
+id;;?D
+In/Out {usd};Сумма: {usd};Giri? / ??k?? {usd}
+In/Out;Сумма;Giri? / ??k??
+Client Relations Department;Отдел по работе с клиентами;M??teri ?li?kileri Departman?
+Financial service;Финансовый отдел;Finansal servis
+Technical service;Технический отдел;Teknik servis
+Complaints department;Отдел претензий;?ikayet departman?
+Your new password;Ваш новый пароль;Yeni parolan?z
+Notification of request reopening;Уведомление о переоткрытии обращения;Talebin yeniden a??lmas?na ili?kin bildirim
+{client_name} reopened {subject} request;{client_name} переоткрыл обращение: {subject};{client_name}, {subject} iste?ini yeniden a?t?
+Yesterday;Вчера;D?n
+Reopen;Переоткрыть;Yeniden a?
+Ticket is closed;Обращение закрыто;Bilet kapand?
+Ticket is reopened;Обращение переоткрыто;Bilet yeniden a??ld?
+"Received a response from the user ""{user}"" to the subject ""{subject}"".";"Получен ответ от пользователя ""{user}"" на тему ""{subject}"".";"{User} kullan?c?s?ndan ""{subject}"" konusuna bir yan?t al?nd?."
+{user} has created a new ticket topic: {subject}. Message: {message_text};{user} создал новое обращение с темой: {subject}. Текст сообщения: {message_text};{user} yeni bir bilet konusu olu?turdu: {subject}. Mesaj: {message_text}
+New message in the ticket {user};Новое сообщение в обращении {user};{User} biletinde yeni mesaj
+{user} has created a new message in the ticket: {subject}. Message: {message_text};{user} создал новое сообщение в обращении: {subject}. Текст сообщения: {message_text};{user}, bilette yeni bir mesaj olu?turdu: {subject}. Mesaj: {message_text}
+Ticket text;Текст обращения;Bilet metni
+Type of partnership;Тип партнерства;Ortakl?k t?r?
+Percentage interest;Процент вознаграждения;Y?zde faiz
+Hold (days);Hold (дней);Beklet (g?nler)
